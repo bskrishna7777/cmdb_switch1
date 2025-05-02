@@ -361,7 +361,7 @@ elif st.session_state.main_active_tab == 1:
             PDF_FOLDER   = "GRN_UI"
             # PDF_FOLDER   = r"C:\Users\Deepak\Downloads\CMDB-ver-1.0\CMDB-ver-1.0\GRN_UI"
             OUTPUT_EXCEL = "GRN_Extracted_Output_V1.0(new2).xlsx"
-            REQUIRED_FIELDS = ["Manufacturer", "Serial Number", "item", "Model/Series", "GRN Number"]
+            REQUIRED_FIELDS = ["Manufacturer", "Serial Number", "Item", "Model/Series", "GRN Number"]
             # ──────────────────────────────────────────────────────────
              
             # st.set_page_config(page_title="GRN Extractor", layout="wide")
@@ -455,7 +455,7 @@ elif st.session_state.main_active_tab == 1:
                                 record = {
                                     "Manufacturer": manufacturer,
                                     "Serial Number": sn,
-                                    "item": item,
+                                    "Item": item,
                                     "Model/Series": model_series,
                                     "GRN Number": grn_number,
                                     "LineIndex": line_index,  # For sorting within the PDF
