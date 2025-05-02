@@ -8,3 +8,4 @@ cryptography
 plotly
 matplotlib
 python-levenshtein
+PyMuPDF
