@@ -1,0 +1,18 @@
+{
+  "Windows Server 2019 Standard": {
+    "standardized": "Windows Server 2019 Standard",
+    "confidence": 100.0
+  },
+  "Windows Server 2022 Std": {
+    "standardized": "Windows Server 2022 Standard",
+    "confidence": 95.0
+  },
+  "Win Srv 2022 Standard": {
+    "standardized": "Windows Server 2022 Standard",
+    "confidence": 90.0
+  },
+  "Windows Server 2022 Standard": {
+    "standardized": "Windows Server 2022 Standard",
+    "confidence": 100.0
+  }
+}

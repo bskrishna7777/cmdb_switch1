@@ -1,0 +1,2502 @@
+[
+    {
+        "row_index": 0,
+        "original_serial_number": "FOC2110X0A5",
+        "new_serial_number": "DOC2110X0A5"
+    },
+    {
+        "row_index": 1,
+        "original_serial_number": "FGL2532LRXX",
+        "new_serial_number": "DGL2532LRXX"
+    },
+    {
+        "row_index": 2,
+        "original_serial_number": "FGL2532LS23",
+        "new_serial_number": "DGL2532LS23"
+    },
+    {
+        "row_index": 3,
+        "original_serial_number": "FGL2533L5TL",
+        "new_serial_number": "DGL2533L5TL"
+    },
+    {
+        "row_index": 4,
+        "original_serial_number": "FGL2617LK17",
+        "new_serial_number": "DGL2617LK17"
+    },
+    {
+        "row_index": 5,
+        "original_serial_number": "FGL2532LS24_OLD",
+        "new_serial_number": "DGL2532LS24_OLD"
+    },
+    {
+        "row_index": 6,
+        "original_serial_number": "FGL2532LS25",
+        "new_serial_number": "DGL2532LS25"
+    },
+    {
+        "row_index": 7,
+        "original_serial_number": "FGL2532LS24",
+        "new_serial_number": "DGL2532LS24"
+    },
+    {
+        "row_index": 8,
+        "original_serial_number": "FJC25081E92_OLD",
+        "new_serial_number": "DJC25081E92_OLD"
+    },
+    {
+        "row_index": 9,
+        "original_serial_number": "FJC25081E92",
+        "new_serial_number": "DJC25081E92"
+    },
+    {
+        "row_index": 10,
+        "original_serial_number": "FGL2508LHP6",
+        "new_serial_number": "DGL2508LHP6"
+    },
+    {
+        "row_index": 11,
+        "original_serial_number": "FGL2508LHP4",
+        "new_serial_number": "DGL2508LHP4"
+    },
+    {
+        "row_index": 12,
+        "original_serial_number": "FGL2503L2A3",
+        "new_serial_number": "DGL2503L2A3"
+    },
+    {
+        "row_index": 13,
+        "original_serial_number": "FGL2505L8MP",
+        "new_serial_number": "DGL2505L8MP"
+    },
+    {
+        "row_index": 14,
+        "original_serial_number": "FGL2508LHHC",
+        "new_serial_number": "DGL2508LHHC"
+    },
+    {
+        "row_index": 15,
+        "original_serial_number": "FGL2508LHGM",
+        "new_serial_number": "DGL2508LHGM"
+    },
+    {
+        "row_index": 16,
+        "original_serial_number": "FGL2508LHGN_old",
+        "new_serial_number": "DGL2508LHGN_old"
+    },
+    {
+        "row_index": 17,
+        "original_serial_number": "FGL2508LHGP",
+        "new_serial_number": "DGL2508LHGP"
+    },
+    {
+        "row_index": 18,
+        "original_serial_number": "FGL2508LHP5",
+        "new_serial_number": "DGL2508LHP5"
+    },
+    {
+        "row_index": 19,
+        "original_serial_number": "FGL2507L72A",
+        "new_serial_number": "DGL2507L72A"
+    },
+    {
+        "row_index": 20,
+        "original_serial_number": "FGL2507L728",
+        "new_serial_number": "DGL2507L728"
+    },
+    {
+        "row_index": 21,
+        "original_serial_number": "FGL2508LHHB",
+        "new_serial_number": "DGL2508LHHB"
+    },
+    {
+        "row_index": 22,
+        "original_serial_number": "FGL2508LHH9",
+        "new_serial_number": "DGL2508LHH9"
+    },
+    {
+        "row_index": 23,
+        "original_serial_number": "FGL2508LHGQ",
+        "new_serial_number": "DGL2508LHGQ"
+    },
+    {
+        "row_index": 24,
+        "original_serial_number": "FLM2652124W",
+        "new_serial_number": "DLM2652124W"
+    },
+    {
+        "row_index": 25,
+        "original_serial_number": "FLM27261304",
+        "new_serial_number": "DLM27261304"
+    },
+    {
+        "row_index": 26,
+        "original_serial_number": "FGL2631LC94",
+        "new_serial_number": "DGL2631LC94"
+    },
+    {
+        "row_index": 27,
+        "original_serial_number": "FGL2508LHGN",
+        "new_serial_number": "DGL2508LHGN"
+    },
+    {
+        "row_index": 28,
+        "original_serial_number": "FGL2530LTAA",
+        "new_serial_number": "DGL2530LTAA"
+    },
+    {
+        "row_index": 29,
+        "original_serial_number": "FGL2527LE5J",
+        "new_serial_number": "DGL2527LE5J"
+    },
+    {
+        "row_index": 30,
+        "original_serial_number": "FGL2527LE5T",
+        "new_serial_number": "DGL2527LE5T"
+    },
+    {
+        "row_index": 31,
+        "original_serial_number": "FGL2530LUNN",
+        "new_serial_number": "DGL2530LUNN"
+    },
+    {
+        "row_index": 32,
+        "original_serial_number": "FGL2530LULX",
+        "new_serial_number": "DGL2530LULX"
+    },
+    {
+        "row_index": 33,
+        "original_serial_number": "FGL2530LUMD_OLD",
+        "new_serial_number": "DGL2530LUMD_OLD"
+    },
+    {
+        "row_index": 34,
+        "original_serial_number": "FGL2527LEAA",
+        "new_serial_number": "DGL2527LEAA"
+    },
+    {
+        "row_index": 35,
+        "original_serial_number": "FGL2530LUN7",
+        "new_serial_number": "DGL2530LUN7"
+    },
+    {
+        "row_index": 36,
+        "original_serial_number": "FGL2530LUM4",
+        "new_serial_number": "DGL2530LUM4"
+    },
+    {
+        "row_index": 37,
+        "original_serial_number": "FGL2530LUMZ_old",
+        "new_serial_number": "DGL2530LUMZ_old"
+    },
+    {
+        "row_index": 38,
+        "original_serial_number": "FGL2530LUNJ",
+        "new_serial_number": "DGL2530LUNJ"
+    },
+    {
+        "row_index": 39,
+        "original_serial_number": "FGL2524LBR8",
+        "new_serial_number": "DGL2524LBR8"
+    },
+    {
+        "row_index": 40,
+        "original_serial_number": "FGL2543L3DF",
+        "new_serial_number": "DGL2543L3DF"
+    },
+    {
+        "row_index": 41,
+        "original_serial_number": "FGL2530LTA8",
+        "new_serial_number": "DGL2530LTA8"
+    },
+    {
+        "row_index": 42,
+        "original_serial_number": "FGL2539L8GV",
+        "new_serial_number": "DGL2539L8GV"
+    },
+    {
+        "row_index": 43,
+        "original_serial_number": "FGL2530LUMD",
+        "new_serial_number": "DGL2530LUMD"
+    },
+    {
+        "row_index": 44,
+        "original_serial_number": "FGL2530LUMZ",
+        "new_serial_number": "DGL2530LUMZ"
+    },
+    {
+        "row_index": 45,
+        "original_serial_number": "FGL2532LLBB",
+        "new_serial_number": "DGL2532LLBB"
+    },
+    {
+        "row_index": 46,
+        "original_serial_number": "FGL2531MCD4",
+        "new_serial_number": "DGL2531MCD4"
+    },
+    {
+        "row_index": 47,
+        "original_serial_number": "FGL2532LRXZ",
+        "new_serial_number": "DGL2532LRXZ"
+    },
+    {
+        "row_index": 48,
+        "original_serial_number": "FGL2531MCFF",
+        "new_serial_number": "DGL2531MCFF"
+    },
+    {
+        "row_index": 49,
+        "original_serial_number": "FGL2532LRXS",
+        "new_serial_number": "DGL2532LRXS"
+    },
+    {
+        "row_index": 50,
+        "original_serial_number": "FGL2531ME04",
+        "new_serial_number": "DGL2531ME04"
+    },
+    {
+        "row_index": 51,
+        "original_serial_number": "FGL2524LBQA",
+        "new_serial_number": "DGL2524LBQA"
+    },
+    {
+        "row_index": 52,
+        "original_serial_number": "FGL2508LHHJ",
+        "new_serial_number": "DGL2508LHHJ"
+    },
+    {
+        "row_index": 53,
+        "original_serial_number": "FGL2543L12C",
+        "new_serial_number": "DGL2543L12C"
+    },
+    {
+        "row_index": 54,
+        "original_serial_number": "FGL2533L607",
+        "new_serial_number": "DGL2533L607"
+    },
+    {
+        "row_index": 55,
+        "original_serial_number": "FGL2533L603",
+        "new_serial_number": "DGL2533L603"
+    },
+    {
+        "row_index": 56,
+        "original_serial_number": "FGL2533L601",
+        "new_serial_number": "DGL2533L601"
+    },
+    {
+        "row_index": 57,
+        "original_serial_number": "FGL2533L60G",
+        "new_serial_number": "DGL2533L60G"
+    },
+    {
+        "row_index": 58,
+        "original_serial_number": "FGL2533L60M",
+        "new_serial_number": "DGL2533L60M"
+    },
+    {
+        "row_index": 59,
+        "original_serial_number": "FI79741514",
+        "new_serial_number": "DI79741514"
+    },
+    {
+        "row_index": 60,
+        "original_serial_number": "FGL2533L604",
+        "new_serial_number": "DGL2533L604"
+    },
+    {
+        "row_index": 61,
+        "original_serial_number": "FGL2533L600",
+        "new_serial_number": "DGL2533L600"
+    },
+    {
+        "row_index": 62,
+        "original_serial_number": "FGL2533L60S",
+        "new_serial_number": "DGL2533L60S"
+    },
+    {
+        "row_index": 63,
+        "original_serial_number": "FGL2533L60A",
+        "new_serial_number": "DGL2533L60A"
+    },
+    {
+        "row_index": 64,
+        "original_serial_number": "FGL2526LA62",
+        "new_serial_number": "DGL2526LA62"
+    },
+    {
+        "row_index": 65,
+        "original_serial_number": "FGL2533L60N_OLD",
+        "new_serial_number": "DGL2533L60N_OLD"
+    },
+    {
+        "row_index": 66,
+        "original_serial_number": "FGL2533L60L",
+        "new_serial_number": "DGL2533L60L"
+    },
+    {
+        "row_index": 67,
+        "original_serial_number": "FGL2533L609",
+        "new_serial_number": "DGL2533L609"
+    },
+    {
+        "row_index": 68,
+        "original_serial_number": "FGL2533L60F",
+        "new_serial_number": "DGL2533L60F"
+    },
+    {
+        "row_index": 69,
+        "original_serial_number": "FGL2533L60C",
+        "new_serial_number": "DGL2533L60C"
+    },
+    {
+        "row_index": 70,
+        "original_serial_number": "FGL2533L60N",
+        "new_serial_number": "DGL2533L60N"
+    },
+    {
+        "row_index": 71,
+        "original_serial_number": "FGL2533L606",
+        "new_serial_number": "DGL2533L606"
+    },
+    {
+        "row_index": 72,
+        "original_serial_number": "FGL2533L60E",
+        "new_serial_number": "DGL2533L60E"
+    },
+    {
+        "row_index": 73,
+        "original_serial_number": "FGL2533L60R",
+        "new_serial_number": "DGL2533L60R"
+    },
+    {
+        "row_index": 74,
+        "original_serial_number": "FGL2533L608",
+        "new_serial_number": "DGL2533L608"
+    },
+    {
+        "row_index": 75,
+        "original_serial_number": "FGL2533L60J",
+        "new_serial_number": "DGL2533L60J"
+    },
+    {
+        "row_index": 76,
+        "original_serial_number": "FGL2533LCMV",
+        "new_serial_number": "DGL2533LCMV"
+    },
+    {
+        "row_index": 77,
+        "original_serial_number": "FGL2533L602",
+        "new_serial_number": "DGL2533L602"
+    },
+    {
+        "row_index": 78,
+        "original_serial_number": "FGL2533L60U",
+        "new_serial_number": "DGL2533L60U"
+    },
+    {
+        "row_index": 79,
+        "original_serial_number": "FGL2533L60Q",
+        "new_serial_number": "DGL2533L60Q"
+    },
+    {
+        "row_index": 80,
+        "original_serial_number": "FGL2533L5ZZ",
+        "new_serial_number": "DGL2533L5ZZ"
+    },
+    {
+        "row_index": 81,
+        "original_serial_number": "FGL2527LGTU",
+        "new_serial_number": "DGL2527LGTU"
+    },
+    {
+        "row_index": 82,
+        "original_serial_number": "FJC260912L0",
+        "new_serial_number": "DJC260912L0"
+    },
+    {
+        "row_index": 83,
+        "original_serial_number": "FJC260912LK",
+        "new_serial_number": "DJC260912LK"
+    },
+    {
+        "row_index": 84,
+        "original_serial_number": "FJC260912KV",
+        "new_serial_number": "DJC260912KV"
+    },
+    {
+        "row_index": 85,
+        "original_serial_number": "FJC260813SZ",
+        "new_serial_number": "DJC260813SZ"
+    },
+    {
+        "row_index": 86,
+        "original_serial_number": "FJC260912KT",
+        "new_serial_number": "DJC260912KT"
+    },
+    {
+        "row_index": 87,
+        "original_serial_number": "FJC260813T0",
+        "new_serial_number": "DJC260813T0"
+    },
+    {
+        "row_index": 88,
+        "original_serial_number": "FJC26051QQ8",
+        "new_serial_number": "DJC26051QQ8"
+    },
+    {
+        "row_index": 89,
+        "original_serial_number": "FJC260912LW",
+        "new_serial_number": "DJC260912LW"
+    },
+    {
+        "row_index": 90,
+        "original_serial_number": "FJC260912LB",
+        "new_serial_number": "DJC260912LB"
+    },
+    {
+        "row_index": 91,
+        "original_serial_number": "FJC260912LS",
+        "new_serial_number": "DJC260912LS"
+    },
+    {
+        "row_index": 92,
+        "original_serial_number": "FJC26051QJY",
+        "new_serial_number": "DJC26051QJY"
+    },
+    {
+        "row_index": 93,
+        "original_serial_number": "FGL2531ME89",
+        "new_serial_number": "DGL2531ME89"
+    },
+    {
+        "row_index": 94,
+        "original_serial_number": "FJC253417RC",
+        "new_serial_number": "DJC253417RC"
+    },
+    {
+        "row_index": 95,
+        "original_serial_number": "FJC26061CXG",
+        "new_serial_number": "DJC26061CXG"
+    },
+    {
+        "row_index": 96,
+        "original_serial_number": "FTX1839AK6V",
+        "new_serial_number": "DTX1839AK6V"
+    },
+    {
+        "row_index": 97,
+        "original_serial_number": "FTX1650A068",
+        "new_serial_number": "DTX1650A068"
+    },
+    {
+        "row_index": 98,
+        "original_serial_number": "FTX164980AB",
+        "new_serial_number": "DTX164980AB"
+    },
+    {
+        "row_index": 99,
+        "original_serial_number": "FTX1747864Q",
+        "new_serial_number": "DTX1747864Q"
+    },
+    {
+        "row_index": 100,
+        "original_serial_number": "FGL2530LUQJ",
+        "new_serial_number": "DGL2530LUQJ"
+    },
+    {
+        "row_index": 101,
+        "original_serial_number": "FGL2533L38G",
+        "new_serial_number": "DGL2533L38G"
+    },
+    {
+        "row_index": 102,
+        "original_serial_number": "FGL2533L38D",
+        "new_serial_number": "DGL2533L38D"
+    },
+    {
+        "row_index": 103,
+        "original_serial_number": "FGL2517LNT4",
+        "new_serial_number": "DGL2517LNT4"
+    },
+    {
+        "row_index": 104,
+        "original_serial_number": "FGL2532LS0K",
+        "new_serial_number": "DGL2532LS0K"
+    },
+    {
+        "row_index": 105,
+        "original_serial_number": "FGL2530LUD6",
+        "new_serial_number": "DGL2530LUD6"
+    },
+    {
+        "row_index": 106,
+        "original_serial_number": "FGL2532LS07",
+        "new_serial_number": "DGL2532LS07"
+    },
+    {
+        "row_index": 107,
+        "original_serial_number": "FGL2532LS09",
+        "new_serial_number": "DGL2532LS09"
+    },
+    {
+        "row_index": 108,
+        "original_serial_number": "FGL2530LUBE",
+        "new_serial_number": "DGL2530LUBE"
+    },
+    {
+        "row_index": 109,
+        "original_serial_number": "FGL2530LURC",
+        "new_serial_number": "DGL2530LURC"
+    },
+    {
+        "row_index": 110,
+        "original_serial_number": "FGL2530LUQS",
+        "new_serial_number": "DGL2530LUQS"
+    },
+    {
+        "row_index": 111,
+        "original_serial_number": "FGL2531MCHT",
+        "new_serial_number": "DGL2531MCHT"
+    },
+    {
+        "row_index": 112,
+        "original_serial_number": "FGL1817121U",
+        "new_serial_number": "DGL1817121U"
+    },
+    {
+        "row_index": 113,
+        "original_serial_number": "FDO2325A13B",
+        "new_serial_number": "DDO2325A13B"
+    },
+    {
+        "row_index": 114,
+        "original_serial_number": "FDO2206A25B",
+        "new_serial_number": "DDO2206A25B"
+    },
+    {
+        "row_index": 115,
+        "original_serial_number": "FGL2349LF6T",
+        "new_serial_number": "DGL2349LF6T"
+    },
+    {
+        "row_index": 116,
+        "original_serial_number": "FJC26121FWZ_OLD",
+        "new_serial_number": "DJC26121FWZ_OLD"
+    },
+    {
+        "row_index": 117,
+        "original_serial_number": "FJC261912W4",
+        "new_serial_number": "DJC261912W4"
+    },
+    {
+        "row_index": 118,
+        "original_serial_number": "FJC26121FWN",
+        "new_serial_number": "DJC26121FWN"
+    },
+    {
+        "row_index": 119,
+        "original_serial_number": "FJC26121FWZ",
+        "new_serial_number": "DJC26121FWZ"
+    },
+    {
+        "row_index": 120,
+        "original_serial_number": "FGL2536L67Z",
+        "new_serial_number": "DGL2536L67Z"
+    },
+    {
+        "row_index": 121,
+        "original_serial_number": "FGL2604L8Y0",
+        "new_serial_number": "DGL2604L8Y0"
+    },
+    {
+        "row_index": 122,
+        "original_serial_number": "FGL2537L0RT",
+        "new_serial_number": "DGL2537L0RT"
+    },
+    {
+        "row_index": 123,
+        "original_serial_number": "FGL2604L946",
+        "new_serial_number": "DGL2604L946"
+    },
+    {
+        "row_index": 124,
+        "original_serial_number": "FGL2604L93Y",
+        "new_serial_number": "DGL2604L93Y"
+    },
+    {
+        "row_index": 125,
+        "original_serial_number": "FGL2536L67A",
+        "new_serial_number": "DGL2536L67A"
+    },
+    {
+        "row_index": 126,
+        "original_serial_number": "FGL2604L9JN",
+        "new_serial_number": "DGL2604L9JN"
+    },
+    {
+        "row_index": 127,
+        "original_serial_number": "FGL2617LJK5",
+        "new_serial_number": "DGL2617LJK5"
+    },
+    {
+        "row_index": 128,
+        "original_serial_number": "FGL2617LJKE",
+        "new_serial_number": "DGL2617LJKE"
+    },
+    {
+        "row_index": 129,
+        "original_serial_number": "FGL2604L9LG",
+        "new_serial_number": "DGL2604L9LG"
+    },
+    {
+        "row_index": 130,
+        "original_serial_number": "FGL2539L8F5",
+        "new_serial_number": "DGL2539L8F5"
+    },
+    {
+        "row_index": 131,
+        "original_serial_number": "FGL2604L8SU",
+        "new_serial_number": "DGL2604L8SU"
+    },
+    {
+        "row_index": 132,
+        "original_serial_number": "FGL2536L66R",
+        "new_serial_number": "DGL2536L66R"
+    },
+    {
+        "row_index": 133,
+        "original_serial_number": "FGL2604L941",
+        "new_serial_number": "DGL2604L941"
+    },
+    {
+        "row_index": 134,
+        "original_serial_number": "FGL2604L9LR_OLD",
+        "new_serial_number": "DGL2604L9LR_OLD"
+    },
+    {
+        "row_index": 135,
+        "original_serial_number": "FGL2536L683",
+        "new_serial_number": "DGL2536L683"
+    },
+    {
+        "row_index": 136,
+        "original_serial_number": "FGL2604L90W",
+        "new_serial_number": "DGL2604L90W"
+    },
+    {
+        "row_index": 137,
+        "original_serial_number": "FGL2604L95M_OLD",
+        "new_serial_number": "DGL2604L95M_OLD"
+    },
+    {
+        "row_index": 138,
+        "original_serial_number": "FGL2604L9L7",
+        "new_serial_number": "DGL2604L9L7"
+    },
+    {
+        "row_index": 139,
+        "original_serial_number": "FGL2604L93A",
+        "new_serial_number": "DGL2604L93A"
+    },
+    {
+        "row_index": 140,
+        "original_serial_number": "FGL2604L8SL",
+        "new_serial_number": "DGL2604L8SL"
+    },
+    {
+        "row_index": 141,
+        "original_serial_number": "FGL2604L90L",
+        "new_serial_number": "DGL2604L90L"
+    },
+    {
+        "row_index": 142,
+        "original_serial_number": "FGL2537L0S0",
+        "new_serial_number": "DGL2537L0S0"
+    },
+    {
+        "row_index": 143,
+        "original_serial_number": "FGL2604L93P",
+        "new_serial_number": "DGL2604L93P"
+    },
+    {
+        "row_index": 144,
+        "original_serial_number": "FGL2536L688",
+        "new_serial_number": "DGL2536L688"
+    },
+    {
+        "row_index": 145,
+        "original_serial_number": "FGL2539L8JV",
+        "new_serial_number": "DGL2539L8JV"
+    },
+    {
+        "row_index": 146,
+        "original_serial_number": "FGL2604L920",
+        "new_serial_number": "DGL2604L920"
+    },
+    {
+        "row_index": 147,
+        "original_serial_number": "FGL2604L94B",
+        "new_serial_number": "DGL2604L94B"
+    },
+    {
+        "row_index": 148,
+        "original_serial_number": "FGL2537L0RW",
+        "new_serial_number": "DGL2537L0RW"
+    },
+    {
+        "row_index": 149,
+        "original_serial_number": "FGL2604L9JV",
+        "new_serial_number": "DGL2604L9JV"
+    },
+    {
+        "row_index": 150,
+        "original_serial_number": "FGL2604L93G",
+        "new_serial_number": "DGL2604L93G"
+    },
+    {
+        "row_index": 151,
+        "original_serial_number": "FGL2604L91Q",
+        "new_serial_number": "DGL2604L91Q"
+    },
+    {
+        "row_index": 152,
+        "original_serial_number": "FGL2604L8TH",
+        "new_serial_number": "DGL2604L8TH"
+    },
+    {
+        "row_index": 153,
+        "original_serial_number": "FGL2539L8J0",
+        "new_serial_number": "DGL2539L8J0"
+    },
+    {
+        "row_index": 154,
+        "original_serial_number": "FGL2536L66W",
+        "new_serial_number": "DGL2536L66W"
+    },
+    {
+        "row_index": 155,
+        "original_serial_number": "FGL2539L8JH_OLD",
+        "new_serial_number": "DGL2539L8JH_OLD"
+    },
+    {
+        "row_index": 156,
+        "original_serial_number": "FGL2537L0S1",
+        "new_serial_number": "DGL2537L0S1"
+    },
+    {
+        "row_index": 157,
+        "original_serial_number": "FGL2604L911",
+        "new_serial_number": "DGL2604L911"
+    },
+    {
+        "row_index": 158,
+        "original_serial_number": "FGL2604L973",
+        "new_serial_number": "DGL2604L973"
+    },
+    {
+        "row_index": 159,
+        "original_serial_number": "FGL2539L8HM_old",
+        "new_serial_number": "DGL2539L8HM_old"
+    },
+    {
+        "row_index": 160,
+        "original_serial_number": "FGL2539L8HT",
+        "new_serial_number": "DGL2539L8HT"
+    },
+    {
+        "row_index": 161,
+        "original_serial_number": "FGL2604L8TC_OLD",
+        "new_serial_number": "DGL2604L8TC_OLD"
+    },
+    {
+        "row_index": 162,
+        "original_serial_number": "FGL2604L8SH",
+        "new_serial_number": "DGL2604L8SH"
+    },
+    {
+        "row_index": 163,
+        "original_serial_number": "FGL2539L8EZ",
+        "new_serial_number": "DGL2539L8EZ"
+    },
+    {
+        "row_index": 164,
+        "original_serial_number": "FGL2539L8J2",
+        "new_serial_number": "DGL2539L8J2"
+    },
+    {
+        "row_index": 165,
+        "original_serial_number": "FGL2604L9LJ",
+        "new_serial_number": "DGL2604L9LJ"
+    },
+    {
+        "row_index": 166,
+        "original_serial_number": "FGL2539L8J8",
+        "new_serial_number": "DGL2539L8J8"
+    },
+    {
+        "row_index": 167,
+        "original_serial_number": "FGL2604L90D",
+        "new_serial_number": "DGL2604L90D"
+    },
+    {
+        "row_index": 168,
+        "original_serial_number": "FGL2604L950",
+        "new_serial_number": "DGL2604L950"
+    },
+    {
+        "row_index": 169,
+        "original_serial_number": "FGL2617LJK4",
+        "new_serial_number": "DGL2617LJK4"
+    },
+    {
+        "row_index": 170,
+        "original_serial_number": "FGL2617LJK8",
+        "new_serial_number": "DGL2617LJK8"
+    },
+    {
+        "row_index": 171,
+        "original_serial_number": "FGL2539L8HK",
+        "new_serial_number": "DGL2539L8HK"
+    },
+    {
+        "row_index": 172,
+        "original_serial_number": "FGL2539L8K7",
+        "new_serial_number": "DGL2539L8K7"
+    },
+    {
+        "row_index": 173,
+        "original_serial_number": "FGL2536L67C",
+        "new_serial_number": "DGL2536L67C"
+    },
+    {
+        "row_index": 174,
+        "original_serial_number": "FGL2539L8HR",
+        "new_serial_number": "DGL2539L8HR"
+    },
+    {
+        "row_index": 175,
+        "original_serial_number": "FGL2539L8JZ",
+        "new_serial_number": "DGL2539L8JZ"
+    },
+    {
+        "row_index": 176,
+        "original_serial_number": "FGL2604L952",
+        "new_serial_number": "DGL2604L952"
+    },
+    {
+        "row_index": 177,
+        "original_serial_number": "FGL2604L952",
+        "new_serial_number": "DGL2604L952"
+    },
+    {
+        "row_index": 178,
+        "original_serial_number": "FGL2604L952",
+        "new_serial_number": "DGL2604L952"
+    },
+    {
+        "row_index": 179,
+        "original_serial_number": "FGL2604L952",
+        "new_serial_number": "DGL2604L952"
+    },
+    {
+        "row_index": 180,
+        "original_serial_number": "FGL2539L8JB",
+        "new_serial_number": "DGL2539L8JB"
+    },
+    {
+        "row_index": 181,
+        "original_serial_number": "FGL2539L8K9",
+        "new_serial_number": "DGL2539L8K9"
+    },
+    {
+        "row_index": 182,
+        "original_serial_number": "FGL2539L8J5_OLD",
+        "new_serial_number": "DGL2539L8J5_OLD"
+    },
+    {
+        "row_index": 183,
+        "original_serial_number": "FGL2604L91C_OLD",
+        "new_serial_number": "DGL2604L91C_OLD"
+    },
+    {
+        "row_index": 184,
+        "original_serial_number": "FGL2609L2QP",
+        "new_serial_number": "DGL2609L2QP"
+    },
+    {
+        "row_index": 185,
+        "original_serial_number": "FGL2536L685",
+        "new_serial_number": "DGL2536L685"
+    },
+    {
+        "row_index": 186,
+        "original_serial_number": "FGL2536L66N",
+        "new_serial_number": "DGL2536L66N"
+    },
+    {
+        "row_index": 187,
+        "original_serial_number": "FGL2609L2QQ",
+        "new_serial_number": "DGL2609L2QQ"
+    },
+    {
+        "row_index": 188,
+        "original_serial_number": "FGL2536L677",
+        "new_serial_number": "DGL2536L677"
+    },
+    {
+        "row_index": 189,
+        "original_serial_number": "FGL2539L8KC",
+        "new_serial_number": "DGL2539L8KC"
+    },
+    {
+        "row_index": 190,
+        "original_serial_number": "FGL2536L67B",
+        "new_serial_number": "DGL2536L67B"
+    },
+    {
+        "row_index": 191,
+        "original_serial_number": "FGL2539L8JL_OLD",
+        "new_serial_number": "DGL2539L8JL_OLD"
+    },
+    {
+        "row_index": 192,
+        "original_serial_number": "FGL2604L95D",
+        "new_serial_number": "DGL2604L95D"
+    },
+    {
+        "row_index": 193,
+        "original_serial_number": "FGL2539L8F0",
+        "new_serial_number": "DGL2539L8F0"
+    },
+    {
+        "row_index": 194,
+        "original_serial_number": "FGL2536L67W",
+        "new_serial_number": "DGL2536L67W"
+    },
+    {
+        "row_index": 195,
+        "original_serial_number": "FGL2539L8JT_OLD",
+        "new_serial_number": "DGL2539L8JT_OLD"
+    },
+    {
+        "row_index": 196,
+        "original_serial_number": "FGL2539L8K2",
+        "new_serial_number": "DGL2539L8K2"
+    },
+    {
+        "row_index": 197,
+        "original_serial_number": "FGL2539L8JF",
+        "new_serial_number": "DGL2539L8JF"
+    },
+    {
+        "row_index": 198,
+        "original_serial_number": "FGL2604L8S8",
+        "new_serial_number": "DGL2604L8S8"
+    },
+    {
+        "row_index": 199,
+        "original_serial_number": "FGL2536L66Z_OLD",
+        "new_serial_number": "DGL2536L66Z_OLD"
+    },
+    {
+        "row_index": 200,
+        "original_serial_number": "FGL2604L9JE",
+        "new_serial_number": "DGL2604L9JE"
+    },
+    {
+        "row_index": 201,
+        "original_serial_number": "FGL2539L8J4",
+        "new_serial_number": "DGL2539L8J4"
+    },
+    {
+        "row_index": 202,
+        "original_serial_number": "FGL2536L67X_OLD",
+        "new_serial_number": "DGL2536L67X_OLD"
+    },
+    {
+        "row_index": 203,
+        "original_serial_number": "FGL2539L8JL",
+        "new_serial_number": "DGL2539L8JL"
+    },
+    {
+        "row_index": 204,
+        "original_serial_number": "FGL2604LD3U",
+        "new_serial_number": "DGL2604LD3U"
+    },
+    {
+        "row_index": 205,
+        "original_serial_number": "FGL2604L91Y",
+        "new_serial_number": "DGL2604L91Y"
+    },
+    {
+        "row_index": 206,
+        "original_serial_number": "FDO2644M1EA",
+        "new_serial_number": "DDO2644M1EA"
+    },
+    {
+        "row_index": 207,
+        "original_serial_number": "FDO2644M1EG",
+        "new_serial_number": "DDO2644M1EG"
+    },
+    {
+        "row_index": 208,
+        "original_serial_number": "FDO2711M02P",
+        "new_serial_number": "DDO2711M02P"
+    },
+    {
+        "row_index": 209,
+        "original_serial_number": "FDO2711M02M",
+        "new_serial_number": "DDO2711M02M"
+    },
+    {
+        "row_index": 210,
+        "original_serial_number": "FGL2539L8HY",
+        "new_serial_number": "DGL2539L8HY"
+    },
+    {
+        "row_index": 211,
+        "original_serial_number": "FGL2604L94S",
+        "new_serial_number": "DGL2604L94S"
+    },
+    {
+        "row_index": 212,
+        "original_serial_number": "FGL2539L8HV",
+        "new_serial_number": "DGL2539L8HV"
+    },
+    {
+        "row_index": 213,
+        "original_serial_number": "FDO2644M1EE",
+        "new_serial_number": "DDO2644M1EE"
+    },
+    {
+        "row_index": 214,
+        "original_serial_number": "FDO2644M1E7",
+        "new_serial_number": "DDO2644M1E7"
+    },
+    {
+        "row_index": 215,
+        "original_serial_number": "FGL2604L923",
+        "new_serial_number": "DGL2604L923"
+    },
+    {
+        "row_index": 216,
+        "original_serial_number": "FGL2539L8HH",
+        "new_serial_number": "DGL2539L8HH"
+    },
+    {
+        "row_index": 217,
+        "original_serial_number": "FGL2536L67X",
+        "new_serial_number": "DGL2536L67X"
+    },
+    {
+        "row_index": 218,
+        "original_serial_number": "FGL2536L67D",
+        "new_serial_number": "DGL2536L67D"
+    },
+    {
+        "row_index": 219,
+        "original_serial_number": "FGL2539L8K4",
+        "new_serial_number": "DGL2539L8K4"
+    },
+    {
+        "row_index": 220,
+        "original_serial_number": "FGL2536L689",
+        "new_serial_number": "DGL2536L689"
+    },
+    {
+        "row_index": 221,
+        "original_serial_number": "FGL2536L681",
+        "new_serial_number": "DGL2536L681"
+    },
+    {
+        "row_index": 222,
+        "original_serial_number": "FGL2508LHPZ",
+        "new_serial_number": "DGL2508LHPZ"
+    },
+    {
+        "row_index": 223,
+        "original_serial_number": "FGL2525L3EN",
+        "new_serial_number": "DGL2525L3EN"
+    },
+    {
+        "row_index": 224,
+        "original_serial_number": "FGL2537L0RY",
+        "new_serial_number": "DGL2537L0RY"
+    },
+    {
+        "row_index": 225,
+        "original_serial_number": "FGL2604L952",
+        "new_serial_number": "DGL2604L952"
+    },
+    {
+        "row_index": 226,
+        "original_serial_number": "FGL2539L8JT",
+        "new_serial_number": "DGL2539L8JT"
+    },
+    {
+        "row_index": 227,
+        "original_serial_number": "FGL2539L8HM",
+        "new_serial_number": "DGL2539L8HM"
+    },
+    {
+        "row_index": 228,
+        "original_serial_number": "FGL2536L66Z",
+        "new_serial_number": "DGL2536L66Z"
+    },
+    {
+        "row_index": 229,
+        "original_serial_number": "FGL2604L91C",
+        "new_serial_number": "DGL2604L91C"
+    },
+    {
+        "row_index": 230,
+        "original_serial_number": "FGL2536L67T",
+        "new_serial_number": "DGL2536L67T"
+    },
+    {
+        "row_index": 231,
+        "original_serial_number": "FGL2539L8JH",
+        "new_serial_number": "DGL2539L8JH"
+    },
+    {
+        "row_index": 232,
+        "original_serial_number": "FGL2604L95M",
+        "new_serial_number": "DGL2604L95M"
+    },
+    {
+        "row_index": 233,
+        "original_serial_number": "FGL2539L8J5",
+        "new_serial_number": "DGL2539L8J5"
+    },
+    {
+        "row_index": 234,
+        "original_serial_number": "FGL2604L8TC",
+        "new_serial_number": "DGL2604L8TC"
+    },
+    {
+        "row_index": 235,
+        "original_serial_number": "FGL2604L9LR",
+        "new_serial_number": "DGL2604L9LR"
+    },
+    {
+        "row_index": 236,
+        "original_serial_number": "FJC26111ARB",
+        "new_serial_number": "DJC26111ARB"
+    },
+    {
+        "row_index": 237,
+        "original_serial_number": "FJC261912W8",
+        "new_serial_number": "DJC261912W8"
+    },
+    {
+        "row_index": 238,
+        "original_serial_number": "FJC261912W9",
+        "new_serial_number": "DJC261912W9"
+    },
+    {
+        "row_index": 239,
+        "original_serial_number": "FJC26111ARA",
+        "new_serial_number": "DJC26111ARA"
+    },
+    {
+        "row_index": 240,
+        "original_serial_number": "FJC26111AR2_OLD",
+        "new_serial_number": "DJC26111AR2_OLD"
+    },
+    {
+        "row_index": 241,
+        "original_serial_number": "FJC26111AR9",
+        "new_serial_number": "DJC26111AR9"
+    },
+    {
+        "row_index": 242,
+        "original_serial_number": "FJC2618257L",
+        "new_serial_number": "DJC2618257L"
+    },
+    {
+        "row_index": 243,
+        "original_serial_number": "FJC2618257F",
+        "new_serial_number": "DJC2618257F"
+    },
+    {
+        "row_index": 244,
+        "original_serial_number": "FJC26111AR2",
+        "new_serial_number": "DJC26111AR2"
+    },
+    {
+        "row_index": 245,
+        "original_serial_number": "FGL2543L0QA",
+        "new_serial_number": "DGL2543L0QA"
+    },
+    {
+        "row_index": 246,
+        "original_serial_number": "FGL2531MDZX",
+        "new_serial_number": "DGL2531MDZX"
+    },
+    {
+        "row_index": 247,
+        "original_serial_number": "FGL2530MBYW",
+        "new_serial_number": "DGL2530MBYW"
+    },
+    {
+        "row_index": 248,
+        "original_serial_number": "FGL2531MCCQ",
+        "new_serial_number": "DGL2531MCCQ"
+    },
+    {
+        "row_index": 249,
+        "original_serial_number": "FGL2530MC3K",
+        "new_serial_number": "DGL2530MC3K"
+    },
+    {
+        "row_index": 250,
+        "original_serial_number": "FGL2530MBXW",
+        "new_serial_number": "DGL2530MBXW"
+    },
+    {
+        "row_index": 251,
+        "original_serial_number": "FGL2531MCKZ",
+        "new_serial_number": "DGL2531MCKZ"
+    },
+    {
+        "row_index": 252,
+        "original_serial_number": "FGL2531MC9H",
+        "new_serial_number": "DGL2531MC9H"
+    },
+    {
+        "row_index": 253,
+        "original_serial_number": "FGL2531MC9Q",
+        "new_serial_number": "DGL2531MC9Q"
+    },
+    {
+        "row_index": 254,
+        "original_serial_number": "FGL2531MCKM",
+        "new_serial_number": "DGL2531MCKM"
+    },
+    {
+        "row_index": 255,
+        "original_serial_number": "FGL2531M301",
+        "new_serial_number": "DGL2531M301"
+    },
+    {
+        "row_index": 256,
+        "original_serial_number": "FGL2531M328",
+        "new_serial_number": "DGL2531M328"
+    },
+    {
+        "row_index": 257,
+        "original_serial_number": "FGL2530MC1B",
+        "new_serial_number": "DGL2530MC1B"
+    },
+    {
+        "row_index": 258,
+        "original_serial_number": "FGL2616LPLU",
+        "new_serial_number": "DGL2616LPLU"
+    },
+    {
+        "row_index": 259,
+        "original_serial_number": "FGL2616LPLU",
+        "new_serial_number": "DGL2616LPLU"
+    },
+    {
+        "row_index": 260,
+        "original_serial_number": "FGL2530MBWG",
+        "new_serial_number": "DGL2530MBWG"
+    },
+    {
+        "row_index": 261,
+        "original_serial_number": "FGL2616LPJX",
+        "new_serial_number": "DGL2616LPJX"
+    },
+    {
+        "row_index": 262,
+        "original_serial_number": "FGL2531MCBT",
+        "new_serial_number": "DGL2531MCBT"
+    },
+    {
+        "row_index": 263,
+        "original_serial_number": "FGL2530MBW5",
+        "new_serial_number": "DGL2530MBW5"
+    },
+    {
+        "row_index": 264,
+        "original_serial_number": "FGL2631LHDV",
+        "new_serial_number": "DGL2631LHDV"
+    },
+    {
+        "row_index": 265,
+        "original_serial_number": "FGL2530MBZG",
+        "new_serial_number": "DGL2530MBZG"
+    },
+    {
+        "row_index": 266,
+        "original_serial_number": "FGL2531MCAF",
+        "new_serial_number": "DGL2531MCAF"
+    },
+    {
+        "row_index": 267,
+        "original_serial_number": "FGL2531MCAT",
+        "new_serial_number": "DGL2531MCAT"
+    },
+    {
+        "row_index": 268,
+        "original_serial_number": "FGL2530MBYV",
+        "new_serial_number": "DGL2530MBYV"
+    },
+    {
+        "row_index": 269,
+        "original_serial_number": "FGL2530MC06",
+        "new_serial_number": "DGL2530MC06"
+    },
+    {
+        "row_index": 270,
+        "original_serial_number": "FGL2530MBV2",
+        "new_serial_number": "DGL2530MBV2"
+    },
+    {
+        "row_index": 271,
+        "original_serial_number": "FGL2531MCA9",
+        "new_serial_number": "DGL2531MCA9"
+    },
+    {
+        "row_index": 272,
+        "original_serial_number": "FGL2530MC01",
+        "new_serial_number": "DGL2530MC01"
+    },
+    {
+        "row_index": 273,
+        "original_serial_number": "FGL2531ME0W",
+        "new_serial_number": "DGL2531ME0W"
+    },
+    {
+        "row_index": 274,
+        "original_serial_number": "FJC2530170G",
+        "new_serial_number": "DJC2530170G"
+    },
+    {
+        "row_index": 275,
+        "original_serial_number": "FGL2631LC3N",
+        "new_serial_number": "DGL2631LC3N"
+    },
+    {
+        "row_index": 276,
+        "original_serial_number": "FGL2531ME1E",
+        "new_serial_number": "DGL2531ME1E"
+    },
+    {
+        "row_index": 277,
+        "original_serial_number": "FGL2532LRXU",
+        "new_serial_number": "DGL2532LRXU"
+    },
+    {
+        "row_index": 278,
+        "original_serial_number": "FGL2530MC2J",
+        "new_serial_number": "DGL2530MC2J"
+    },
+    {
+        "row_index": 279,
+        "original_serial_number": "FGL2530MBYN",
+        "new_serial_number": "DGL2530MBYN"
+    },
+    {
+        "row_index": 280,
+        "original_serial_number": "FGL2530MC3Q",
+        "new_serial_number": "DGL2530MC3Q"
+    },
+    {
+        "row_index": 281,
+        "original_serial_number": "FGL2631LC8E",
+        "new_serial_number": "DGL2631LC8E"
+    },
+    {
+        "row_index": 282,
+        "original_serial_number": "FGL2531ME0U",
+        "new_serial_number": "DGL2531ME0U"
+    },
+    {
+        "row_index": 283,
+        "original_serial_number": "FGL2530MC0D",
+        "new_serial_number": "DGL2530MC0D"
+    },
+    {
+        "row_index": 284,
+        "original_serial_number": "FGL2631LC8M",
+        "new_serial_number": "DGL2631LC8M"
+    },
+    {
+        "row_index": 285,
+        "original_serial_number": "FGL2631LC1Y",
+        "new_serial_number": "DGL2631LC1Y"
+    },
+    {
+        "row_index": 286,
+        "original_serial_number": "FGL2530MBZW",
+        "new_serial_number": "DGL2530MBZW"
+    },
+    {
+        "row_index": 287,
+        "original_serial_number": "FGL2530MC0J",
+        "new_serial_number": "DGL2530MC0J"
+    },
+    {
+        "row_index": 288,
+        "original_serial_number": "FGL2531ME0S",
+        "new_serial_number": "DGL2531ME0S"
+    },
+    {
+        "row_index": 289,
+        "original_serial_number": "FGL2531MCGR",
+        "new_serial_number": "DGL2531MCGR"
+    },
+    {
+        "row_index": 290,
+        "original_serial_number": "FGL2530MC0R",
+        "new_serial_number": "DGL2530MC0R"
+    },
+    {
+        "row_index": 291,
+        "original_serial_number": "FGL2531MCCJ",
+        "new_serial_number": "DGL2531MCCJ"
+    },
+    {
+        "row_index": 292,
+        "original_serial_number": "FGL2531MDZQ",
+        "new_serial_number": "DGL2531MDZQ"
+    },
+    {
+        "row_index": 293,
+        "original_serial_number": "FGL2531ME0D",
+        "new_serial_number": "DGL2531ME0D"
+    },
+    {
+        "row_index": 294,
+        "original_serial_number": "FGL2531ME15",
+        "new_serial_number": "DGL2531ME15"
+    },
+    {
+        "row_index": 295,
+        "original_serial_number": "FGL2531ME1U",
+        "new_serial_number": "DGL2531ME1U"
+    },
+    {
+        "row_index": 296,
+        "original_serial_number": "FGL2531MC9W",
+        "new_serial_number": "DGL2531MC9W"
+    },
+    {
+        "row_index": 297,
+        "original_serial_number": "FGL2530MBV0",
+        "new_serial_number": "DGL2530MBV0"
+    },
+    {
+        "row_index": 298,
+        "original_serial_number": "FGL2530MC0V",
+        "new_serial_number": "DGL2530MC0V"
+    },
+    {
+        "row_index": 299,
+        "original_serial_number": "FGL2531MCJA",
+        "new_serial_number": "DGL2531MCJA"
+    },
+    {
+        "row_index": 300,
+        "original_serial_number": "FGL2530MBWB",
+        "new_serial_number": "DGL2530MBWB"
+    },
+    {
+        "row_index": 301,
+        "original_serial_number": "FGL2531MDYN",
+        "new_serial_number": "DGL2531MDYN"
+    },
+    {
+        "row_index": 302,
+        "original_serial_number": "FGL2532LB6T",
+        "new_serial_number": "DGL2532LB6T"
+    },
+    {
+        "row_index": 303,
+        "original_serial_number": "FGL2531MCCF",
+        "new_serial_number": "DGL2531MCCF"
+    },
+    {
+        "row_index": 304,
+        "original_serial_number": "FGL2714LDH2",
+        "new_serial_number": "DGL2714LDH2"
+    },
+    {
+        "row_index": 305,
+        "original_serial_number": "FGL2543L3DH",
+        "new_serial_number": "DGL2543L3DH"
+    },
+    {
+        "row_index": 306,
+        "original_serial_number": "FGL2506LEK8_OLD",
+        "new_serial_number": "DGL2506LEK8_OLD"
+    },
+    {
+        "row_index": 307,
+        "original_serial_number": "FGL2506LEK9",
+        "new_serial_number": "DGL2506LEK9"
+    },
+    {
+        "row_index": 308,
+        "original_serial_number": "FGL2506LEK8",
+        "new_serial_number": "DGL2506LEK8"
+    },
+    {
+        "row_index": 309,
+        "original_serial_number": "FGL2631L5TV",
+        "new_serial_number": "DGL2631L5TV"
+    },
+    {
+        "row_index": 310,
+        "original_serial_number": "FGL2630LZD0",
+        "new_serial_number": "DGL2630LZD0"
+    },
+    {
+        "row_index": 311,
+        "original_serial_number": "FGL2631L5WE",
+        "new_serial_number": "DGL2631L5WE"
+    },
+    {
+        "row_index": 312,
+        "original_serial_number": "FGL2631L5W9",
+        "new_serial_number": "DGL2631L5W9"
+    },
+    {
+        "row_index": 313,
+        "original_serial_number": "FGL2630LZCR",
+        "new_serial_number": "DGL2630LZCR"
+    },
+    {
+        "row_index": 314,
+        "original_serial_number": "FGL2630LZCP",
+        "new_serial_number": "DGL2630LZCP"
+    },
+    {
+        "row_index": 315,
+        "original_serial_number": "FGL2631L5WL",
+        "new_serial_number": "DGL2631L5WL"
+    },
+    {
+        "row_index": 316,
+        "original_serial_number": "FGL2630LZD5",
+        "new_serial_number": "DGL2630LZD5"
+    },
+    {
+        "row_index": 317,
+        "original_serial_number": "FGL2631L5WW",
+        "new_serial_number": "DGL2631L5WW"
+    },
+    {
+        "row_index": 318,
+        "original_serial_number": "FGL2631L5V7",
+        "new_serial_number": "DGL2631L5V7"
+    },
+    {
+        "row_index": 319,
+        "original_serial_number": "FGL2631LC3Q",
+        "new_serial_number": "DGL2631LC3Q"
+    },
+    {
+        "row_index": 320,
+        "original_serial_number": "FGL2633LQA1_OLD",
+        "new_serial_number": "DGL2633LQA1_OLD"
+    },
+    {
+        "row_index": 321,
+        "original_serial_number": "FGL2631L5WH",
+        "new_serial_number": "DGL2631L5WH"
+    },
+    {
+        "row_index": 322,
+        "original_serial_number": "FGL2631L5TX",
+        "new_serial_number": "DGL2631L5TX"
+    },
+    {
+        "row_index": 323,
+        "original_serial_number": "FGL2631LCFC",
+        "new_serial_number": "DGL2631LCFC"
+    },
+    {
+        "row_index": 324,
+        "original_serial_number": "FGL2633LQ8P",
+        "new_serial_number": "DGL2633LQ8P"
+    },
+    {
+        "row_index": 325,
+        "original_serial_number": "FGL2630LZCJ",
+        "new_serial_number": "DGL2630LZCJ"
+    },
+    {
+        "row_index": 326,
+        "original_serial_number": "FGL2631LC3J",
+        "new_serial_number": "DGL2631LC3J"
+    },
+    {
+        "row_index": 327,
+        "original_serial_number": "FGL2630LZCS",
+        "new_serial_number": "DGL2630LZCS"
+    },
+    {
+        "row_index": 328,
+        "original_serial_number": "FGL2631L5V1",
+        "new_serial_number": "DGL2631L5V1"
+    },
+    {
+        "row_index": 329,
+        "original_serial_number": "FGL2631L5X0",
+        "new_serial_number": "DGL2631L5X0"
+    },
+    {
+        "row_index": 330,
+        "original_serial_number": "FGL2631L5UP",
+        "new_serial_number": "DGL2631L5UP"
+    },
+    {
+        "row_index": 331,
+        "original_serial_number": "FGL2633LQAR",
+        "new_serial_number": "DGL2633LQAR"
+    },
+    {
+        "row_index": 332,
+        "original_serial_number": "FGL2633LQ8Y",
+        "new_serial_number": "DGL2633LQ8Y"
+    },
+    {
+        "row_index": 333,
+        "original_serial_number": "FGL2631L5U5",
+        "new_serial_number": "DGL2631L5U5"
+    },
+    {
+        "row_index": 334,
+        "original_serial_number": "FGL2631L5U6",
+        "new_serial_number": "DGL2631L5U6"
+    },
+    {
+        "row_index": 335,
+        "original_serial_number": "FGL2631L5WD",
+        "new_serial_number": "DGL2631L5WD"
+    },
+    {
+        "row_index": 336,
+        "original_serial_number": "FGL2631L5U0",
+        "new_serial_number": "DGL2631L5U0"
+    },
+    {
+        "row_index": 337,
+        "original_serial_number": "FGL2630LZCK",
+        "new_serial_number": "DGL2630LZCK"
+    },
+    {
+        "row_index": 338,
+        "original_serial_number": "FGL2631L5WZ",
+        "new_serial_number": "DGL2631L5WZ"
+    },
+    {
+        "row_index": 339,
+        "original_serial_number": "FGL2630LZC2",
+        "new_serial_number": "DGL2630LZC2"
+    },
+    {
+        "row_index": 340,
+        "original_serial_number": "FGL2633LQ8C",
+        "new_serial_number": "DGL2633LQ8C"
+    },
+    {
+        "row_index": 341,
+        "original_serial_number": "FGL2630LZC9",
+        "new_serial_number": "DGL2630LZC9"
+    },
+    {
+        "row_index": 342,
+        "original_serial_number": "FGL2633LQAE",
+        "new_serial_number": "DGL2633LQAE"
+    },
+    {
+        "row_index": 343,
+        "original_serial_number": "FGL2630LZD1",
+        "new_serial_number": "DGL2630LZD1"
+    },
+    {
+        "row_index": 344,
+        "original_serial_number": "FGL2633LQB5",
+        "new_serial_number": "DGL2633LQB5"
+    },
+    {
+        "row_index": 345,
+        "original_serial_number": "FGL2631L5WP",
+        "new_serial_number": "DGL2631L5WP"
+    },
+    {
+        "row_index": 346,
+        "original_serial_number": "FGL2631LCK3",
+        "new_serial_number": "DGL2631LCK3"
+    },
+    {
+        "row_index": 347,
+        "original_serial_number": "FGL2633LQA6",
+        "new_serial_number": "DGL2633LQA6"
+    },
+    {
+        "row_index": 348,
+        "original_serial_number": "FGL2633LQA0",
+        "new_serial_number": "DGL2633LQA0"
+    },
+    {
+        "row_index": 349,
+        "original_serial_number": "FGL2631L5X4",
+        "new_serial_number": "DGL2631L5X4"
+    },
+    {
+        "row_index": 350,
+        "original_serial_number": "FGL2633LQBJ",
+        "new_serial_number": "DGL2633LQBJ"
+    },
+    {
+        "row_index": 351,
+        "original_serial_number": "FGL2630LZCM",
+        "new_serial_number": "DGL2630LZCM"
+    },
+    {
+        "row_index": 352,
+        "original_serial_number": "FGL2633LQ9X",
+        "new_serial_number": "DGL2633LQ9X"
+    },
+    {
+        "row_index": 353,
+        "original_serial_number": "FGL2633LQ8S",
+        "new_serial_number": "DGL2633LQ8S"
+    },
+    {
+        "row_index": 354,
+        "original_serial_number": "FGL2633LQAZ",
+        "new_serial_number": "DGL2633LQAZ"
+    },
+    {
+        "row_index": 355,
+        "original_serial_number": "FGL2633LQ9R",
+        "new_serial_number": "DGL2633LQ9R"
+    },
+    {
+        "row_index": 356,
+        "original_serial_number": "FGL2633LQ8X",
+        "new_serial_number": "DGL2633LQ8X"
+    },
+    {
+        "row_index": 357,
+        "original_serial_number": "FGL2633LQAL",
+        "new_serial_number": "DGL2633LQAL"
+    },
+    {
+        "row_index": 358,
+        "original_serial_number": "FGL2630LZCG",
+        "new_serial_number": "DGL2630LZCG"
+    },
+    {
+        "row_index": 359,
+        "original_serial_number": "FGL2633LQ9N",
+        "new_serial_number": "DGL2633LQ9N"
+    },
+    {
+        "row_index": 360,
+        "original_serial_number": "FGL2631L5WJ",
+        "new_serial_number": "DGL2631L5WJ"
+    },
+    {
+        "row_index": 361,
+        "original_serial_number": "FGL2631L5X8",
+        "new_serial_number": "DGL2631L5X8"
+    },
+    {
+        "row_index": 362,
+        "original_serial_number": "FGL2633LQ9K",
+        "new_serial_number": "DGL2633LQ9K"
+    },
+    {
+        "row_index": 363,
+        "original_serial_number": "FGL2631L5X2",
+        "new_serial_number": "DGL2631L5X2"
+    },
+    {
+        "row_index": 364,
+        "original_serial_number": "FGL2633LQA3",
+        "new_serial_number": "DGL2633LQA3"
+    },
+    {
+        "row_index": 365,
+        "original_serial_number": "FGL2631L5V3",
+        "new_serial_number": "DGL2631L5V3"
+    },
+    {
+        "row_index": 366,
+        "original_serial_number": "FGL2631L5UZ",
+        "new_serial_number": "DGL2631L5UZ"
+    },
+    {
+        "row_index": 367,
+        "original_serial_number": "FGL2633LQ92",
+        "new_serial_number": "DGL2633LQ92"
+    },
+    {
+        "row_index": 368,
+        "original_serial_number": "FGL2631L5UU",
+        "new_serial_number": "DGL2631L5UU"
+    },
+    {
+        "row_index": 369,
+        "original_serial_number": "FGL2631L5VT",
+        "new_serial_number": "DGL2631L5VT"
+    },
+    {
+        "row_index": 370,
+        "original_serial_number": "FGL2633LQBN",
+        "new_serial_number": "DGL2633LQBN"
+    },
+    {
+        "row_index": 371,
+        "original_serial_number": "FGL2631L5XF",
+        "new_serial_number": "DGL2631L5XF"
+    },
+    {
+        "row_index": 372,
+        "original_serial_number": "FGL2631L5WA",
+        "new_serial_number": "DGL2631L5WA"
+    },
+    {
+        "row_index": 373,
+        "original_serial_number": "FGL2631L5WX_OLD",
+        "new_serial_number": "DGL2631L5WX_OLD"
+    },
+    {
+        "row_index": 374,
+        "original_serial_number": "FGL2631L5UE",
+        "new_serial_number": "DGL2631L5UE"
+    },
+    {
+        "row_index": 375,
+        "original_serial_number": "FGL2631L5UL",
+        "new_serial_number": "DGL2631L5UL"
+    },
+    {
+        "row_index": 376,
+        "original_serial_number": "FGL2630LZCV",
+        "new_serial_number": "DGL2630LZCV"
+    },
+    {
+        "row_index": 377,
+        "original_serial_number": "FGL2631L5VD",
+        "new_serial_number": "DGL2631L5VD"
+    },
+    {
+        "row_index": 378,
+        "original_serial_number": "FGL2633LQ8E",
+        "new_serial_number": "DGL2633LQ8E"
+    },
+    {
+        "row_index": 379,
+        "original_serial_number": "FGL2633LQAG",
+        "new_serial_number": "DGL2633LQAG"
+    },
+    {
+        "row_index": 380,
+        "original_serial_number": "FGL2631L5VG",
+        "new_serial_number": "DGL2631L5VG"
+    },
+    {
+        "row_index": 381,
+        "original_serial_number": "FGL2630LZD7",
+        "new_serial_number": "DGL2630LZD7"
+    },
+    {
+        "row_index": 382,
+        "original_serial_number": "FGL2630LZD3",
+        "new_serial_number": "DGL2630LZD3"
+    },
+    {
+        "row_index": 383,
+        "original_serial_number": "FGL2631LHF4",
+        "new_serial_number": "DGL2631LHF4"
+    },
+    {
+        "row_index": 384,
+        "original_serial_number": "FGL2633LQ8V",
+        "new_serial_number": "DGL2633LQ8V"
+    },
+    {
+        "row_index": 385,
+        "original_serial_number": "FGL2633LQAW",
+        "new_serial_number": "DGL2633LQAW"
+    },
+    {
+        "row_index": 386,
+        "original_serial_number": "FGL2630LZD8",
+        "new_serial_number": "DGL2630LZD8"
+    },
+    {
+        "row_index": 387,
+        "original_serial_number": "FGL2631L5W7",
+        "new_serial_number": "DGL2631L5W7"
+    },
+    {
+        "row_index": 388,
+        "original_serial_number": "FGL2633LQBL",
+        "new_serial_number": "DGL2633LQBL"
+    },
+    {
+        "row_index": 389,
+        "original_serial_number": "FGL2633LQBP",
+        "new_serial_number": "DGL2633LQBP"
+    },
+    {
+        "row_index": 390,
+        "original_serial_number": "FGL2633LQAU_OLD",
+        "new_serial_number": "DGL2633LQAU_OLD"
+    },
+    {
+        "row_index": 391,
+        "original_serial_number": "FGL2633LQ8D",
+        "new_serial_number": "DGL2633LQ8D"
+    },
+    {
+        "row_index": 392,
+        "original_serial_number": "FGL2633LQ95",
+        "new_serial_number": "DGL2633LQ95"
+    },
+    {
+        "row_index": 393,
+        "original_serial_number": "FGL2633LQ94",
+        "new_serial_number": "DGL2633LQ94"
+    },
+    {
+        "row_index": 394,
+        "original_serial_number": "FGL2633LQB8",
+        "new_serial_number": "DGL2633LQB8"
+    },
+    {
+        "row_index": 395,
+        "original_serial_number": "FGL2633LQ8F",
+        "new_serial_number": "DGL2633LQ8F"
+    },
+    {
+        "row_index": 396,
+        "original_serial_number": "FGL2631LHEJ",
+        "new_serial_number": "DGL2631LHEJ"
+    },
+    {
+        "row_index": 397,
+        "original_serial_number": "FGL2631L5W3",
+        "new_serial_number": "DGL2631L5W3"
+    },
+    {
+        "row_index": 398,
+        "original_serial_number": "FGL2633LQ93",
+        "new_serial_number": "DGL2633LQ93"
+    },
+    {
+        "row_index": 399,
+        "original_serial_number": "FGL2633LQ91",
+        "new_serial_number": "DGL2633LQ91"
+    },
+    {
+        "row_index": 400,
+        "original_serial_number": "FGL2633LQ9P",
+        "new_serial_number": "DGL2633LQ9P"
+    },
+    {
+        "row_index": 401,
+        "original_serial_number": "FGL2630LZCE",
+        "new_serial_number": "DGL2630LZCE"
+    },
+    {
+        "row_index": 402,
+        "original_serial_number": "FGL2633LQ9S",
+        "new_serial_number": "DGL2633LQ9S"
+    },
+    {
+        "row_index": 403,
+        "original_serial_number": "FGL2633LQ9D",
+        "new_serial_number": "DGL2633LQ9D"
+    },
+    {
+        "row_index": 404,
+        "original_serial_number": "FGL2633LQ9B",
+        "new_serial_number": "DGL2633LQ9B"
+    },
+    {
+        "row_index": 405,
+        "original_serial_number": "FGL2633LQBH",
+        "new_serial_number": "DGL2633LQBH"
+    },
+    {
+        "row_index": 406,
+        "original_serial_number": "FGL2633LQ99",
+        "new_serial_number": "DGL2633LQ99"
+    },
+    {
+        "row_index": 407,
+        "original_serial_number": "FGL2630LZDA",
+        "new_serial_number": "DGL2630LZDA"
+    },
+    {
+        "row_index": 408,
+        "original_serial_number": "FGL2631L5WN",
+        "new_serial_number": "DGL2631L5WN"
+    },
+    {
+        "row_index": 409,
+        "original_serial_number": "FGL2631L5WS",
+        "new_serial_number": "DGL2631L5WS"
+    },
+    {
+        "row_index": 410,
+        "original_serial_number": "FGL2631L5WF",
+        "new_serial_number": "DGL2631L5WF"
+    },
+    {
+        "row_index": 411,
+        "original_serial_number": "FGL2633LQ9A",
+        "new_serial_number": "DGL2633LQ9A"
+    },
+    {
+        "row_index": 412,
+        "original_serial_number": "FGL2633LQ9E",
+        "new_serial_number": "DGL2633LQ9E"
+    },
+    {
+        "row_index": 413,
+        "original_serial_number": "FGL2633LQ8B",
+        "new_serial_number": "DGL2633LQ8B"
+    },
+    {
+        "row_index": 414,
+        "original_serial_number": "FGL2631LC0C_OLD",
+        "new_serial_number": "DGL2631LC0C_OLD"
+    },
+    {
+        "row_index": 415,
+        "original_serial_number": "FGL2630LZDK",
+        "new_serial_number": "DGL2630LZDK"
+    },
+    {
+        "row_index": 416,
+        "original_serial_number": "FGL2631LHF5",
+        "new_serial_number": "DGL2631LHF5"
+    },
+    {
+        "row_index": 417,
+        "original_serial_number": "FGL2631LC1R_OLD",
+        "new_serial_number": "DGL2631LC1R_OLD"
+    },
+    {
+        "row_index": 418,
+        "original_serial_number": "FGL2631LCJW",
+        "new_serial_number": "DGL2631LCJW"
+    },
+    {
+        "row_index": 419,
+        "original_serial_number": "FGL2633LQ8K",
+        "new_serial_number": "DGL2633LQ8K"
+    },
+    {
+        "row_index": 420,
+        "original_serial_number": "FGL2630LZD9_OLD",
+        "new_serial_number": "DGL2630LZD9_OLD"
+    },
+    {
+        "row_index": 421,
+        "original_serial_number": "FGL2630LZDL",
+        "new_serial_number": "DGL2630LZDL"
+    },
+    {
+        "row_index": 422,
+        "original_serial_number": "FGL2633LQAX",
+        "new_serial_number": "DGL2633LQAX"
+    },
+    {
+        "row_index": 423,
+        "original_serial_number": "FGL2630LZCB",
+        "new_serial_number": "DGL2630LZCB"
+    },
+    {
+        "row_index": 424,
+        "original_serial_number": "FGL2631LC4W",
+        "new_serial_number": "DGL2631LC4W"
+    },
+    {
+        "row_index": 425,
+        "original_serial_number": "FGL2524LBPN",
+        "new_serial_number": "DGL2524LBPN"
+    },
+    {
+        "row_index": 426,
+        "original_serial_number": "FGL2631LP29",
+        "new_serial_number": "DGL2631LP29"
+    },
+    {
+        "row_index": 427,
+        "original_serial_number": "FGL2631L5XA",
+        "new_serial_number": "DGL2631L5XA"
+    },
+    {
+        "row_index": 428,
+        "original_serial_number": "FGL2631LC6R",
+        "new_serial_number": "DGL2631LC6R"
+    },
+    {
+        "row_index": 429,
+        "original_serial_number": "FGL2808LASP",
+        "new_serial_number": "DGL2808LASP"
+    },
+    {
+        "row_index": 430,
+        "original_serial_number": "FGL2631L5WT",
+        "new_serial_number": "DGL2631L5WT"
+    },
+    {
+        "row_index": 431,
+        "original_serial_number": "FGL2631LCGX",
+        "new_serial_number": "DGL2631LCGX"
+    },
+    {
+        "row_index": 432,
+        "original_serial_number": "FGL2630LZD6",
+        "new_serial_number": "DGL2630LZD6"
+    },
+    {
+        "row_index": 433,
+        "original_serial_number": "FGL2443L7UV",
+        "new_serial_number": "DGL2443L7UV"
+    },
+    {
+        "row_index": 434,
+        "original_serial_number": "FGL2633LQAU",
+        "new_serial_number": "DGL2633LQAU"
+    },
+    {
+        "row_index": 435,
+        "original_serial_number": "FGL2631L5WX",
+        "new_serial_number": "DGL2631L5WX"
+    },
+    {
+        "row_index": 436,
+        "original_serial_number": "FGL2633LQA1",
+        "new_serial_number": "DGL2633LQA1"
+    },
+    {
+        "row_index": 437,
+        "original_serial_number": "FGL2631LC1R",
+        "new_serial_number": "DGL2631LC1R"
+    },
+    {
+        "row_index": 438,
+        "original_serial_number": "FGL2630LZD9",
+        "new_serial_number": "DGL2630LZD9"
+    },
+    {
+        "row_index": 439,
+        "original_serial_number": "FGL2631LC0C",
+        "new_serial_number": "DGL2631LC0C"
+    },
+    {
+        "row_index": 440,
+        "original_serial_number": "FGL2636L5Q9",
+        "new_serial_number": "DGL2636L5Q9"
+    },
+    {
+        "row_index": 441,
+        "original_serial_number": "FGL2531MCHE",
+        "new_serial_number": "DGL2531MCHE"
+    },
+    {
+        "row_index": 442,
+        "original_serial_number": "FGL2531MCE9",
+        "new_serial_number": "DGL2531MCE9"
+    },
+    {
+        "row_index": 443,
+        "original_serial_number": "FGL2531MCJ8",
+        "new_serial_number": "DGL2531MCJ8"
+    },
+    {
+        "row_index": 444,
+        "original_serial_number": "FGL2531MCH9",
+        "new_serial_number": "DGL2531MCH9"
+    },
+    {
+        "row_index": 445,
+        "original_serial_number": "FGL2531MCBM",
+        "new_serial_number": "DGL2531MCBM"
+    },
+    {
+        "row_index": 446,
+        "original_serial_number": "FGL2531MDYS",
+        "new_serial_number": "DGL2531MDYS"
+    },
+    {
+        "row_index": 447,
+        "original_serial_number": "FGL2531MCGK",
+        "new_serial_number": "DGL2531MCGK"
+    },
+    {
+        "row_index": 448,
+        "original_serial_number": "FGL2508LHQY",
+        "new_serial_number": "DGL2508LHQY"
+    },
+    {
+        "row_index": 449,
+        "original_serial_number": "FGL2539L8WA",
+        "new_serial_number": "DGL2539L8WA"
+    },
+    {
+        "row_index": 450,
+        "original_serial_number": "FGL2633LPSW",
+        "new_serial_number": "DGL2633LPSW"
+    },
+    {
+        "row_index": 451,
+        "original_serial_number": "FGL2539L8X0",
+        "new_serial_number": "DGL2539L8X0"
+    },
+    {
+        "row_index": 452,
+        "original_serial_number": "FGL2530MALK",
+        "new_serial_number": "DGL2530MALK"
+    },
+    {
+        "row_index": 453,
+        "original_serial_number": "FGL2618M3C4",
+        "new_serial_number": "DGL2618M3C4"
+    },
+    {
+        "row_index": 454,
+        "original_serial_number": "FGL2617L6MA",
+        "new_serial_number": "DGL2617L6MA"
+    },
+    {
+        "row_index": 455,
+        "original_serial_number": "FGL2618L7JK",
+        "new_serial_number": "DGL2618L7JK"
+    },
+    {
+        "row_index": 456,
+        "original_serial_number": "FGL2618M3BR",
+        "new_serial_number": "DGL2618M3BR"
+    },
+    {
+        "row_index": 457,
+        "original_serial_number": "FGL2618M3GE",
+        "new_serial_number": "DGL2618M3GE"
+    },
+    {
+        "row_index": 458,
+        "original_serial_number": "FGL2618M3BZ",
+        "new_serial_number": "DGL2618M3BZ"
+    },
+    {
+        "row_index": 459,
+        "original_serial_number": "FGL2531MCFB",
+        "new_serial_number": "DGL2531MCFB"
+    },
+    {
+        "row_index": 460,
+        "original_serial_number": "FGL2631M1XV",
+        "new_serial_number": "DGL2631M1XV"
+    },
+    {
+        "row_index": 461,
+        "original_serial_number": "FGL2531MCJ0",
+        "new_serial_number": "DGL2531MCJ0"
+    },
+    {
+        "row_index": 462,
+        "original_serial_number": "FGL2633LPS4",
+        "new_serial_number": "DGL2633LPS4"
+    },
+    {
+        "row_index": 463,
+        "original_serial_number": "FJC260812JS",
+        "new_serial_number": "DJC260812JS"
+    },
+    {
+        "row_index": 464,
+        "original_serial_number": "FGL2531MCHP",
+        "new_serial_number": "DGL2531MCHP"
+    },
+    {
+        "row_index": 465,
+        "original_serial_number": "FGL2539L8WJ",
+        "new_serial_number": "DGL2539L8WJ"
+    },
+    {
+        "row_index": 466,
+        "original_serial_number": "F0C23474PVF",
+        "new_serial_number": "D0C23474PVF"
+    },
+    {
+        "row_index": 467,
+        "original_serial_number": "FGL2506LBPD",
+        "new_serial_number": "DGL2506LBPD"
+    },
+    {
+        "row_index": 468,
+        "original_serial_number": "FGL2618M3BF",
+        "new_serial_number": "DGL2618M3BF"
+    },
+    {
+        "row_index": 469,
+        "original_serial_number": "FGL2618M3CM",
+        "new_serial_number": "DGL2618M3CM"
+    },
+    {
+        "row_index": 470,
+        "original_serial_number": "FGL2634LGBG",
+        "new_serial_number": "DGL2634LGBG"
+    },
+    {
+        "row_index": 471,
+        "original_serial_number": "FGL2531MCHK",
+        "new_serial_number": "DGL2531MCHK"
+    },
+    {
+        "row_index": 472,
+        "original_serial_number": "FGL2539L8X7",
+        "new_serial_number": "DGL2539L8X7"
+    },
+    {
+        "row_index": 473,
+        "original_serial_number": "FGL2630LY9U",
+        "new_serial_number": "DGL2630LY9U"
+    },
+    {
+        "row_index": 474,
+        "original_serial_number": "FJC26051RBY",
+        "new_serial_number": "DJC26051RBY"
+    },
+    {
+        "row_index": 475,
+        "original_serial_number": "FGL2539L8WR",
+        "new_serial_number": "DGL2539L8WR"
+    },
+    {
+        "row_index": 476,
+        "original_serial_number": "FGL2618M3GB",
+        "new_serial_number": "DGL2618M3GB"
+    },
+    {
+        "row_index": 477,
+        "original_serial_number": "FGL2531MCCX",
+        "new_serial_number": "DGL2531MCCX"
+    },
+    {
+        "row_index": 478,
+        "original_serial_number": "FGL2531MC9M",
+        "new_serial_number": "DGL2531MC9M"
+    },
+    {
+        "row_index": 479,
+        "original_serial_number": "FGL2631M1HR",
+        "new_serial_number": "DGL2631M1HR"
+    },
+    {
+        "row_index": 480,
+        "original_serial_number": "FGL2539L8W6",
+        "new_serial_number": "DGL2539L8W6"
+    },
+    {
+        "row_index": 481,
+        "original_serial_number": "FGL2531MCBQ",
+        "new_serial_number": "DGL2531MCBQ"
+    },
+    {
+        "row_index": 482,
+        "original_serial_number": "FGL2618L7JP",
+        "new_serial_number": "DGL2618L7JP"
+    },
+    {
+        "row_index": 483,
+        "original_serial_number": "FGL2531MCLK",
+        "new_serial_number": "DGL2531MCLK"
+    },
+    {
+        "row_index": 484,
+        "original_serial_number": "FGL2618L7JS",
+        "new_serial_number": "DGL2618L7JS"
+    },
+    {
+        "row_index": 485,
+        "original_serial_number": "FGL2531MCG2",
+        "new_serial_number": "DGL2531MCG2"
+    },
+    {
+        "row_index": 486,
+        "original_serial_number": "FGL2618M3C9",
+        "new_serial_number": "DGL2618M3C9"
+    },
+    {
+        "row_index": 487,
+        "original_serial_number": "FGL2618M3C1",
+        "new_serial_number": "DGL2618M3C1"
+    },
+    {
+        "row_index": 488,
+        "original_serial_number": "FGL2618L7JZ",
+        "new_serial_number": "DGL2618L7JZ"
+    },
+    {
+        "row_index": 489,
+        "original_serial_number": "FCH2424L0E4",
+        "new_serial_number": "DCH2424L0E4"
+    },
+    {
+        "row_index": 490,
+        "original_serial_number": "FGL2631M1FP",
+        "new_serial_number": "DGL2631M1FP"
+    },
+    {
+        "row_index": 491,
+        "original_serial_number": "FGL2630LY9V",
+        "new_serial_number": "DGL2630LY9V"
+    },
+    {
+        "row_index": 492,
+        "original_serial_number": "FGL2631M1EN",
+        "new_serial_number": "DGL2631M1EN"
+    },
+    {
+        "row_index": 493,
+        "original_serial_number": "FGL2618L7K4",
+        "new_serial_number": "DGL2618L7K4"
+    },
+    {
+        "row_index": 494,
+        "original_serial_number": "FGL2631M1TL",
+        "new_serial_number": "DGL2631M1TL"
+    },
+    {
+        "row_index": 495,
+        "original_serial_number": "FGL2539L8X5",
+        "new_serial_number": "DGL2539L8X5"
+    },
+    {
+        "row_index": 496,
+        "original_serial_number": "FGL2630LY9P",
+        "new_serial_number": "DGL2630LY9P"
+    },
+    {
+        "row_index": 497,
+        "original_serial_number": "FGL2539L8VY",
+        "new_serial_number": "DGL2539L8VY"
+    },
+    {
+        "row_index": 498,
+        "original_serial_number": "FGL2630LY9Q",
+        "new_serial_number": "DGL2630LY9Q"
+    },
+    {
+        "row_index": 499,
+        "original_serial_number": "FGL2506LBPJ",
+        "new_serial_number": "DGL2506LBPJ"
+    }
+]

@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+openpyxl
+llama-index
+python-dotenv
+cryptography
+plotly
+matplotlib
+python-levenshtein

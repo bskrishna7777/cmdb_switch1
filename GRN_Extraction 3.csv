@@ -1,0 +1,3343 @@
+Manufacturer,Serial Number,Class,Model ID
+Palo Alto,WL6QR12E7A,Controller,Panorama
+Palo Alto,6LMPFMGTHR,Router,PA-850
+Palo Alto,PW5OAPFR5I,Router,PA-850
+Palo Alto,BNVSVHO7A6,Router,PA-850
+Cisco Systems ,44UZJCAOJ4,Access Point,Catalyst 9100
+Cisco Systems ,WTO0J1STVN,Access Point,Catalyst 9100
+Cisco Systems ,OWVW9BKK80,Access Point,Catalyst 9100
+Cisco Systems ,81PAA5C67S,Access Point,Catalyst 9100
+Cisco Systems ,ZOHFFSMMHA,Access Point,Catalyst 9100
+Cisco Systems ,PMF4L6TS0K,Access Point,Catalyst 9100
+Cisco Systems ,Z6G9OKA7BY,Access Point,Catalyst 9100
+Cisco Systems ,A51DH79S92,Access Point,Catalyst 9100
+Cisco Systems ,EURRPU96GQ,Access Point,Catalyst 9100
+Cisco Systems ,OOAZARDMOK,Access Point,Catalyst 9100
+Cisco Systems ,AZ9TRIUULB,Access Point,Catalyst 9100
+Cisco Systems ,6HKV81MIQP,Access Point,Catalyst 9100
+Fortinet,3Y56GWWQ99,Load Balancer,FortiADC 200F
+Fortinet,AQEAYORPXX,Load Balancer,FortiADC 200F
+Fortinet,3BSFX6O7KH,Load Balancer,FortiADC 200F
+Fortinet,7VCL8WG0Y7,Load Balancer,FortiADC 200F
+Fortinet,X7PAF0R45P,Load Balancer,FortiADC 200F
+Fortinet,067SOPV7O3,Load Balancer,FortiADC 200F
+Fortinet,1F4TTLSFWE,Load Balancer,FortiADC 200F
+Fortinet,J2NDOFFK91,Load Balancer,FortiADC 200F
+Fortinet,MM4EGUEG9I,Load Balancer,FortiADC 200F
+Fortinet,E7CMJPUWHK,Load Balancer,FortiADC 200F
+Fortinet,X9WMTB73IN,Load Balancer,FortiADC 200F
+Fortinet,X6DJCULSYE,Load Balancer,FortiADC 200F
+Fortinet,TWTU3AXJ8G,Load Balancer,FortiADC 200F
+Fortinet,9J4V9HENTO,Load Balancer,FortiADC 200F
+Juniper,WM24IO0ADI,Gateway,SRX1500 Gateway
+Juniper,QPSH5LSZAR,Gateway,SRX1500 Gateway
+Juniper,E9GZNG5YRB,Gateway,SRX1500 Gateway
+Juniper,DN35GMK8K6,Gateway,SRX1500 Gateway
+Juniper,1JYT2ZNCZE,Gateway,SRX1500 Gateway
+Juniper,B0I0WPOQWD,Gateway,SRX1500 Gateway
+Juniper,PAPX9PWEBT,Gateway,SRX1500 Gateway
+Juniper,4CJ8V5Y1ZQ,Gateway,SRX1500 Gateway
+Juniper,S3GLUHR1ZR,Gateway,SRX1500 Gateway
+Cisco,PZQY2AAIBE,Router,ASR 1000 Series
+Series Cisco,J2DB00E49K,Firewall,Firepower 4100
+Series Cisco,L70X8JLKAM,Firewall,Firepower 4100
+Series Cisco,LBMT2806D3,Firewall,Firepower 4100
+Series Cisco,JQ36JI8QL4,Firewall,Firepower 4100
+Series Cisco,0F63NYXK7J,Firewall,Firepower 4100
+Series Cisco,VIZK9LSIA1,Firewall,Firepower 4100
+Series Cisco,2FHAYHLM17,Firewall,Firepower 4100
+Fortinet,A0RT5EKXJS,Load Balancer,FortiADC 200F
+Fortinet,3HBIWLVYUF,Load Balancer,FortiADC 200F
+Fortinet,63LGEJT5JV,Load Balancer,FortiADC 200F
+Fortinet,JUPL1CP05Z,Load Balancer,FortiADC 200F
+Fortinet,J0X7YWTJKW,Load Balancer,FortiADC 200F
+Fortinet,UGGPMN8LWZ,Load Balancer,FortiADC 200F
+Fortinet,NXO6AWZAI2,Load Balancer,FortiADC 200F
+Fortinet,6UJEDZ68F3,Load Balancer,FortiADC 200F
+Fortinet,DVMJ1SB6X3,Load Balancer,FortiADC 200F
+Fortinet,D3F7TYWY71,Load Balancer,FortiADC 200F
+Fortinet,P4FEBU3BBB,Load Balancer,FortiADC 200F
+Fortinet,2TOAI4SXYJ,Load Balancer,FortiADC 200F
+Fortinet,Z8IOOHECEP,Load Balancer,FortiADC 200F
+Juniper,14YL3IFMEF,Firewall,SRX5800
+Juniper,HKT3AVEWPS,Firewall,SRX5800
+Fortinet Inc,TFLBNYP0E7,Firewall,FortiGate 60F
+Fortinet,I58Y5M3LIL,Firewall,FortiGate 60F
+Fortinet,TOW2KVREVX,Firewall,FortiGate 60F
+Fortinet,HNXYQQ10SQ,Firewall,FortiGate 60F
+Fortinet,MO2H1FQ5QH,Firewall,FortiGate 60F
+Fortinet,ABYGUGHGR5,Firewall,FortiGate 60F
+Fortinet,49QTDJTPW8,Firewall,FortiGate 60F
+Fortinet,4AR7IATC0Q,Firewall,FortiGate 60F
+Fortinet,VUE55BXLZ1,Firewall,FortiGate 60F
+Fortinet,RLANS1JPU1,Firewall,FortiGate 60F
+Fortinet Inc,OFWFK5OVNM,Firewall,FortiGate 60F
+Fortinet Inc,9ROBPB80QW,Firewall,FortiGate 60F
+Fortinet Inc,9HLNSXM960,Firewall,FortiGate 60F
+ Palo Alto,NER5T87R90,Edge Device,Prisma SD-WAN
+ Palo Alto,SYYAD2AQ52,Edge Device,Prisma SD-WAN
+ Palo Alto,HQXNVHS9NS,Edge Device,Prisma SD-WAN
+ Palo Alto,U3UVXHG93K,Edge Device,Prisma SD-WAN
+ Palo Alto,PAAYJLBRKT,Edge Device,Prisma SD-WAN
+Palo Alto,7AWP8OAIBX,Controller,Panorama
+Palo Alto,9D2ZR9Y3AD,Controller,Panorama
+Palo Alto Networks,FIYJ01CBBZ,Controller,Panorama
+Palo Alto Networks,E14WCHNQTT,Controller,Panorama
+Palo Alto Networks,LQDZNCSVZC,Controller,Panorama
+Palo Alto Networks,SZE8P1H5JO,Controller,Panorama
+Palo Alto,043XVZV7I8,Controller,Panorama
+Palo Alto,ZW1ZBHGRJV,Controller,Panorama
+Palo Alto,WJS4M4UF6C,Controller,Panorama
+Series Cisco,2BWK54VX0A,Router,Catalyst 8000
+Series Cisco,EQZ56GHSQX,Router,Catalyst 8000
+Series Cisco,EHO4DBXWPI,Router,Catalyst 8000
+Fortinet,6YXAQ28UU6,Firewall,FortiExtender 201E
+Fortinet,47EPOYJH8I,Firewall,FortiExtender 201E
+Fortinet,5TWCT4FC02,Firewall,FortiExtender 201E
+Fortinet,OKAD25GJO7,Firewall,FortiExtender 201E
+Fortinet,SJ324ES8T3,Firewall,FortiExtender 201E
+Fortinet,9B2W8B2KBM,Firewall,FortiExtender 201E
+Fortinet,EPJ91Y4ZWH,Firewall,FortiExtender 201E
+Fortinet,CIZI0R90NV,Firewall,FortiExtender 201E
+Cisco,9PGX3SA64M,Firewall,ASA 5500-X Series
+Cisco,3MJWIW9MNW,Firewall,ASA 5500-X Series
+Cisco,PEU2FGQNQM,Firewall,ASA 5500-X Series
+Cisco,FCAA3P3K15,Firewall,ASA 5500-X Series
+Cisco,WLA4TC40DI,Firewall,ASA 5500-X Series
+Cisco,4YJWXQFVAT,Firewall,ASA 5500-X Series
+Cisco,AS3YPG5KNO,Firewall,ASA 5500-X Series
+Cisco,6Z3V42SP99,Firewall,ASA 5500-X Series
+Cisco,31I1TW80BG,Firewall,ASA 5500-X Series
+Cisco,IXZJ5MGS7X,Firewall,ASA 5500-X Series
+Cisco,9L6HMJUNNG,Firewall,ASA 5500-X Series
+Cisco,L8QU8INHJG,Firewall,ASA 5500-X Series
+Cisco,A2HF36TXBZ,Firewall,ASA 5500-X Series
+Cisco,HP30WMFGQB,Firewall,ASA 5500-X Series
+Cisco,3H40RLR41V,Firewall,ASA 5500-X Series
+Cisco,6VKS4UHG92,Firewall,ASA 5500-X Series
+Cisco,USPWHWJ0LS,Access Point,Meraki MR56
+Cisco,2OM1NDPE0S,Access Point,Meraki MR56
+Cisco,AWOOY8TOIR,Access Point,Meraki MR56
+Cisco,LFXJOB22YV,Access Point,Meraki MR56
+Cisco,TFUTJQTPKE,Access Point,Meraki MR56
+Cisco,GMKFXV6MX4,Access Point,Meraki MR56
+Cisco,ZYCJIMM9MH,Access Point,Meraki MR56
+Cisco,D1QMUJUCXJ,Access Point,Meraki MR56
+Cisco,3FJGJTT4TV,Access Point,Meraki MR56
+Cisco,IP0OMX7WN4,Access Point,Meraki MR56
+Cisco,64LRB5AONY,Access Point,Meraki MR56
+Cisco,2A9GGXF21W,Access Point,Meraki MR56
+Cisco,4TYYT67GKS,Access Point,Meraki MR56
+Cisco,3TTOOYUOIT,Access Point,Meraki MR56
+ Palo Alto,DAG29J93CM,Edge Device,Prisma SD-WAN
+ Palo Alto,JGSI7CCZUC,Edge Device,Prisma SD-WAN
+ Palo Alto,G4QM3U7Q4T,Edge Device,Prisma SD-WAN
+ Palo Alto,V1UZ8H5UWH,Edge Device,Prisma SD-WAN
+ Palo Alto,BA8L4OTOO8,Edge Device,Prisma SD-WAN
+Palo Alto Networks,S3KKZEIIDH,Edge Device,Prisma SD-WAN
+Palo Alto Networks,NEEC64LRFK,Edge Device,Prisma SD-WAN
+Palo Alto Networks,II1W8C9PIX,Edge Device,Prisma SD-WAN
+Palo Alto Networks,7KNL4OX3KL,Edge Device,Prisma SD-WAN
+ Palo Alto,3Q1X5A2ROM,Edge Device,Prisma SD-WAN
+ Palo Alto,96JO648HEF,Edge Device,Prisma SD-WAN
+ Palo Alto,NL85LE82L3,Edge Device,Prisma SD-WAN
+ Palo Alto,XQWCEG8OQP,Edge Device,Prisma SD-WAN
+ Palo Alto,19S9F0DZSS,Edge Device,Prisma SD-WAN
+ Palo Alto,H8396OGZVX,Edge Device,Prisma SD-WAN
+ Palo Alto,1MQO7DKEWE,Edge Device,Prisma SD-WAN
+Cisco,CRUS1FJKEZ,Switch,Catalyst 2960-XR
+Cisco,Z1AWPULC49,Switch,Catalyst 2960-XR
+Cisco,TCCNO67O7A,Switch,Catalyst 2960-XR
+Cisco,VGIFRIKW0W,Switch,Catalyst 2960-XR
+Cisco,47CL6CHCFR,Switch,Catalyst 2960-XR
+Cisco,5HB0AF83S3,Switch,Catalyst 2960-XR
+Cisco,5IWKAKZLHY,Switch,Catalyst 2960-XR
+Cisco,3KXX9BOEUN,Switch,Catalyst 2960-XR
+Cisco,H086WPGUZZ,Switch,Catalyst 2960-XR
+Cisco,IZ6XKW1WS2,Switch,Catalyst 2960-XR
+Cisco,DSXV9391KF,Switch,Catalyst 2960-XR
+Cisco,WHOWUC1S1D,Switch,Catalyst 2960-XR
+Cisco,D9R1K57VH6,Switch,Catalyst 2960-XR
+Cisco,ZP4EQNSGCO,Switch,Catalyst 2960-XR
+Cisco,26TP95C83N,Switch,Catalyst 2960-XR
+Cisco,VB22BWVNBQ,Switch,Catalyst 2960-XR
+Cisco,0M6BPSSHVN,Switch,Catalyst 2960-XR
+Cisco,HHVAKYNVUJ,Switch,Catalyst 2960-XR
+Cisco,003XI9X58I,Switch,Catalyst 2960-XR
+Palo Alto,FI3JHSJ4CP,Router,PA-850
+Palo Alto,SKY63PM63J,Router,PA-850
+Palo Alto,M0X8HEQHXY,Router,PA-850
+Palo Alto,79S7K4YKMR,Router,PA-850
+Palo Alto,BOXE90U193,Router,PA-850
+Palo Alto,L5T3U0CB0F,Router,PA-850
+Palo Alto Networks,H2AWUSX1YI,Router,PA-850
+Palo Alto Networks,2SLBW32M3L,Router,PA-850
+Juniper,0RH9OEB6AL,Switch,QFX5120
+Juniper,T327ARC9GF,Switch,QFX5120
+Juniper,AD0LRBXI8G,Switch,QFX5120
+Juniper Network,X80591JC0X,Switch,QFX5120
+Juniper Network,A0Y7Y1W3BQ,Switch,QFX5120
+Juniper Network,HN89IWAN6V,Switch,QFX5120
+Juniper Networks,VZ9QBHQXM4,Switch,QFX5120
+Juniper Networks,HD0J1QD06C,Switch,QFX5120
+Juniper Networks,0LRSID9F2W,Switch,QFX5120
+Juniper,BOK7MVLWP8,Switch,QFX5120
+Juniper,MULPKTAG98,Switch,QFX5120
+Juniper,C5HSE0UGO8,Switch,QFX5120
+Juniper,IOKV7F80C4,Switch,QFX5120
+Juniper,EA2OHGTN04,Switch,QFX5120
+Juniper,P7AAH3FU1K,Switch,QFX5120
+Juniper,H14G5VVE76,Switch,QFX5120
+Series Cisco,GASB8TGUT5,Firewall,Firepower 2100
+Series Cisco,GHDES9DPTZ,Firewall,Firepower 2100
+Series Cisco,OFT5TFFGO6,Firewall,Firepower 2100
+Series Cisco,72DA4ZPSB6,Firewall,Firepower 2100
+Series Cisco,IQO93MHLAW,Firewall,Firepower 2100
+Series Cisco,Y1C0M6UOE1,Firewall,Firepower 2100
+Series Cisco,O4HES96AYB,Firewall,Firepower 2100
+Series Cisco,ACG6C08UTR,Firewall,Firepower 2100
+Series Cisco,CC9P00PKVA,Firewall,Firepower 2100
+Series Cisco,R85I1RP8RW,Firewall,Firepower 2100
+Series Cisco,ZK8ZT6OZOL,Firewall,Firepower 2100
+Series Cisco,P7Q0RWTLPE,Firewall,Firepower 2100
+Series Cisco,IH3I7FZ4MX,Firewall,Firepower 2100
+Series Cisco,27KHHY1SWX,Firewall,Firepower 2100
+Series Cisco,UJ7V78N4LC,Firewall,Firepower 2100
+Series Cisco,F1ODH2T5PS,Firewall,Firepower 2100
+Series Cisco,QXJBDB4P19,Firewall,Firepower 2100
+Series Cisco,D4B6BWOM8X,Firewall,Firepower 2100
+Series Cisco,OSTNHQUZBK,Firewall,Firepower 2100
+Series Cisco,TDTHY3VQB3,Firewall,Firepower 2100
+Cisco,S1S2TZN1RR,Switch,Catalyst 2960-XR
+Cisco,W1RWX5WSNR,Switch,Catalyst 2960-XR
+Cisco,716HUASNCE,Switch,Catalyst 2960-XR
+Cisco,BYTXHYD434,Switch,Catalyst 2960-XR
+Cisco,YUX39KOHMG,Switch,Catalyst 2960-XR
+Cisco,K8K6OLWQ68,Switch,Catalyst 2960-XR
+Cisco,ECJ670XMLN,Switch,Catalyst 2960-XR
+Cisco,JAQVFH7DIZ,Switch,Catalyst 2960-XR
+Cisco,DZMW1ASOY4,Switch,Catalyst 2960-XR
+Cisco,TRXFAP508D,Switch,Catalyst 2960-XR
+Cisco,EA2566QAHL,Switch,Catalyst 2960-XR
+Cisco,K4I3URLQA0,Switch,Catalyst 2960-XR
+Cisco,0REMLU4ODS,Switch,Catalyst 2960-XR
+Cisco,ZNDID30GVD,Switch,Catalyst 2960-XR
+Cisco,DNPRAYYPGY,Switch,Catalyst 2960-XR
+Fortinet,PMIQSKUDOE,Load Balancer,FortiADC 3000F
+Fortinet,HJ594X8837,Load Balancer,FortiADC 3000F
+Fortinet,JBLA4LCJ5X,Load Balancer,FortiADC 3000F
+Fortinet,OJZEET2X8C,Load Balancer,FortiADC 3000F
+Fortinet,JID8PHPCJD,Load Balancer,FortiADC 3000F
+Cisco,R6A6T44N6L,Router,NCS 5000 Series
+Cisco,UTIFYYJXUN,Router,NCS 5000 Series
+Palo Alto,BNPVB4H7N7,Firewall,PA-7000 Series
+Palo Alto,YQGTTKW2Y9,Firewall,PA-7000 Series
+Palo Alto,NNADR1I8NG,Firewall,PA-7000 Series
+Fortinet,T6RL7NVFGG,Load Balancer,FortiADC 3000F
+Fortinet,8DX1TLKHPY,Load Balancer,FortiADC 3000F
+Fortinet,0ANPXZHZED,Load Balancer,FortiADC 3000F
+Fortinet,HYNXLQAB1D,Load Balancer,FortiADC 3000F
+Juniper,TURW412WOM,Switch,EX4300
+ Palo Alto,3A6YAQDOTD,Edge Device,Prisma SD-WAN
+ Palo Alto,TJKSAL4T8U,Edge Device,Prisma SD-WAN
+ Palo Alto Networks,179NG3WR3K,Edge Device,Prisma SD-WAN
+ Palo Alto Networks,VY74KDF0FS,Edge Device,Prisma SD-WAN
+ Palo Alto Networks,GBMSKK4ICI,Edge Device,Prisma SD-WAN
+ Palo Alto Networks,M9E4LGCMJM,Edge Device,Prisma SD-WAN
+ Palo Alto,EMJA2JN5U9,Edge Device,Prisma SD-WAN
+ Palo Alto,XSC9HHMI71,Edge Device,Prisma SD-WAN
+ Palo Alto,MZ95S8U7SV,Edge Device,Prisma SD-WAN
+ Palo Alto,VJJEV293CD,Edge Device,Prisma SD-WAN
+Fortinet,6U773I7I3N,Firewall,FortiGate 100F
+Fortinet,A0MG92I1JU,Firewall,FortiGate 100F
+Fortinet,IUH17UKGQ3,Firewall,FortiGate 100F
+Fortinet,MR0OUYNLSO,Firewall,FortiGate 100F
+Fortinet,EDO33W74KE,Firewall,FortiGate 100F
+Fortinet,JRDK9ORDG4,Firewall,FortiGate 100F
+Fortinet,GREC3J37R9,Firewall,FortiGate 100F
+Fortinet Inc ,G9NGZCV5DS,Firewall,FortiGate 100F
+Fortinet Inc ,SO5660DKVU,Firewall,FortiGate 100F
+Fortinet Inc ,87HJ8BH2VN,Firewall,FortiGate 100F
+Fortinet,LF3AP1AGYW,Firewall,FortiGate 100F
+Fortinet,DM7OEVOWT3,Firewall,FortiGate 100F
+Fortinet,2OKK0KNC14,Firewall,FortiGate 100F
+Fortinet,AKCCTOE4DR,Firewall,FortiGate 100F
+Fortinet,ZDTYUFOFK1,Firewall,FortiGate 100F
+Fortinet,NL37S4U453,Firewall,FortiGate 100F
+Fortinet,5ER07OLM7S,Firewall,FortiGate 100F
+Fortinet,2LI8ZC24HQ,Firewall,FortiGate 100F
+Fortinet Inc ,ZILOBNOC58,Firewall,FortiGate 100F
+Fortinet Inc ,41ZT00MPMA,Firewall,FortiGate 60F
+Fortinet Inc ,3DKKFB9MM0,Firewall,FortiGate 60F
+Fortinet,9YY9KQEHYT,Firewall,FortiGate 60F
+Fortinet,5VPN6OZ7D8,Firewall,FortiGate 60F
+Fortinet,JOH8D4APA1,Firewall,FortiGate 60F
+ Palo Alto,72ZZBJZRVP,Edge Device,Prisma SD-WAN
+ Palo Alto,PQSDTIAG5N,Edge Device,Prisma SD-WAN
+ Palo Alto,UCXAAVFAXI,Edge Device,Prisma SD-WAN
+ Palo Alto,CI4ZIAZPBO,Edge Device,Prisma SD-WAN
+ Palo Alto,OC999P2KWS,Edge Device,Prisma SD-WAN
+ Palo Alto,OFSH5446OC,Edge Device,Prisma SD-WAN
+ Palo Alto,N8WD04WMB6,Edge Device,Prisma SD-WAN
+ Palo Alto,D2R1BER10O,Edge Device,Prisma SD-WAN
+ Palo Alto,PO89UTE189,Edge Device,Prisma SD-WAN
+ Palo Alto,WY9UHZSBSH,Edge Device,Prisma SD-WAN
+ Palo Alto,57QOYJCAD6,Edge Device,Prisma SD-WAN
+ Palo Alto,GB62HNQYUX,Edge Device,Prisma SD-WAN
+ Palo Alto,EF870XOMX6,Edge Device,Prisma SD-WAN
+ Palo Alto,HAZBUM9J7U,Edge Device,Prisma SD-WAN
+ Palo Alto,KZLFE4G1C9,Edge Device,Prisma SD-WAN
+ Palo Alto,EOJMSLS4MG,Edge Device,Prisma SD-WAN
+ Palo Alto,GT4F4W1JSP,Edge Device,Prisma SD-WAN
+ Palo Alto,RLB3HEKSXI,Edge Device,Prisma SD-WAN
+ Palo Alto,W9RVJEBL5I,Edge Device,Prisma SD-WAN
+ Palo Alto,WZR4B9Y6HN,Edge Device,Prisma SD-WAN
+Palo Alto,ODRB2DEUG9,Router,PA-850
+Palo Alto,PS3F8FYRFC,Router,PA-850
+Palo Alto,SZRC4RPM17,Router,PA-850
+Palo Alto networks,1TGAEYVUDY,Router,PA-850
+Palo Alto networks,UDPORMRQ2P,Router,PA-850
+Palo Alto networks,G9OFSI4OX8,Router,PA-850
+Palo Alto network,WONZ8DY31E,Router,PA-850
+Palo Alto,JR09287SVJ,Router,PA-850
+Palo Alto,7P1QVPM0NG,Router,PA-850
+Palo Alto,H1I9CN36AQ,Router,PA-850
+Palo Alto,ABBM8D9279,Router,PA-850
+Palo Alto,QOG8B42N5X,Router,PA-850
+Palo Alto,8IV5GW6OI0,Router,PA-850
+Palo Alto,K8JH3EI37F,Router,PA-850
+Palo Alto,L32QST3D1Y,Router,PA-850
+Palo Alto,TS27JWHHOT,Router,PA-850
+Palo Alto,JMY61ZD99Q,Router,PA-850
+Palo Alto,R5JXWL7IF0,Router,PA-850
+Cisco,WWE5OL6PZN,Access Point,Meraki MR56
+Cisco,LMHBTN9V2K,Access Point,Meraki MR56
+Cisco,5ZHDH7X8OW,Access Point,Meraki MR56
+Cisco,TO4WJTYSDH,Access Point,Meraki MR56
+Cisco,Q17MJU2V0O,Access Point,Meraki MR56
+Cisco,O6PRFDAO76,Access Point,Meraki MR56
+Cisco,DCD22BQ4WB,Access Point,Meraki MR56
+Cisco,9PB2H1P9SJ,Access Point,Meraki MR56
+Cisco,7M2NDV8KGA,Access Point,Meraki MR56
+Cisco,5WF57VXUO1,Access Point,Meraki MR56
+Cisco,5KGI19M661,Access Point,Meraki MR56
+Cisco,E4TDSNPNA0,Access Point,Meraki MR56
+Cisco,HPK6J0Y58W,Access Point,Meraki MR56
+Cisco,L33GUZ838K,Access Point,Meraki MR56
+Cisco,C8ELERO1XI,Access Point,Meraki MR56
+Cisco,LS8J20YK2X,Access Point,Meraki MR56
+Cisco,PZEWED36WD,Access Point,Meraki MR56
+Cisco,FXEB9REWZR,Access Point,Meraki MR56
+Cisco,1AR26O6H9O,Access Point,Meraki MR56
+Juniper,XZBJ7UX4WA,Firewall,SRX5800
+Juniper,KUQB0A4DJK,Firewall,SRX5800
+Juniper,EBQ5AQE979,Firewall,SRX5800
+Juniper,9PAYGJSDJ9,Firewall,SRX5800
+Juniper,CF00P9STAE,Firewall,SRX5800
+Juniper,CY5PF93UBV,Firewall,SRX5800
+Juniper,KRYE7NZI0W,Firewall,SRX5800
+Juniper,H8EERHHOMO,Firewall,SRX5800
+Juniper,XW7QCR2XMQ,Firewall,SRX5800
+Juniper,CZ3EM4S55Q,Firewall,SRX5800
+Juniper,QV3KUE99KA,Firewall,SRX5800
+Juniper,KJ046DZATV,Firewall,SRX5800
+Juniper,JZFHD7XIUS,Firewall,SRX5800
+Juniper,HFLD3T6QBE,Firewall,SRX5800
+Juniper,1KGZ1U1B96,Firewall,SRX5800
+Fortinet,QR4OJV5T7E,Load Balancer,FortiADC 200F
+Fortinet,5IZIMVAN7W,Load Balancer,FortiADC 200F
+Fortinet,K96JF4B8SB,Load Balancer,FortiADC 200F
+Fortinet,K4F758BW5D,Load Balancer,FortiADC 200F
+Fortinet,BNYTX7FO06,Load Balancer,FortiADC 200F
+Fortinet,G9R68YB3IJ,Load Balancer,FortiADC 200F
+Fortinet,AVNPEN5SID,Load Balancer,FortiADC 200F
+Fortinet,0VNFEHPDXI,Load Balancer,FortiADC 200F
+Fortinet,3RHR0B9ODR,Load Balancer,FortiADC 200F
+Fortinet,WUTN1P9GCD,Load Balancer,FortiADC 200F
+Fortinet,ZC6TM6HYH9,Load Balancer,FortiADC 200F
+Fortinet,MD9ZUFEISY,Load Balancer,FortiADC 200F
+Fortinet,FXUL59DQFR,Load Balancer,FortiADC 200F
+Fortinet,KR6LC7VOR5,Load Balancer,FortiADC 200F
+Fortinet,4Y49XDMUX0,Load Balancer,FortiADC 200F
+Fortinet,VJUIGOULYS,Load Balancer,FortiADC 200F
+Fortinet,TO1A0C44DP,Load Balancer,FortiADC 200F
+Fortinet,0E470AP93Q,Load Balancer,FortiADC 200F
+Fortinet,NV4T1XDCJH,Load Balancer,FortiADC 200F
+Fortinet,9E9SRRB2PE,Load Balancer,FortiADC 3000F
+Fortinet,KE65J0RRFW,Load Balancer,FortiADC 3000F
+Fortinet,7QQ55YJ4LW,Load Balancer,FortiADC 3000F
+Fortinet,DPIUVXC457,Load Balancer,FortiADC 3000F
+Fortinet,JNCIQMSSBG,Load Balancer,FortiADC 3000F
+Fortinet,IZW0S2TWVC,Load Balancer,FortiADC 3000F
+Fortinet,49ESFWSBB9,Load Balancer,FortiADC 3000F
+Fortinet,C3UB05RZS2,Load Balancer,FortiADC 3000F
+Fortinet,CER3N8O4HY,Load Balancer,FortiADC 3000F
+Fortinet,JM9Z1U2WD8,Load Balancer,FortiADC 3000F
+Fortinet,ZRR13VT2H1,Load Balancer,FortiADC 3000F
+Fortinet,P3IXIVS8IH,Load Balancer,FortiADC 3000F
+Fortinet,NXMIH3Q29A,Load Balancer,FortiADC 3000F
+Fortinet,1EU9E2HPAU,Load Balancer,FortiADC 3000F
+Fortinet,VYVV8N4LD3,Load Balancer,FortiADC 3000F
+Fortinet,ITQGWT0W4N,Load Balancer,FortiADC 3000F
+Fortinet,OMHT6JUXXU,Load Balancer,FortiADC 3000F
+Fortinet,CRMEAQG4ZC,Load Balancer,FortiADC 3000F
+Palo Alto,ON4WXRREHG,Firewall,PA-3220
+Palo Alto,83QI35KF0V,Firewall,PA-3220
+Palo Alto,YLQZCRPKMU,Firewall,PA-3220
+Palo Alto,I1K6MGSJDE,Firewall,PA-3220
+Palo Alto,1JW0HRW9G9,Firewall,PA-3220
+Palo Alto,EHPLY0KK7V,Firewall,PA-3220
+Palo Alto,6N5RN92B60,Firewall,PA-3220
+Palo Alto,HVIOR9EAT9,Firewall,PA-3220
+Palo Alto,G9POPYFEDI,Firewall,PA-3220
+Palo Alto,4H4WI9KE50,Firewall,PA-3220
+Palo Alto,RM5E3QGYOC,Firewall,PA-3220
+Series Cisco,AT0E73HAZS,Firewall,Firepower 2100
+Series Cisco,T8S5SY5VWI,Firewall,Firepower 2100
+Series Cisco,PYDUNW9DWC,Firewall,Firepower 2100
+Series Cisco,50TPO4WLUM,Firewall,Firepower 2100
+Series Cisco,8RT28UBAXC,Firewall,Firepower 2100
+Series Cisco,KCG0RHEV3M,Firewall,Firepower 2100
+Series Cisco,1FUVV1OVX5,Firewall,Firepower 2100
+Series Cisco,C37L5MFULO,Firewall,Firepower 2100
+Series Cisco,U8OBQMUSBO,Firewall,Firepower 2100
+Series Cisco,OMOGFEIIY9,Firewall,Firepower 2100
+Series Cisco,PM8MS9T3UC,Firewall,Firepower 2100
+Series Cisco,KML61QPWAG,Firewall,Firepower 2100
+Series Cisco,O3R03E2PXN,Firewall,Firepower 2100
+Series Cisco,NDWM7AGFCS,Firewall,Firepower 2100
+Series Cisco,QV5WQ06N59,Firewall,Firepower 2100
+Series Cisco,TWPLJOKPFQ,Firewall,Firepower 2100
+Series Cisco,3YZNYSFV98,Firewall,Firepower 2100
+Series Cisco,7ZVHSNAXW1,Firewall,Firepower 2100
+Juniper,34MIQ57W4B,Firewall,SRX5800
+Juniper,LTSYSYWGZS,Firewall,SRX5800
+Juniper,4L119EHBEQ,Firewall,SRX5800
+Juniper,QKFZK4OOAH,Firewall,SRX5800
+Juniper,K7KC6RS8Y8,Firewall,SRX5800
+Juniper,Z9RQ1H7C93,Firewall,SRX5800
+Juniper Networks,O9D16ENWZM,Firewall,SRX5800
+Juniper Networks,5MUTEJ6JDK,Firewall,SRX5800
+Juniper Networks,Q105YS538W,Firewall,SRX5800
+Juniper Network,M9NT9V9OPC,Firewall,SRX5800
+Juniper Network,L6SGS57PSF,Firewall,SRX5800
+Juniper Network,CWAGTLN8CB,Firewall,SRX5800
+Juniper,LNZ091HF6O,Firewall,SRX5800
+Juniper,B2LVBZ0458,Firewall,SRX5800
+Cisco,O1ZCQ56LQL,Switch,Nexus 9500 Series
+Cisco,EVCONFKTD2,Switch,Nexus 9500 Series
+Cisco,4EYY2F984H,Switch,Nexus 9500 Series
+Cisco,28RUUGIDOS,Switch,Nexus 9500 Series
+Cisco,MVATRU6QVR,Switch,Nexus 9500 Series
+Cisco,2CJ2RIQARR,Switch,Nexus 9500 Series
+Cisco,A9H2SO6N9W,Switch,Nexus 9500 Series
+Cisco,4A779GF5V9,Switch,Nexus 9500 Series
+Cisco,T835ENDNHG,Switch,Nexus 9500 Series
+Cisco,C078Z6656M,Switch,Nexus 9500 Series
+Cisco,XR61YAS3O9,Switch,Nexus 9500 Series
+Cisco,1474K77HI6,Switch,Nexus 9500 Series
+Cisco Inc,CRGM6KPR2G,Switch,Nexus 9500 Series
+Cisco Inc,ZYY2ZMQ2HQ,Switch,Nexus 9500 Series
+Cisco Inc,6PWNDZD486,Switch,Nexus 9500 Series
+Cisco,OO1VO0A7U5,Switch,Nexus 9500 Series
+Cisco,EHYQX3OGFH,Switch,Nexus 9500 Series
+Cisco,RWU30B8J4P,Switch,Nexus 9500 Series
+Fortinet,6B7Q3CLXZO,Load Balancer,FortiADC 3000F
+Fortinet,NAVDJFC55R,Load Balancer,FortiADC 3000F
+Fortinet,DAHEFZ53SU,Load Balancer,FortiADC 3000F
+Fortinet,ZLV2SXSI6H,Load Balancer,FortiADC 3000F
+Fortinet,4DXS6F34F1,Load Balancer,FortiADC 3000F
+Fortinet,TQKUGUNTPQ,Load Balancer,FortiADC 3000F
+Fortinet,9OMH3H7RU8,Load Balancer,FortiADC 3000F
+Fortinet,CYLZAYBJF2,Load Balancer,FortiADC 3000F
+Cisco,O6EWBN1YHM,Switch,Catalyst 2960-XR
+Cisco,6AKZCCCRMK,Switch,Catalyst 2960-XR
+Cisco,YOS0LR17ZT,Switch,Catalyst 2960-XR
+Cisco,KQFTYLIK2Z,Switch,Catalyst 2960-XR
+Cisco,UTC0EJNF97,Switch,Catalyst 2960-XR
+Cisco,BTWGSH3DGU,Switch,Catalyst 2960-XR
+Cisco,YIE84CP851,Switch,Catalyst 2960-XR
+Cisco,H5G4ZUGPFS,Switch,Catalyst 2960-XR
+Cisco,0VMAXF4XDI,Switch,Catalyst 2960-XR
+Cisco,OSGNRJ38KW,Switch,Catalyst 2960-XR
+Cisco,U1XGR52F07,Switch,Catalyst 2960-XR
+Cisco,Z3JY4O3KZ4,Switch,Catalyst 2960-XR
+Cisco,GWBBHXV3E5,Switch,Catalyst 2960-XR
+Cisco,OUGVSRX2TU,Switch,Catalyst 2960-XR
+Cisco,6F2U3NRWJ4,Switch,Catalyst 2960-XR
+Cisco,PKQ8S5R2Z4,Switch,Catalyst 2960-XR
+Cisco,EGGO1ZLMRB,Switch,Catalyst 2960-XR
+Juniper,VFC4TGPQRJ,Firewall,SRX320
+Juniper,NB0KK5GV0K,Firewall,SRX320
+Juniper,ZWZ1RCCORX,Firewall,SRX320
+Juniper,S1PFXJKGBE,Firewall,SRX320
+Juniper,4SS3VQBIF2,Firewall,SRX320
+Juniper,6HDOS4BWLM,Firewall,SRX320
+Juniper,2IV97EZJ4W,Firewall,SRX320
+Juniper,RF6SFLBOTO,Firewall,SRX320
+Juniper,JPRH4LQZJI,Firewall,SRX320
+Juniper,A262U704WW,Firewall,SRX320
+Juniper,QSJQ4LUCY8,Gateway,SRX1500 Gateway
+Juniper,8HTBT1CYLD,Gateway,SRX1500 Gateway
+Juniper,XSDSCWXP17,Gateway,SRX1500 Gateway
+Palo Alto,DWC9O4V7RS,Firewall,PA-5220
+ Palo Alto,A4BQX5OF4E,Edge Device,Prisma SD-WAN
+Cisco,WEMOTH9YY4,Access Point,Catalyst 9100
+Cisco,JQNFJ9KVWB,Access Point,Catalyst 9100
+Cisco,HG4BD6ELWL,Access Point,Catalyst 9100
+Fortinet,RHQFHQL4BB,Firewall,FortiExtender 201E
+Fortinet,FDZHUX2CAT,Firewall,FortiExtender 201E
+Fortinet,VGVYVOYL5H,Firewall,FortiExtender 201E
+Fortinet,ILDH2AFEZA,Firewall,FortiExtender 201E
+Fortinet,M3Y7JVCVUD,Firewall,FortiExtender 201E
+Fortinet,QNK7WNX5NZ,Firewall,FortiExtender 201E
+Fortinet,DQNM59I4J2,Firewall,FortiExtender 201E
+Fortinet,49L3B9L0QA,Firewall,FortiExtender 201E
+Fortinet,LX6L80UKBB,Firewall,FortiExtender 201E
+Fortinet,DN9XI2BDOA,Firewall,FortiExtender 201E
+Fortinet,33CP9U7PZU,Firewall,FortiExtender 201E
+Fortinet,GGGJW7CLQI,Firewall,FortiExtender 201E
+Fortinet,EQ04HX2E0U,Firewall,FortiExtender 201E
+Fortinet,M0DNNRGHEJ,Firewall,FortiExtender 201E
+Juniper,IRUSPXUNT5,Gateway,SRX1500 Gateway
+Juniper,GIOHDN3LR0,Gateway,SRX1500 Gateway
+Juniper,0G00I69C9V,Gateway,SRX1500 Gateway
+Juniper,VUPZ7E9QNY,Gateway,SRX1500 Gateway
+Juniper,ZFK9EADGBU,Gateway,SRX1500 Gateway
+Juniper,Z5RM6FCA6D,Access Point,Mist AP21
+Juniper,EFQ8BSBIHB,Access Point,Mist AP21
+Juniper,TQMPSH7XBW,Access Point,Mist AP21
+Juniper,FZEASKVJE1,Access Point,Mist AP21
+Juniper,9BVFCTCSV4,Access Point,Mist AP21
+Juniper,OYOB7J54YP,Access Point,Mist AP21
+Juniper,02ZFYDJC85,Access Point,Mist AP21
+Juniper,SLXFP9EU5R,Access Point,Mist AP21
+Juniper,4CURHNA0KZ,Access Point,Mist AP21
+Juniper,JLW9A62MHO,Access Point,Mist AP21
+Juniper,ZJJRDOXFZC,Access Point,Mist AP21
+Juniper,QKXI635QJC,Access Point,Mist AP21
+Juniper,5ES0YTHDKZ,Access Point,Mist AP21
+Juniper,N1W8DRMRWP,Router,ACX7100
+Juniper,8KV3LCSD7U,Router,ACX7100
+Juniper,75EAW45ZD3,Router,ACX7100
+Juniper,ZV8YH57CLD,Router,ACX7100
+Juniper,WO0AXRNLTQ,Router,ACX7100
+Juniper,JT5Y9NR925,Router,ACX7100
+Juniper,RNBU665512,Router,ACX7100
+Juniper,CA7C33DEBK,Router,ACX7100
+Juniper,AVRLEDQEN8,Router,ACX7100
+Juniper,HIKCEATJ53,Router,ACX7100
+Juniper,TPNN3GCLYD,Router,ACX7100
+Juniper,ZCNJ40PGHR,Router,ACX7100
+Palo Alto,EOTH3TRI6T,Firewall,PA-7000 Series
+Palo Alto,4LCJKGQH1M,Firewall,PA-7000 Series
+Palo Alto,ESDGPJK5KX,Firewall,PA-7000 Series
+Palo Alto,IPSEW5YFVX,Firewall,PA-7000 Series
+Palo Alto,O8ZOXWV5OA,Firewall,PA-7000 Series
+Palo Alto,8UIKY2LMZ9,Firewall,PA-7000 Series
+Palo Alto,5MNY18UXW5,Firewall,PA-7000 Series
+Palo Alto,A5FZYFGOUE,Firewall,PA-7000 Series
+Palo Alto,L8OS61BOQE,Firewall,PA-7000 Series
+Cisco,YHR3KFF2NT,Gateway,ASR 920
+Cisco,ZW2W4VMSW4,Gateway,ASR 920
+Cisco,PMGU4VXV9Y,Gateway,ASR 920
+Cisco,F7ELVP9K6F,Gateway,ASR 920
+Cisco,L8D0HIOOT2,Gateway,ASR 920
+Cisco,YDN8D9K48O,Gateway,ASR 920
+Cisco,Y0YZJ7UBAZ,Gateway,ASR 920
+Cisco,CL2DWT9RTW,Gateway,ASR 920
+Cisco,VHOMEF963A,Gateway,ASR 920
+Cisco,WRE9TZ9HKO,Gateway,ASR 920
+Cisco,4TC0YWPUYN,Gateway,ASR 920
+Cisco,IE24QE5V6I,Gateway,ASR 920
+ Palo Alto,BWIJIG73KA,Edge Device,Prisma SD-WAN
+ Palo Alto,2M71UIM0D1,Edge Device,Prisma SD-WAN
+ Palo Alto,YWQQ4DB9ZK,Edge Device,Prisma SD-WAN
+ Palo Alto,6DLB88963S,Edge Device,Prisma SD-WAN
+ Palo Alto,AAJXIS5TXI,Edge Device,Prisma SD-WAN
+ Palo Alto,UD7AIAEV04,Edge Device,Prisma SD-WAN
+ Palo Alto,15AAWC9TSR,Edge Device,Prisma SD-WAN
+ Palo Alto,U1930PT2TH,Edge Device,Prisma SD-WAN
+ Palo Alto,1A2Q13ED0O,Edge Device,Prisma SD-WAN
+ Palo Alto,JEZPGK0GYR,Edge Device,Prisma SD-WAN
+ Palo Alto,8LKVPSJS85,Edge Device,Prisma SD-WAN
+ Palo Alto,BNZLWA9CKM,Edge Device,Prisma SD-WAN
+ Palo Alto,QO6EUO7DDN,Edge Device,Prisma SD-WAN
+ Palo Alto,E24U1G1JXX,Edge Device,Prisma SD-WAN
+Fortinet,AC3OB69W48,Load Balancer,FortiADC 200F
+Fortinet,1G9V7N9HZ6,Load Balancer,FortiADC 200F
+Fortinet,VJJRHG03GH,Load Balancer,FortiADC 200F
+Fortinet,DQB10MYMML,Load Balancer,FortiADC 200F
+Fortinet,2HVDCOK1Q4,Load Balancer,FortiADC 200F
+Fortinet,AD8F2YPAGA,Load Balancer,FortiADC 200F
+Fortinet,P8RE7QDTZC,Load Balancer,FortiADC 200F
+Juniper,BMJFXPKNG3,Access Point,Mist AP43
+Juniper,0KDKH3ZUYV,Access Point,Mist AP43
+Juniper,WSCU057D5C,Access Point,Mist AP43
+Juniper,AQEIZ39D5I,Access Point,Mist AP43
+Juniper,FY6EIIJJB3,Access Point,Mist AP43
+Juniper,59PQVC1P0N,Access Point,Mist AP43
+Juniper,HHFDGL2GOJ,Access Point,Mist AP43
+Juniper,05GHEWXKGN,Access Point,Mist AP43
+Juniper,S22KIC8UHW,Access Point,Mist AP43
+Juniper,2HQMAZI9AG,Access Point,Mist AP43
+Juniper,PXQYLME63K,Access Point,Mist AP43
+Juniper,YVZX629RNT,Access Point,Mist AP43
+Juniper,SURYK17YC6,Access Point,Mist AP43
+Juniper,C7XX1PX8SO,Access Point,Mist AP43
+Juniper,2HPWNPW66G,Access Point,Mist AP43
+Juniper,FU6FRERVYP,Access Point,Mist AP43
+Palo Alto,6KZR8L8VKZ,Controller,Panorama
+Palo Alto,IO67OFSDYM,Controller,Panorama
+Palo Alto,QXDWJ28V4Q,Controller,Panorama
+Palo Alto,78IIEAYCT8,Controller,Panorama
+Palo Alto,SY1LZKCKG9,Controller,Panorama
+Palo Alto,BGY3C46VZN,Controller,Panorama
+Palo Alto,YM46OV3MQT,Controller,Panorama
+Palo Alto,B6BY1ZYPEI,Controller,Panorama
+Palo Alto,CAM3BLS5HO,Controller,Panorama
+Palo Alto,7P2XYLWCPC,Controller,Panorama
+Palo Alto,T1MS1U6JQ0,Controller,Panorama
+Palo Alto,TOPEW28QRI,Controller,Panorama
+Palo Alto,DKFF27S79V,Controller,Panorama
+Palo Alto,Z5635T40MY,Controller,Panorama
+Fortinet,FJ4RIPOOJ1,Firewall,FortiExtender 201E
+Fortinet,WJK83TLGAA,Firewall,FortiExtender 201E
+Fortinet,VOI9F82ZUG,Firewall,FortiExtender 201E
+Fortinet,0C9VUEJS0U,Firewall,FortiExtender 201E
+Fortinet,RKABYA3LXE,Firewall,FortiExtender 201E
+Fortinet,3HU7YUGSJ5,Firewall,FortiExtender 201E
+Fortinet,CMFQPBFO30,Firewall,FortiExtender 201E
+Fortinet,64VHMWRGIG,Firewall,FortiExtender 201E
+Series Cisco,YQJXWO3LIB,Switch,Catalyst 9000
+Series Cisco,0YT6RWQB40,Switch,Catalyst 9000
+Series Cisco,YSW17VKBIF,Switch,Catalyst 9000
+Series Cisco,4YWNTDNTCF,Switch,Catalyst 9000
+Series Cisco,YDRA64IB8Y,Switch,Catalyst 9000
+Series Cisco,HNCVQIU2IE,Switch,Catalyst 9000
+Fortinet,3QH4J5YVAC,Firewall,FortiExtender 201E
+Fortinet,CJ6XE4D0CC,Firewall,FortiExtender 201E
+Fortinet,01BGN6AXIO,Firewall,FortiExtender 201E
+Fortinet,4SJUEYP2RI,Firewall,FortiExtender 201E
+Fortinet,A3M3D1RVO2,Firewall,FortiExtender 201E
+Fortinet,FOBFBUE9VL,Firewall,FortiExtender 201E
+Fortinet,K3KC9P0CDW,Firewall,FortiExtender 201E
+Fortinet,FPEWFLGJL0,Firewall,FortiExtender 201E
+Fortinet,9MN65XPX0U,Firewall,FortiExtender 201E
+Fortinet,Z1DHLRLWVE,Firewall,FortiExtender 201E
+Fortinet,OKASFFI4XV,Firewall,FortiExtender 201E
+Fortinet,WUBRA230OU,Firewall,FortiExtender 201E
+Fortinet,O5CHF9DXB7,Firewall,FortiExtender 201E
+Fortinet,N7VBSR6QRO,Firewall,FortiExtender 201E
+Fortinet,RV36QBCCUS,Firewall,FortiExtender 201E
+Series Cisco,JLS8I5LF23,Firewall,Firepower 2100
+Series Cisco,DBC2DQZT3A,Firewall,Firepower 2100
+Series Cisco,T5JWFSKWZS,Firewall,Firepower 2100
+Series Cisco,O4MME57SKS,Firewall,Firepower 2100
+Series Cisco,YA4ADZE9HH,Firewall,Firepower 2100
+Series Cisco,KM59GE97LI,Firewall,Firepower 2100
+Series Cisco,MIAF4Z9UBZ,Firewall,Firepower 2100
+Series Cisco,AKMXSLSJO6,Firewall,Firepower 2100
+Series Cisco,K0EH9BFCI9,Firewall,Firepower 2100
+Series Cisco,21SRM9A771,Firewall,Firepower 2100
+Series Cisco,32A6T27E6C,Firewall,Firepower 2100
+Series Cisco,S797K7K3XJ,Firewall,Firepower 2100
+Series Cisco,6BF0GG4X7C,Firewall,Firepower 2100
+Series Cisco,QP6WRC84LY,Firewall,Firepower 2100
+Series Cisco,HM16FWDNA3,Firewall,Firepower 2100
+Series Cisco,F9QTLS3UGB,Firewall,Firepower 4100
+Series Cisco,Y140I5PGGF,Firewall,Firepower 4100
+Series Cisco,NWOZIPQJ6A,Firewall,Firepower 4100
+Series Cisco,JD9DJ7PJVH,Firewall,Firepower 4100
+Series Cisco,KI2S2Y35CH,Firewall,Firepower 4100
+Series Cisco,EOUEYIW3G6,Firewall,Firepower 4100
+Series Cisco,XHC2NE33C0,Firewall,Firepower 4100
+Series Cisco,04ITDPEZWF,Firewall,Firepower 4100
+Series Cisco,LNFXGG581A,Firewall,Firepower 4100
+Series Cisco,1PUQCSTNUV,Firewall,Firepower 4100
+Series Cisco,WSRFASJ45F,Firewall,Firepower 4100
+Series Cisco,DNQGWDYV2F,Firewall,Firepower 4100
+Series Cisco,T507T6W33Y,Firewall,Firepower 4100
+Series Cisco,JBDXWR8IBL,Firewall,Firepower 4100
+Palo Alto,9MB9USDBDU,Router,PA-220R
+Palo Alto,8QUVQLXRRN,Router,PA-220R
+Palo Alto,5MYWNI75XX,Router,PA-220R
+Palo Alto,U0DBHPPERW,Router,PA-220R
+Palo Alto,2RFWJJY960,Router,PA-220R
+Palo Alto,THPXI4DGW1,Router,PA-220R
+Palo Alto,ZPQT53QGN0,Router,PA-220R
+Palo Alto,LFM30MPY5X,Router,PA-220R
+Palo Alto,5LS1R19LA6,Router,PA-220R
+Palo Alto,UQCIF051OR,Router,PA-220R
+Palo Alto,3V85U5CNPY,Router,PA-220R
+Palo Alto,YOGR0RQLHA,Router,PA-220R
+Palo Alto,RSE0C0SKM0,Router,PA-220R
+Cisco,N1GMI0B65M,Switch,Meraki MS355
+Cisco,79HQ6EWH8R,Switch,Meraki MS355
+Cisco,37NY6MF13O,Switch,Meraki MS355
+Cisco,98JDUB31EV,Switch,Meraki MS355
+Cisco,G16TVXQ6UD,Switch,Meraki MS355
+Cisco,1HUDIZDNTE,Switch,Meraki MS355
+Cisco,4ZM70GGL41,Switch,Meraki MS355
+Cisco,DH3QUWZFD4,Switch,Meraki MS355
+Cisco,K39KKHEN31,Switch,Meraki MS355
+Cisco,FKUDZ8W416,Switch,Meraki MS355
+Cisco,1P4ZSXLUJ6,Switch,Meraki MS355
+Cisco,Q6Q39SL3Y2,Switch,Meraki MS355
+Cisco,OK8E0HI0CU,Switch,Meraki MS355
+Cisco,PETLP2Y445,Switch,Meraki MS355
+Cisco,OQV8UKK0MW,Switch,Meraki MS355
+Cisco,KDFE2EKO7M,Switch,Meraki MS355
+Cisco,ZQPNQG8GY0,Switch,Meraki MS355
+Cisco,3I1MUQULFJ,Switch,Meraki MS355
+Cisco,44LG67UWCY,Switch,Meraki MS355
+Fortinet,696YB5X6FZ,Load Balancer,FortiADC 200F
+Fortinet,1DZDK0LP5Q,Load Balancer,FortiADC 200F
+Fortinet,MQW4CJ8SBU,Load Balancer,FortiADC 200F
+Fortinet,J8C613NGVO,Load Balancer,FortiADC 200F
+Fortinet,A8DYJJZQZ0,Load Balancer,FortiADC 200F
+Fortinet,NVZZF9P5IZ,Load Balancer,FortiADC 200F
+Fortinet,4WUZPE6NTX,Load Balancer,FortiADC 200F
+Fortinet,MSIQFQFNH7,Load Balancer,FortiADC 200F
+Fortinet,KT5UR6MOKG,Load Balancer,FortiADC 200F
+Fortinet,8981HMTD37,Load Balancer,FortiADC 200F
+Fortinet,3X9N2CTYHK,Load Balancer,FortiADC 200F
+Fortinet,2M52BLQPE4,Load Balancer,FortiADC 200F
+Fortinet,G5VSRZ464O,Load Balancer,FortiADC 200F
+Fortinet,9PC84J5JQI,Load Balancer,FortiADC 200F
+Fortinet,M9A2FLZT8D,Load Balancer,FortiADC 200F
+Palo Alto,LQI30DRPZH,Router,PA-850
+Palo Alto,U8PBFCYWNB,Router,PA-850
+Palo Alto,KYKZ7D08OV,Router,PA-850
+Palo Alto,R94B5HC2ZK,Router,PA-850
+Palo Alto,9D7LA51O2P,Router,PA-850
+Palo Alto,XAPU5PM8NR,Router,PA-850
+Palo Alto,OXBT2LUPM0,Router,PA-850
+Palo Alto,MAE21ZK3RO,Router,PA-850
+Palo Alto,1KJZLTWOG7,Router,PA-850
+Palo Alto,NJI2JF9Q4X,Router,PA-850
+Palo Alto,RSVLZP4HMD,Router,PA-850
+Palo Alto,C3TI0S3RET,Router,PA-850
+Palo Alto,ZXG8LL3IM5,Router,PA-850
+Palo Alto,8FJG6NGQ98,Router,PA-850
+Palo Alto,JCRJX587SD,Router,PA-850
+Palo Alto,JJFADSNFFY,Controller,Panorama
+Palo Alto,MCQCT1YN3K,Controller,Panorama
+Palo Alto,SZZBQEH5WJ,Controller,Panorama
+Palo Alto,1R4R1LAHU7,Controller,Panorama
+Palo Alto,EOP4M53LAW,Controller,Panorama
+Palo Alto,JSTIQ5U5F2,Controller,Panorama
+Palo Alto,8V0Q7GHF3I,Controller,Panorama
+Palo Alto,JJ5NKU6OJF,Controller,Panorama
+Cisco,A9T0ZRW1I2,Gateway,vEdge 1000
+Cisco,Z4XKKOVQBM,Gateway,vEdge 1000
+Cisco,HCXLWNP33V,Gateway,vEdge 1000
+Cisco,AB7PDXD08H,Gateway,vEdge 1000
+Cisco,U3GPB6ZTZA,Gateway,vEdge 1000
+Cisco,M0BQR0VG8H,Gateway,vEdge 1000
+Fortinet,IG7ODUKU3P,Firewall,FortiGate 100F
+Fortinet,84PUZ2KNWN,Firewall,FortiGate 100F
+Fortinet,OFXF2XSDZL,Firewall,FortiGate 100F
+Fortinet,FRSPML9CWV,Firewall,FortiGate 100F
+Fortinet,U9V429ZUM2,Firewall,FortiGate 100F
+Fortinet,DCW3NCD5SM,Firewall,FortiGate 100F
+Fortinet,TI58AD6GLB,Firewall,FortiGate 100F
+Fortinet,VYYNXPR0VO,Firewall,FortiGate 100F
+Fortinet,5KB9SS2XDJ,Firewall,FortiGate 100F
+Fortinet,D8HYCJ4J8W,Firewall,FortiGate 100F
+Fortinet,SWTSDQMFVG,Firewall,FortiGate 100F
+Fortinet,O7570P4NXP,Firewall,FortiGate 100F
+Fortinet,26YIYKLRKN,Firewall,FortiGate 100F
+Fortinet,IC06BTKJ26,Firewall,FortiGate 100F
+Juniper,6XWUGQQ58G,Access Point,Mist AP21
+Juniper,BT1HBK3TGW,Access Point,Mist AP21
+Palo Alto,Y5PKMGN2TN,Controller,Panorama
+Palo Alto,UQWE14UQ1B,Controller,Panorama
+Palo Alto,11Y9209J8N,Controller,Panorama
+Palo Alto,PVACP8ZQTU,Controller,Panorama
+Palo Alto,R3M8YGS5JI,Controller,Panorama
+Palo Alto,Q247X536T2,Controller,Panorama
+Palo Alto,ZM1WSFIBPC,Controller,Panorama
+Palo Alto,LTVNAMRKT2,Controller,Panorama
+Palo Alto,LE6OY1WHCJ,Controller,Panorama
+Palo Alto,Y2PTSS6E2T,Controller,Panorama
+Palo Alto,WH9N8FCUYL,Controller,Panorama
+Palo Alto,832M6F0ASC,Controller,Panorama
+Palo Alto,K6D7UXERY4,Controller,Panorama
+Palo Alto,EDUCOEVR36,Controller,Panorama
+Palo Alto,6AA52D8UAQ,Controller,Panorama
+Palo Alto,8YBHOXD8KQ,Controller,Panorama
+Palo Alto,998C1SUYA3,Controller,Panorama
+Palo Alto,OODR8BUBQH,Controller,Panorama
+Palo Alto,8FPZGBM5K1,Controller,Panorama
+Palo Alto,82NO1M6QVG,Controller,Panorama
+Palo Alto,095CJHRQ7U,Controller,Panorama
+Palo Alto,OTCOAGBWB7,Controller,Panorama
+Palo Alto,I969GX6719,Controller,Panorama
+Palo Alto,XNN1SSXFMC,Controller,Panorama
+Palo Alto,578LJRAW1N,Controller,Panorama
+Palo Alto,1DFJFHLD61,Controller,Panorama
+Palo Alto,6WVGQM11YL,Controller,Panorama
+Palo Alto,5UOSB4DXOX,Controller,Panorama
+Palo Alto,ITG8GQ981N,Controller,Panorama
+Fortinet,JMGLNAYETL,Firewall,FortiGate 100F
+Fortinet,5LXLS0PRAN,Firewall,FortiGate 100F
+Fortinet,6BBP4C078L,Firewall,FortiGate 100F
+Fortinet,25BQQMXSXH,Load Balancer,FortiADC 3000F
+Fortinet,CBWFJQDKFE,Load Balancer,FortiADC 3000F
+Fortinet,O7BF4VWEK6,Load Balancer,FortiADC 3000F
+Fortinet,133HXOALKF,Load Balancer,FortiADC 3000F
+Fortinet,9Y2R8VQ6PB,Load Balancer,FortiADC 3000F
+Cisco,KW71CGF357,Firewall,ASA 5500-X Series
+Cisco,8T3GBSSJWP,Firewall,ASA 5500-X Series
+Cisco,AWWXI3OEOL,Firewall,ASA 5500-X Series
+Cisco,MI66AOB1ML,Firewall,ASA 5500-X Series
+Cisco,W0T8WDGOAS,Firewall,ASA 5500-X Series
+Cisco,VXYJXJ38PS,Firewall,ASA 5500-X Series
+Cisco,DZJRUWFD5S,Firewall,ASA 5500-X Series
+Cisco,AMVO7YAW2E,Firewall,ASA 5500-X Series
+Cisco,S80SP6EMWG,Firewall,ASA 5500-X Series
+Cisco,28D60Z1CPY,Firewall,ASA 5500-X Series
+Cisco,OWFCGFU14F,Firewall,ASA 5500-X Series
+Cisco,A9TTE9BQ28,Firewall,ASA 5500-X Series
+Cisco,SU9EP3QGJC,Firewall,ASA 5500-X Series
+Juniper,HKK4K6QARR,Switch,EX4300
+Juniper,H6RO96EWLZ,Switch,EX4300
+Juniper,N6M28PODAH,Switch,EX4300
+Juniper,VCI9MUFC09,Switch,EX4300
+Juniper,G7QP14QW8C,Switch,EX4300
+Juniper,4UGXOW67JD,Switch,EX4300
+Juniper,92A51SOC22,Switch,EX4300
+Juniper,W39DL32ILZ,Switch,EX4300
+Juniper,E6K6AZKCUY,Switch,EX4300
+Juniper,OJ07SNKJ0E,Switch,EX4300
+Juniper,SQB05S582Q,Switch,EX4300
+Juniper,43WG0Z91BZ,Switch,EX4300
+Juniper,LEGRSZZI24,Switch,EX4300
+Juniper,MYPXFQPO3A,Switch,EX4300
+Juniper,Y2P2U6DSZ6,Switch,EX4300
+Juniper,EI4MFZIPYI,Switch,EX4300
+Juniper,LZN6CYQQLN,Switch,EX4300
+Juniper,IR1U94BHIK,Switch,EX4300
+Juniper,C6V5AFKV6Z,Switch,EX4300
+Juniper,WH3FVU53JN,Switch,EX4300
+Cisco,KT5IAUIJLT,Access Point,Aironet 2800
+Fortinet,WDJXA5C5K5,Firewall,FortiGate 100F
+Fortinet,ULJNHGUTR8,Firewall,FortiGate 100F
+Fortinet,ZSMXOMYDUX,Firewall,FortiGate 100F
+Fortinet,8URN2FE5SO,Firewall,FortiGate 100F
+Fortinet,W7ST5IR56U,Firewall,FortiGate 100F
+Fortinet,KN09I6GG1G,Firewall,FortiGate 100F
+Fortinet,MQPC7FKF0C,Firewall,FortiGate 100F
+Fortinet,SA7T7PQZZZ,Firewall,FortiGate 100F
+Fortinet,MLS5P7LL4F,Firewall,FortiGate 100F
+Fortinet,M396U3HNZ8,Firewall,FortiGate 100F
+Fortinet,V1R5AP36KN,Firewall,FortiGate 100F
+Fortinet,XQUY3R9V7Y,Firewall,FortiGate 100F
+Series Cisco,ENLTXUU3UF,Router,Catalyst 8000
+Series Cisco,FK2LXPWXYZ,Router,Catalyst 8000
+Series Cisco,ZI8Z9P9U1W,Router,Catalyst 8000
+Series Cisco,DYRX20TW13,Router,Catalyst 8000
+Series Cisco,TH4TR2ODO6,Firewall,Firepower 4100
+Series Cisco,11H033F5TF,Firewall,Firepower 4100
+Series Cisco,BI61FID299,Firewall,Firepower 4100
+Series Cisco,K48C6IFKW7,Firewall,Firepower 4100
+Series Cisco,8VPPWAI1Q5,Firewall,Firepower 4100
+Series Cisco,6FUZUYAHGO,Firewall,Firepower 4100
+Series Cisco,0FGJGUA1OR,Firewall,Firepower 4100
+Series Cisco,2ZG0L61N1W,Firewall,Firepower 4100
+Series Cisco,ZJ4UQ0QS7R,Firewall,Firepower 4100
+Juniper,JP3SRRJXOT,Gateway,SRX1500 Gateway
+Juniper,UHL67B6P7J,Gateway,SRX1500 Gateway
+Juniper,RJ0NWF14HO,Gateway,SRX1500 Gateway
+Juniper,LGXHZHXAUK,Gateway,SRX1500 Gateway
+Juniper,2FB2LJGI6A,Gateway,SRX1500 Gateway
+Juniper,451Z4TA00Y,Gateway,SRX1500 Gateway
+Juniper,PY5XP5PEW9,Gateway,SRX1500 Gateway
+Juniper,0WV559KQ36,Gateway,SRX1500 Gateway
+Juniper,VP0JZ9SNV5,Gateway,SRX1500 Gateway
+Juniper,79W5JHESB3,Gateway,SRX1500 Gateway
+Juniper,XR4KQ6J0N9,Gateway,SRX1500 Gateway
+Juniper,WSLEO951VJ,Gateway,SRX1500 Gateway
+Juniper,2OAM5M1U7K,Gateway,SRX1500 Gateway
+Juniper,GFENWH0XI4,Gateway,SRX1500 Gateway
+Juniper,T8VXI4008Q,Gateway,SRX1500 Gateway
+Fortinet,6PQV10NVMO,Firewall,FortiExtender 201E
+Fortinet,V3S6GB40N4,Firewall,FortiExtender 201E
+Fortinet,J7004R0GHA,Firewall,FortiExtender 201E
+Fortinet,B6XUU7H13T,Firewall,FortiExtender 201E
+Fortinet,3O85EZOMY1,Firewall,FortiExtender 201E
+Fortinet,TF3UPCR7NN,Firewall,FortiExtender 201E
+Fortinet,79HJNU2DJT,Firewall,FortiExtender 201E
+Fortinet,O6RH6VTL4H,Firewall,FortiExtender 201E
+Juniper,3VUHTESTVS,Access Point,Mist AP43
+Juniper,NG2A8DRHVB,Access Point,Mist AP43
+Juniper,8532WA321N,Access Point,Mist AP43
+Juniper,9844KD8AI3,Access Point,Mist AP43
+Juniper,1DKRKF5B6Q,Access Point,Mist AP43
+Juniper,KK0SL81O4L,Access Point,Mist AP43
+Juniper,UR33O0NRI5,Access Point,Mist AP43
+Juniper,BG9Q493ITB,Access Point,Mist AP43
+Juniper,93LLH8B9HP,Firewall,SRX5800
+Juniper,8BO3BK912L,Firewall,SRX5800
+Fortinet,23G2EOO8KE,Load Balancer,FortiADC 3000F
+Fortinet,GOCO8UZPFU,Load Balancer,FortiADC 3000F
+ Palo Alto,IKLTT9Q4W3,Edge Device,Prisma SD-WAN
+ Palo Alto,O4O3PRJ6U8,Edge Device,Prisma SD-WAN
+ Palo Alto,37XMNYCS17,Edge Device,Prisma SD-WAN
+ Palo Alto,2P98TE6CI7,Edge Device,Prisma SD-WAN
+ Palo Alto,VJEA9LGRT5,Edge Device,Prisma SD-WAN
+ Palo Alto,S5JIIVRX7R,Edge Device,Prisma SD-WAN
+ Palo Alto,E4ATKZ0OHW,Edge Device,Prisma SD-WAN
+ Palo Alto,7QKUF63AGI,Edge Device,Prisma SD-WAN
+ Palo Alto,426YO0Q34C,Edge Device,Prisma SD-WAN
+ Palo Alto,4NVU04PFJZ,Edge Device,Prisma SD-WAN
+ Palo Alto,X14TF6L9Z8,Edge Device,Prisma SD-WAN
+ Palo Alto,OU0VJ86Y0I,Edge Device,Prisma SD-WAN
+ Palo Alto,3NE7UDOY04,Edge Device,Prisma SD-WAN
+Fortinet,BOZE6JNAUO,Load Balancer,FortiADC 3000F
+Fortinet,1FGGE6M1NU,Load Balancer,FortiADC 3000F
+Fortinet,3YMV9QF9YR,Load Balancer,FortiADC 3000F
+Juniper,74JBVALIKQ,Firewall,SRX300
+Juniper,VXE3KKWPZI,Firewall,SRX300
+Juniper,7Q6H4ZUZ3N,Firewall,SRX300
+Juniper,WVTOOUTI0X,Firewall,SRX300
+Juniper,1QN1Y4WGZ1,Firewall,SRX300
+Juniper,4ETNS6DJRY,Firewall,SRX300
+Palo Alto,FYWOLI0MLL,Router,PA-850
+Palo Alto,9QHJJ8RCEF,Router,PA-850
+Palo Alto,GHWDMK2DU2,Router,PA-850
+Palo Alto,A0CU20FG04,Router,PA-850
+Palo Alto,CBVAVLT7I2,Router,PA-850
+Palo Alto,JJ1URLLTIO,Router,PA-850
+Palo Alto,0BRIPTO1FC,Router,PA-850
+Palo Alto,6OXEZEK0NF,Router,PA-850
+Palo Alto,G3X8KWEIJO,Router,PA-850
+Palo Alto,QHRA6000CA,Router,PA-850
+Palo Alto,B78PX7WVH8,Router,PA-850
+Palo Alto,6X0G36IX3F,Router,PA-850
+Palo Alto,96KRXRZS30,Router,PA-850
+Fortinet,DRGIHXWIZO,Load Balancer,FortiADC 3000F
+Fortinet,WHBZMLGU29,Load Balancer,FortiADC 3000F
+Fortinet,HLCV4HFJQS,Load Balancer,FortiADC 3000F
+Fortinet,EX8K477RLY,Load Balancer,FortiADC 3000F
+Fortinet,BMF35Z4SZB,Load Balancer,FortiADC 3000F
+Fortinet,66JP0EX148,Load Balancer,FortiADC 3000F
+Fortinet,IJ90KLO7H1,Load Balancer,FortiADC 3000F
+Fortinet,O0EI7KWPTF,Load Balancer,FortiADC 3000F
+Fortinet,H0G6BKEOHD,Load Balancer,FortiADC 3000F
+Fortinet,607VVY3BFB,Load Balancer,FortiADC 3000F
+Fortinet,QPEDPMCHEO,Load Balancer,FortiADC 3000F
+Fortinet,58AWX6PVAS,Load Balancer,FortiADC 3000F
+Fortinet,K6NGQ23328,Load Balancer,FortiADC 200F
+Fortinet,DO5O6W677N,Load Balancer,FortiADC 200F
+Fortinet,81QQA4TSBZ,Load Balancer,FortiADC 200F
+Fortinet,AIJPT0Y83A,Load Balancer,FortiADC 200F
+Fortinet,D372HK2XBQ,Load Balancer,FortiADC 200F
+Fortinet,5SEDZWHY1M,Load Balancer,FortiADC 200F
+Fortinet,XIGLFNEXWL,Load Balancer,FortiADC 200F
+Fortinet,W8QKKRV9X9,Load Balancer,FortiADC 200F
+Fortinet,TPEG78MO4N,Load Balancer,FortiADC 200F
+Fortinet,4CNCX6OM7K,Load Balancer,FortiADC 200F
+Fortinet,JT6K9973RB,Load Balancer,FortiADC 200F
+Fortinet,IFJCUD0J98,Load Balancer,FortiADC 200F
+Fortinet,TJHH04SH4Z,Load Balancer,FortiADC 200F
+Fortinet,PIG8232LM8,Load Balancer,FortiADC 200F
+Fortinet,98XXVH9Q6O,Load Balancer,FortiADC 200F
+Fortinet,W9H45HFEEJ,Load Balancer,FortiADC 200F
+Fortinet,QCOG3VQAAA,Load Balancer,FortiADC 200F
+Fortinet,WHPUPOS1O5,Load Balancer,FortiADC 200F
+Cisco,FUQ71LEWJO,Switch,Nexus 9500 Series
+Cisco,OTZRVTIC4R,Switch,Nexus 9500 Series
+Cisco,9VJ787BSEO,Switch,Nexus 9500 Series
+Cisco,V2BKMH8Q9J,Switch,Nexus 9500 Series
+Cisco,G85V4GVCVV,Switch,Nexus 9500 Series
+Cisco,RNI9UKYOMY,Switch,Nexus 9500 Series
+Cisco,V8EX0H017D,Switch,Nexus 9500 Series
+Cisco,EFNMZAS5I4,Switch,Nexus 9500 Series
+Cisco,2P1UJ2UGCB,Switch,Nexus 9500 Series
+Cisco,EF3FM23YQ5,Switch,Nexus 9500 Series
+Cisco,YFHKBSC0SW,Switch,Nexus 9500 Series
+Cisco,6VZQSDARJR,Switch,Nexus 9500 Series
+Cisco,AF5EMC8U2X,Switch,Nexus 9500 Series
+Cisco,TZLP46W254,Switch,Nexus 9500 Series
+Cisco,VKR5WO4K1Z,Switch,Nexus 9500 Series
+Cisco,RQTUC9Y392,Switch,Nexus 9500 Series
+Cisco,JBXOSEVWM8,Switch,Nexus 9500 Series
+Cisco,UERCJ5GQAT,Switch,Nexus 9500 Series
+Cisco,QHZNW1TPL4,Switch,Nexus 9500 Series
+Fortinet,YBZ4Z6M4T7,Load Balancer,FortiADC 200F
+Fortinet,QJSFW8H4KE,Load Balancer,FortiADC 200F
+Fortinet,BU1VMK7GJP,Load Balancer,FortiADC 200F
+Fortinet,50UXN5DJT6,Load Balancer,FortiADC 200F
+Fortinet,EB6FV1DBFA,Load Balancer,FortiADC 200F
+Fortinet,2UXA4WDHD2,Load Balancer,FortiADC 200F
+Fortinet,ZPOD3GOOS5,Load Balancer,FortiADC 200F
+Fortinet,WVHEC3EA02,Load Balancer,FortiADC 200F
+Fortinet,7B2SOZ8ACC,Load Balancer,FortiADC 200F
+Fortinet,O2FE5F66K1,Firewall,FortiGate 60F
+Fortinet,HLJ6OUA664,Firewall,FortiGate 60F
+Fortinet,XY8L1P4LC0,Firewall,FortiGate 60F
+Fortinet,6YS1SGKJ0W,Firewall,FortiGate 60F
+Fortinet,EZWMDD0HWW,Firewall,FortiGate 60F
+Fortinet,XFZL43AFA0,Firewall,FortiGate 60F
+Fortinet,6PHEUQQ2D4,Firewall,FortiGate 60F
+Fortinet,SYETSGIQ2Q,Firewall,FortiGate 60F
+Fortinet,FPGR4H1AAD,Firewall,FortiGate 60F
+Fortinet,Y9T52KOMPB,Firewall,FortiGate 60F
+Fortinet,6KE1E59NJV,Firewall,FortiGate 60F
+Fortinet,TINGGG15JR,Firewall,FortiGate 60F
+Fortinet,U6W4TLOXOB,Firewall,FortiGate 60F
+Fortinet,TW0EPZL80X,Firewall,FortiGate 60F
+Fortinet,UH65UJACW2,Firewall,FortiGate 60F
+Fortinet,ZV3LIDSMN2,Firewall,FortiGate 60F
+Fortinet,JJENXITJD4,Firewall,FortiGate 60F
+Palo Alto,TDNTWS77R6,Router,PA-220R
+Palo Alto,Q3D0GWZLTQ,Router,PA-220R
+Palo Alto,D4LQ0SS6O0,Router,PA-220R
+Palo Alto,B147TSL1HG,Router,PA-220R
+Palo Alto,52Y7V8MTNU,Router,PA-220R
+Cisco,007JCXQD3Z,Access Point,Meraki MR56
+Cisco,MOMVRUEJK7,Access Point,Meraki MR56
+Cisco,N6ZKD8U69Z,Access Point,Meraki MR56
+Cisco,WTDD43UAA5,Access Point,Meraki MR56
+Cisco,GM9K2Y94QK,Access Point,Meraki MR56
+Cisco,VC9P75D2DQ,Access Point,Meraki MR56
+Cisco,QH9V633BNN,Access Point,Meraki MR56
+Palo Alto,22XSGWKF98,Router,PA-850
+Palo Alto,MS4GK4M673,Router,PA-850
+Palo Alto,LSMRI24RQ3,Router,PA-850
+Palo Alto,69WAFMIM8V,Router,PA-850
+Palo Alto,HBQQXG6A9U,Router,PA-850
+Palo Alto,VAGNTCRGDX,Router,PA-850
+Palo Alto,KMJE5L8E6X,Router,PA-850
+Palo Alto,2OB4CTPPML,Router,PA-850
+Palo Alto,FQ7ZFDFK55,Router,PA-850
+Juniper,708B1FSV2W,Firewall,SRX5800
+Juniper,EZ32MKZFGW,Firewall,SRX5800
+Juniper,OABTBCC695,Firewall,SRX5800
+Fortinet,DV398662WL,Load Balancer,FortiADC 200F
+Fortinet,1KZQOJC81P,Load Balancer,FortiADC 200F
+Fortinet,M7Y521R95T,Load Balancer,FortiADC 200F
+Fortinet,H2FIS4IMF2,Load Balancer,FortiADC 200F
+Fortinet,1J59JHM73N,Load Balancer,FortiADC 200F
+Fortinet,WQO6XGUJ0Q,Load Balancer,FortiADC 200F
+Fortinet,7ADVXIBOIY,Load Balancer,FortiADC 200F
+Fortinet,F8TC4DIPWA,Load Balancer,FortiADC 200F
+Fortinet,1FDMZHP5SQ,Load Balancer,FortiADC 200F
+Fortinet,K1M88CYH7I,Load Balancer,FortiADC 200F
+Fortinet,SPCTJCTLIB,Load Balancer,FortiADC 200F
+Fortinet,KQ2RDI7GJZ,Load Balancer,FortiADC 200F
+Fortinet,BDU8C825HA,Load Balancer,FortiADC 200F
+Fortinet,MG4AG4LQKJ,Load Balancer,FortiADC 200F
+Fortinet,OGUVOM9FZU,Load Balancer,FortiADC 200F
+Fortinet,95R53EGPIL,Load Balancer,FortiADC 200F
+Fortinet,5D332DF1QP,Load Balancer,FortiADC 200F
+Fortinet,4ASX92HFKT,Load Balancer,FortiADC 200F
+Fortinet,7MLHA83VUJ,Load Balancer,FortiADC 200F
+Juniper,AYXNM161VY,Firewall,SRX320
+Juniper,UUJ51T9YR7,Firewall,SRX320
+Juniper,RK47BNSY2J,Firewall,SRX320
+Juniper,G227J795I6,Firewall,SRX320
+Juniper,VB3DQHFOY5,Firewall,SRX320
+Juniper,ZMNMGFQB0U,Firewall,SRX320
+Cisco,SN0BWMWD1I,Switch,Nexus 9500 Series
+Cisco,1484LD2NC9,Switch,Nexus 9500 Series
+Cisco,KUDBNZ4F6P,Switch,Nexus 9500 Series
+Cisco,ZXJ3LSE9K4,Switch,Nexus 9500 Series
+Cisco,G0093NKN14,Switch,Nexus 9500 Series
+Cisco,O0ISMPVY59,Switch,Nexus 9500 Series
+Cisco,J6OI34W2TX,Switch,Nexus 9500 Series
+Cisco,Q1BQDCD8EV,Switch,Nexus 9500 Series
+Cisco,BXSRGP1SRN,Switch,Nexus 9500 Series
+Cisco,AH2KMYKPA3,Switch,Nexus 9500 Series
+Fortinet,4AWQZCLRJT,Firewall,FortiExtender 201E
+Fortinet,6FYIY5NSB7,Firewall,FortiExtender 201E
+Fortinet,2WPCV9ALSC,Firewall,FortiExtender 201E
+Fortinet,1WOQSSQMKN,Firewall,FortiExtender 201E
+Fortinet,DVMQAQZ8B6,Firewall,FortiExtender 201E
+Fortinet,UZXJ6W9NGK,Firewall,FortiExtender 201E
+Fortinet,YE3V5ZBK94,Firewall,FortiExtender 201E
+Fortinet,7ES0955EWF,Firewall,FortiExtender 201E
+Fortinet,NXYMCU88FQ,Firewall,FortiExtender 201E
+Fortinet,E6HRCZUV27,Firewall,FortiExtender 201E
+Fortinet,ID0KGBF295,Firewall,FortiExtender 201E
+Palo Alto,ROX22SCIXC,Router,PA-220R
+Palo Alto,JYHPRAASYX,Router,PA-220R
+Palo Alto,5ABLSZWEF6,Router,PA-220R
+Palo Alto,6KRCOIW1DS,Router,PA-220R
+Palo Alto,6UZFBXT5Y4,Router,PA-220R
+Palo Alto,9FJQ6JZXFF,Router,PA-220R
+ Palo Alto,9LNR8ROW07,Edge Device,Prisma SD-WAN
+ Palo Alto,C4Z29ZT84M,Edge Device,Prisma SD-WAN
+ Palo Alto,KL1YVA7MO8,Edge Device,Prisma SD-WAN
+ Palo Alto,VNPR7FSAGF,Edge Device,Prisma SD-WAN
+ Palo Alto,X6HSR4B7NB,Edge Device,Prisma SD-WAN
+ Palo Alto,7KA4NIIH8R,Edge Device,Prisma SD-WAN
+ Palo Alto,L0ULWZH5B0,Edge Device,Prisma SD-WAN
+Fortinet,F7TBFTRYT2,Firewall,FortiExtender 201E
+Fortinet,V1KF9FJJTB,Firewall,FortiExtender 201E
+Fortinet,LR83CJSVBV,Firewall,FortiExtender 201E
+Fortinet,V1Z54LB16C,Firewall,FortiExtender 201E
+Fortinet,S2O60IPZ8C,Firewall,FortiExtender 201E
+Fortinet,SQTHANSYIG,Firewall,FortiExtender 201E
+Fortinet,7A2I37F8U8,Firewall,FortiExtender 201E
+Fortinet,B6B5DFVZ9F,Firewall,FortiExtender 201E
+Fortinet,NE19FBJ92E,Firewall,FortiExtender 201E
+Fortinet,TCC5MB1Q8H,Firewall,FortiExtender 201E
+Fortinet,OL4KRMTN2I,Load Balancer,FortiADC 3000F
+Fortinet,PXUS7TOQQR,Load Balancer,FortiADC 3000F
+Fortinet,WIJG1SFIX0,Load Balancer,FortiADC 3000F
+Fortinet,NEQXWKG7LN,Load Balancer,FortiADC 3000F
+Fortinet,X8C98AD0ME,Load Balancer,FortiADC 3000F
+Fortinet,OJVEK5BI1A,Load Balancer,FortiADC 3000F
+Fortinet,8YGVL0UF66,Load Balancer,FortiADC 3000F
+Fortinet,60EL1OH35B,Load Balancer,FortiADC 3000F
+Juniper,SSBKKFNGJX,Access Point,Mist AP43
+Juniper,J3IEY6HUFJ,Access Point,Mist AP43
+Juniper,YJ5G0A19BG,Access Point,Mist AP43
+Juniper,B1Z3Q8DAWH,Access Point,Mist AP43
+Juniper,RRUCBD5NB9,Access Point,Mist AP43
+Juniper,TPYSPJ7Z2H,Access Point,Mist AP43
+Juniper,5O2STQPZT2,Access Point,Mist AP43
+Juniper,4WU095HNK4,Access Point,Mist AP43
+Juniper,A6QI3YJT14,Access Point,Mist AP43
+Juniper,VY471CNLN7,Access Point,Mist AP43
+Juniper,KG2Z1EC9WB,Access Point,Mist AP43
+Juniper,LLBKIFUAM0,Access Point,Mist AP43
+Juniper,GH0IGBMXU0,Access Point,Mist AP43
+Juniper,109YXB35ZS,Access Point,Mist AP43
+Juniper,CPFYJQZ75V,Access Point,Mist AP43
+Juniper,SV0GCFMI0E,Access Point,Mist AP43
+Juniper,04TXJIACFB,Access Point,Mist AP43
+Juniper,KY2O103RV1,Access Point,Mist AP43
+ Palo Alto,0MSB6UF141,Edge Device,Prisma SD-WAN
+ Palo Alto,5BJAN9KT5S,Edge Device,Prisma SD-WAN
+ Palo Alto,O1UZFRQLZ6,Edge Device,Prisma SD-WAN
+ Palo Alto,8T0GXBU0MS,Edge Device,Prisma SD-WAN
+ Palo Alto,JLUGHGXYAD,Edge Device,Prisma SD-WAN
+ Palo Alto,YPAPL5TIGL,Edge Device,Prisma SD-WAN
+ Palo Alto,EVM5XJY8QS,Edge Device,Prisma SD-WAN
+ Palo Alto,5K0XSPR7LH,Edge Device,Prisma SD-WAN
+ Palo Alto,7B9XH6CBFR,Edge Device,Prisma SD-WAN
+ Palo Alto,EXD3XIQ8SL,Edge Device,Prisma SD-WAN
+Juniper,XHIOX7H27O,Gateway,SRX300 Gateway
+Juniper,C0FXR5WNTQ,Gateway,SRX300 Gateway
+Juniper,5MGW3V9TYS,Gateway,SRX300 Gateway
+Juniper,XYHOWS55ZK,Gateway,SRX300 Gateway
+Juniper,6MIJ19B0ZE,Gateway,SRX300 Gateway
+Juniper,4PFUQ2VZ7Z,Gateway,SRX300 Gateway
+Juniper,0HI3JWE0ZX,Gateway,SRX300 Gateway
+Juniper,X0O1QSSB4U,Gateway,SRX300 Gateway
+Juniper,J0H5N738PM,Gateway,SRX300 Gateway
+Juniper,E1D4IHMEOG,Gateway,SRX300 Gateway
+Juniper,W3D0OH8UAU,Gateway,SRX300 Gateway
+Juniper,QHXQK6ZOCI,Gateway,SRX300 Gateway
+Juniper,SSUVKN3QB4,Gateway,SRX300 Gateway
+Juniper,OBL2TQAZ71,Gateway,SRX300 Gateway
+Juniper,OAKSANB3Q9,Gateway,SRX300 Gateway
+Juniper,0OWKJDI7OU,Gateway,SRX300 Gateway
+Juniper,ESM7V5L6TH,Gateway,SRX300 Gateway
+Juniper,NCUDSBUSW9,Gateway,SRX300 Gateway
+Juniper,S51RSE4PI9,Switch,QFX5120
+Juniper,H69GTCJI6P,Switch,QFX5120
+Juniper,TA7IMJ7EEF,Switch,QFX5120
+Juniper,NG9KO1NRGL,Switch,QFX5120
+Juniper,6J4LJV2BPD,Switch,QFX5120
+Juniper,NFMASM96OY,Switch,QFX5120
+Juniper,8CSQPBK2ER,Switch,QFX5120
+Juniper,7V5WDI7A6Q,Switch,QFX5120
+Juniper,5PK1QX1HAQ,Switch,QFX5120
+Juniper,FKY3P7BTRJ,Switch,QFX5120
+Juniper,XU0NZMOLE2,Switch,QFX5120
+Juniper,XIQCF6BPCG,Switch,QFX5120
+Juniper,XTK35SSD7Z,Switch,QFX5120
+Juniper,VUWTN2HWZW,Switch,QFX5120
+Juniper,80CWVKXK9P,Switch,QFX5120
+Juniper,HE4RUHV5H3,Switch,QFX5120
+Juniper,C4GX3N7YHS,Switch,QFX5120
+Juniper,A7XLJMHIJX,Switch,QFX5120
+Juniper,4TWX7ZSYE1,Switch,QFX5120
+Cisco,BWGJOQPNX1,Gateway,vEdge 2000
+Cisco,MUWPQ7AKPG,Gateway,vEdge 2000
+Cisco,7ERX2XE44P,Gateway,vEdge 2000
+Cisco,BKTBZ5N5IB,Gateway,vEdge 2000
+Cisco,PM2ZRL9385,Gateway,vEdge 2000
+Cisco,365HT18DZX,Gateway,vEdge 2000
+Cisco,AV7DGIVJD7,Gateway,vEdge 2000
+Cisco,58SLUDAI0S,Gateway,vEdge 2000
+Cisco,HGIT54J6LZ,Gateway,vEdge 2000
+Cisco,JX7IXMNHII,Gateway,vEdge 2000
+Cisco,JQSGMA1JFL,Gateway,vEdge 2000
+Cisco,MNWZKTUQOQ,Gateway,vEdge 2000
+Cisco,DX3TJW5CBM,Gateway,vEdge 2000
+Cisco,Z5UVFZUJK8,Gateway,vEdge 2000
+Cisco,BA6TXJ77WM,Gateway,vEdge 2000
+Cisco,8Q1PDOXU8Q,Gateway,vEdge 2000
+Cisco,FZQ9X6KGF9,Gateway,vEdge 2000
+Cisco,VZRLGLUQUH,Gateway,vEdge 2000
+Cisco,QJK9GCSLY1,Gateway,vEdge 2000
+Cisco,JTYFJX9D7U,Gateway,vEdge 2000
+Juniper,J13HCMXDKM,Firewall,SRX320
+Juniper,YDP705CH3D,Firewall,SRX320
+Juniper,WA31OYECFH,Firewall,SRX320
+Juniper,P7IBBN3BHM,Firewall,SRX320
+Juniper,QRPQCZNQFE,Firewall,SRX320
+Juniper,GC8NO5O61U,Firewall,SRX320
+Juniper,NIV8VK2SIP,Firewall,SRX320
+Juniper,287T1XSKAX,Firewall,SRX320
+Juniper,LRG2I0I521,Firewall,SRX320
+Juniper,8UOM3LN12K,Firewall,SRX320
+Juniper,0NGVPMZ1UT,Firewall,SRX320
+Juniper,Q8HFO9ZXIX,Firewall,SRX320
+Juniper,CL8KQZGBW0,Firewall,SRX320
+Juniper,2VHQ0FWW6F,Firewall,SRX320
+Juniper,J0QMYZ36E4,Firewall,SRX320
+Juniper,8QMJJI9JQA,Firewall,SRX320
+Juniper,JKNCGHJFA1,Firewall,SRX320
+Juniper,HLBSZR99J0,Firewall,SRX320
+Juniper,45K049QCOV,Firewall,SRX320
+Fortinet,ZWK02YEITI,Load Balancer,FortiADC 3000F
+Fortinet,08CU9YWO6L,Load Balancer,FortiADC 3000F
+Fortinet,H73YY1QQ2H,Load Balancer,FortiADC 3000F
+Fortinet,T3I16QZQMK,Load Balancer,FortiADC 3000F
+Fortinet,RTOFA8WA9Q,Load Balancer,FortiADC 3000F
+Fortinet,QIDUSXWQ00,Load Balancer,FortiADC 3000F
+Fortinet,B2Q2ISANDI,Load Balancer,FortiADC 3000F
+Fortinet,VY9FIPHG5H,Load Balancer,FortiADC 3000F
+Fortinet,DT4HI7LXDJ,Load Balancer,FortiADC 3000F
+Fortinet,WHIZPC4FH8,Load Balancer,FortiADC 3000F
+Palo Alto,WQX6DWKTYO,Router,PA-850
+Palo Alto,G23W2KF6X8,Router,PA-850
+Palo Alto,SAWWWLRZVR,Router,PA-850
+Palo Alto,7TC4JVMO4Y,Router,PA-850
+Palo Alto,BPUQ87MNDM,Router,PA-850
+Palo Alto,SIPQP8RL4P,Router,PA-850
+Palo Alto,DBZEVKZAS5,Router,PA-850
+Palo Alto,ZY7NB7W8MZ,Router,PA-850
+Palo Alto,T62D7U0JUX,Router,PA-850
+Palo Alto,PH8MPA398P,Router,PA-850
+Palo Alto,3GUTI8MDFE,Router,PA-850
+Palo Alto,2BFDLULAN0,Router,PA-850
+Palo Alto,SDN3PFVWS9,Router,PA-850
+Palo Alto,PWTDOBKGSE,Router,PA-850
+Palo Alto,PAYFN4TV8H,Router,PA-850
+Palo Alto,BPV3Q6K8AC,Router,PA-850
+Fortinet,3824H0V9RY,Load Balancer,FortiADC 3000F
+Fortinet,EEPVOWF1MN,Load Balancer,FortiADC 3000F
+Fortinet,8UPGWIFC1R,Load Balancer,FortiADC 3000F
+Fortinet,AX07ZDBK43,Load Balancer,FortiADC 3000F
+Fortinet,B9OH7590B2,Load Balancer,FortiADC 3000F
+Fortinet,4H5MQ0YLX8,Load Balancer,FortiADC 3000F
+Fortinet,9Y6EMBZQ3I,Load Balancer,FortiADC 3000F
+Fortinet,FZ3XFXZJ7O,Load Balancer,FortiADC 3000F
+Fortinet,XAAJ05JNPS,Load Balancer,FortiADC 3000F
+Fortinet,PYGWVYCOLD,Load Balancer,FortiADC 3000F
+Fortinet,WK631EC84Q,Load Balancer,FortiADC 3000F
+Fortinet,T480NJ6OMD,Load Balancer,FortiADC 3000F
+Fortinet,E3G8VJ4T3P,Load Balancer,FortiADC 3000F
+Fortinet,QUP3ENMYWB,Load Balancer,FortiADC 3000F
+ Palo Alto,B1K79MEFX5,Edge Device,Prisma SD-WAN
+ Palo Alto,V7J3N16M4G,Edge Device,Prisma SD-WAN
+ Palo Alto,I9YGX9H9YV,Edge Device,Prisma SD-WAN
+ Palo Alto,UWDL9MP660,Edge Device,Prisma SD-WAN
+ Palo Alto,6008AATNZV,Edge Device,Prisma SD-WAN
+ Palo Alto,7JUKMJ5HVA,Edge Device,Prisma SD-WAN
+ Palo Alto,3L8V5BCUJ8,Edge Device,Prisma SD-WAN
+ Palo Alto,XLPYWLIFVA,Edge Device,Prisma SD-WAN
+ Palo Alto,WM1DEAIRRZ,Edge Device,Prisma SD-WAN
+ Palo Alto,DUYERA30G7,Edge Device,Prisma SD-WAN
+ Palo Alto,AA7FRIQY30,Edge Device,Prisma SD-WAN
+ Palo Alto,RITOXS45VJ,Edge Device,Prisma SD-WAN
+ Palo Alto,MQHE2WO6MY,Edge Device,Prisma SD-WAN
+ Palo Alto,CIUKVEHLA3,Edge Device,Prisma SD-WAN
+ Palo Alto,SEY6O1KVHY,Edge Device,Prisma SD-WAN
+ Palo Alto,IFJAIG48C9,Edge Device,Prisma SD-WAN
+Cisco,7T5AVILDXO,Switch,Meraki MS355
+Cisco,SFZFZBAMLA,Switch,Meraki MS355
+Cisco,RLD1H6CS0Y,Switch,Meraki MS355
+Cisco,ZZ8Q034D4C,Switch,Meraki MS355
+Cisco,BS63952CT3,Switch,Meraki MS355
+Cisco,UURF9OEB93,Switch,Meraki MS355
+Cisco,UNSB12CYEF,Switch,Meraki MS355
+Cisco,CTRILOP03Z,Switch,Meraki MS355
+Cisco,4ROQICC5RS,Switch,Meraki MS355
+Cisco,5J871SWIEM,Switch,Meraki MS355
+Cisco,SUMI6V2THG,Switch,Meraki MS355
+Cisco,RW56DNVQQC,Switch,Meraki MS355
+Cisco,32S0Q03G71,Switch,Meraki MS355
+Cisco,P7VEGECWJF,Switch,Meraki MS355
+Cisco,JQ10LLN2K8,Switch,Meraki MS355
+Cisco,3HX0S58NSE,Switch,Meraki MS355
+Cisco,UZP0NL5QML,Switch,Meraki MS355
+Cisco,F4RGLF6CGL,Switch,Meraki MS355
+Cisco,Z2SN5QO8SK,Firewall,ASA 5500-X Series
+Cisco,QERG91HVMT,Firewall,ASA 5500-X Series
+Cisco,080UBJEBDQ,Firewall,ASA 5500-X Series
+Cisco,ZS18ZHXQ4G,Firewall,ASA 5500-X Series
+Cisco,RMRI6I7TPJ,Firewall,ASA 5500-X Series
+Cisco,ZZBXCCCXZ5,Firewall,ASA 5500-X Series
+Cisco,YTUV6C4G1A,Firewall,ASA 5500-X Series
+Cisco,M2DQDHKROG,Firewall,ASA 5500-X Series
+Cisco,NU3BGPOBYX,Firewall,ASA 5500-X Series
+Cisco,8M70RO4VED,Firewall,ASA 5500-X Series
+Cisco,8TN7QZED7H,Firewall,ASA 5500-X Series
+Juniper,56KO3YTYDT,Switch,EX4300
+Juniper,4DC8G0QTOV,Switch,EX4300
+Juniper,O5DMQJOREU,Switch,EX4300
+Juniper,6DL24T51B4,Switch,EX4300
+Juniper,33K99F3G75,Switch,EX4300
+Juniper,OT4USZ6PE5,Switch,EX4300
+Juniper,8MVPRAJ3CX,Switch,EX4300
+Juniper,EXUCDYK91Z,Switch,EX4300
+Juniper,MZVPPHRDTF,Switch,EX4300
+Juniper,UOABSXXSEK,Switch,EX4300
+Juniper,QG5JH4RFA2,Switch,EX4300
+Juniper,B3JAEDBL2J,Switch,EX4300
+Juniper,NG91L1NFR6,Switch,EX4300
+Juniper,IYUFBDVX99,Switch,EX4300
+Juniper,ZNWR9WUP50,Switch,EX4300
+Juniper,1MDWNTHPJ9,Switch,EX4300
+Juniper,G4ZRIWULAG,Switch,EX4300
+Juniper,5XFFSSGCU6,Switch,EX4300
+Cisco,DO819I69P3,Switch,Catalyst 2960-XR
+Cisco,0AEXT0Q4OS,Switch,Catalyst 2960-XR
+Cisco,UT8K8UZANH,Switch,Catalyst 2960-XR
+Cisco,H50MSYGR5Z,Switch,Catalyst 2960-XR
+Cisco,NWQIINPOUB,Switch,Catalyst 2960-XR
+Fortinet,BPZ2V8MDE7,Firewall,FortiExtender 201E
+Fortinet,S4YCRXE6MY,Firewall,FortiExtender 201E
+Fortinet,IGXUBEC1P7,Firewall,FortiExtender 201E
+Fortinet,658PR10SC8,Firewall,FortiExtender 201E
+Fortinet,N6JUINCK6A,Firewall,FortiExtender 201E
+Fortinet,HEPQNKGNNV,Firewall,FortiExtender 201E
+Fortinet,ZT9RJ3SS62,Firewall,FortiExtender 201E
+Fortinet,1AFBP33F1K,Firewall,FortiExtender 201E
+Fortinet,XIZ7FJL6DA,Firewall,FortiExtender 201E
+Fortinet,ZPE2S8TA3S,Firewall,FortiExtender 201E
+Fortinet,S058YW71YL,Firewall,FortiExtender 201E
+Fortinet,99RY13GY5S,Firewall,FortiExtender 201E
+Fortinet,Z0ADJVI0NL,Firewall,FortiExtender 201E
+Fortinet,JP2UUT8H6W,Firewall,FortiExtender 201E
+Fortinet,E82KASFWM0,Firewall,FortiExtender 201E
+Fortinet,YE6ZTC4OGS,Firewall,FortiExtender 201E
+ Palo Alto,GZY81SO4V4,Edge Device,Prisma SD-WAN
+ Palo Alto,2CLDQ416GZ,Edge Device,Prisma SD-WAN
+ Palo Alto,IZTML459A7,Edge Device,Prisma SD-WAN
+ Palo Alto,VRCWK7JU96,Edge Device,Prisma SD-WAN
+ Palo Alto,I7BCC4IQUZ,Edge Device,Prisma SD-WAN
+ Palo Alto,SG1SO53009,Edge Device,Prisma SD-WAN
+ Palo Alto,MA4QRQDBLI,Edge Device,Prisma SD-WAN
+ Palo Alto,48TZVS8VMC,Edge Device,Prisma SD-WAN
+ Palo Alto,WQ2Q74SCXQ,Edge Device,Prisma SD-WAN
+ Palo Alto,DMYJS23UQ6,Edge Device,Prisma SD-WAN
+ Palo Alto,34FCUKM2UA,Edge Device,Prisma SD-WAN
+ Palo Alto,WFDILV7DNF,Edge Device,Prisma SD-WAN
+ Palo Alto,0VGVJ93P9V,Edge Device,Prisma SD-WAN
+ Palo Alto,4TM87KW10C,Edge Device,Prisma SD-WAN
+ Palo Alto,LA4WGKQLSI,Edge Device,Prisma SD-WAN
+ Palo Alto,UUA5N5UU0V,Edge Device,Prisma SD-WAN
+ Palo Alto,RET53249WF,Edge Device,Prisma SD-WAN
+ Palo Alto,WS1AZKH9GW,Edge Device,Prisma SD-WAN
+ Palo Alto,AY321N4P7G,Edge Device,Prisma SD-WAN
+ Palo Alto,P1916PESWB,Edge Device,Prisma SD-WAN
+Juniper,66FT06IKKF,Access Point,Mist AP21
+Palo Alto,72AGU0US0G,Controller,Panorama
+Palo Alto,66TZE8P8TH,Controller,Panorama
+Palo Alto,2X8V2BHESI,Controller,Panorama
+Palo Alto,XBM3PN7GHD,Controller,Panorama
+Palo Alto,Q7ONU6H3IH,Controller,Panorama
+Palo Alto,WM89IUWTHV,Controller,Panorama
+Palo Alto,5ENA8R92MW,Controller,Panorama
+Palo Alto,QKOA4RRKV6,Controller,Panorama
+Palo Alto,BVCZWJ78UW,Controller,Panorama
+Palo Alto,A8S6A1CZZ5,Controller,Panorama
+Palo Alto,ZVQY7JIT95,Controller,Panorama
+Palo Alto,K3XVLCSXXS,Controller,Panorama
+Palo Alto,V2NQG7F9D2,Controller,Panorama
+Palo Alto,FN6UTER49R,Controller,Panorama
+Palo Alto,8GZ5TB0Z48,Controller,Panorama
+Palo Alto,IKS4IRLQRB,Controller,Panorama
+Palo Alto,CU24A1PNXV,Controller,Panorama
+Palo Alto,KM2N1G9B88,Controller,Panorama
+Palo Alto,KHFQXAX30K,Controller,Panorama
+Palo Alto,MX7MM8SOFE,Controller,Panorama
+Fortinet,LQJ8DF627K,Load Balancer,FortiADC 200F
+Fortinet,TZALBM41NP,Load Balancer,FortiADC 200F
+Fortinet,RV86L9VUF5,Load Balancer,FortiADC 200F
+Fortinet,L38EO8TJHV,Load Balancer,FortiADC 200F
+Fortinet,QFCPQHZ8IX,Load Balancer,FortiADC 200F
+Fortinet,7SB82KIOVZ,Load Balancer,FortiADC 200F
+Fortinet,SQAUWFAPW1,Load Balancer,FortiADC 200F
+Fortinet,JMU7SXK268,Load Balancer,FortiADC 200F
+Fortinet,PWP9UKUB30,Load Balancer,FortiADC 200F
+Fortinet,PFL625SZZO,Load Balancer,FortiADC 200F
+Cisco,HHII4NURWC,Switch,Meraki MS355
+Cisco,3H6ZH7KHC4,Switch,Meraki MS355
+Cisco,Q7KFLI6MMT,Switch,Meraki MS355
+Cisco,2EY8JTNWVD,Switch,Meraki MS355
+Cisco,HHI38CVBMW,Switch,Meraki MS355
+Cisco,Q1V29U6KEA,Switch,Meraki MS355
+Cisco,H50WM0QJZK,Switch,Meraki MS355
+Cisco,KN2U105UTQ,Switch,Meraki MS355
+Juniper,XONTED9LGJ,Switch,QFX10002
+Juniper,1O89ZOU7DM,Switch,QFX10002
+Juniper,VCASCKKR42,Switch,QFX10002
+Juniper,DPPHZXL5BP,Switch,QFX10002
+Juniper,PKOA1O9UU5,Switch,QFX10002
+Juniper,EXENG8X035,Switch,QFX10002
+Juniper,UXRZK9VSJY,Switch,QFX10002
+Juniper,KBOOGCR04Z,Switch,QFX10002
+Juniper,V5JF34RCN4,Switch,QFX10002
+Juniper,9BWO6Z12V0,Switch,QFX10002
+Juniper,53QR9GQJ6T,Switch,QFX10002
+Juniper,QUIWW3UQCC,Switch,QFX10002
+Juniper,33LRYBC4NY,Switch,QFX10002
+Juniper,Z19MQJ2JJQ,Switch,QFX10002
+Juniper,ADK9M0M0HP,Switch,QFX10002
+Fortinet,BHP44797FY,Load Balancer,FortiADC 200F
+Fortinet,3S669YIH06,Load Balancer,FortiADC 200F
+Fortinet,M001DYTI9F,Load Balancer,FortiADC 200F
+Fortinet,RVPM5TDRHE,Load Balancer,FortiADC 200F
+Fortinet,1VZNSCLQO0,Load Balancer,FortiADC 200F
+Fortinet,94E8HE25JP,Load Balancer,FortiADC 200F
+Fortinet,FNIHGTP2QJ,Load Balancer,FortiADC 200F
+Fortinet,1OLNEB6HVW,Load Balancer,FortiADC 200F
+Fortinet,YPI67B380L,Load Balancer,FortiADC 200F
+Fortinet,WSNP05FLZF,Load Balancer,FortiADC 200F
+Fortinet,51UCXXC8DS,Load Balancer,FortiADC 200F
+Fortinet,H4ZCQV83MA,Load Balancer,FortiADC 200F
+Fortinet,WYSF3JX7G2,Load Balancer,FortiADC 200F
+Fortinet,JM70IT0YDZ,Load Balancer,FortiADC 200F
+Fortinet,1CEJLFNTMD,Load Balancer,FortiADC 200F
+Palo Alto,8AW9YTQ3O7,Router,PA-220R
+Palo Alto,VL4J6I267L,Router,PA-220R
+Palo Alto,UHSCTR5WLH,Router,PA-220R
+Palo Alto,W9C0WT8F8T,Router,PA-220R
+Palo Alto,3TUJCSYGGJ,Router,PA-220R
+Palo Alto,5F84JNA09F,Router,PA-220R
+Palo Alto,98GVTLN1Q7,Router,PA-220R
+Palo Alto,6BK62KI2ML,Router,PA-220R
+ Palo Alto,JA50O6EU0W,Edge Device,Prisma SD-WAN
+ Palo Alto,ANLEOVVBKA,Edge Device,Prisma SD-WAN
+ Palo Alto,L328Q1ALQE,Edge Device,Prisma SD-WAN
+ Palo Alto,N452A6A837,Edge Device,Prisma SD-WAN
+ Palo Alto,KD3NF5S2U4,Edge Device,Prisma SD-WAN
+ Palo Alto,R5U4ZPC80C,Edge Device,Prisma SD-WAN
+ Palo Alto,EJO1W1HC7Y,Edge Device,Prisma SD-WAN
+ Palo Alto,4APBOH5LK6,Edge Device,Prisma SD-WAN
+ Palo Alto,RFK7FHO1J5,Edge Device,Prisma SD-WAN
+ Palo Alto,8Q8IHLE8PX,Edge Device,Prisma SD-WAN
+ Palo Alto,AMGG1XXOD5,Edge Device,Prisma SD-WAN
+ Palo Alto,QZS81WI0VA,Edge Device,Prisma SD-WAN
+ Palo Alto,U6ANSQ72LZ,Edge Device,Prisma SD-WAN
+ Palo Alto,CVJKYE77VG,Edge Device,Prisma SD-WAN
+ Palo Alto,645JBKF4C3,Edge Device,Prisma SD-WAN
+ Palo Alto,9WFA45EBE0,Edge Device,Prisma SD-WAN
+ Palo Alto,69781BHORJ,Edge Device,Prisma SD-WAN
+Series Cisco,IPPAY7LN9F,Firewall,Firepower 2100
+Series Cisco,4HO3UUUQ0E,Firewall,Firepower 2100
+Series Cisco,JOHGPTOHXM,Firewall,Firepower 2100
+Cisco,HDMA0AI0XH,Switch,Nexus 9500 Series
+Cisco,NBBGD3A1XP,Switch,Nexus 9500 Series
+Cisco,VRYRB3CNHQ,Switch,Nexus 9500 Series
+Cisco,B6K1VTHPHY,Switch,Nexus 9500 Series
+Cisco,OMBHB7O6XK,Switch,Nexus 9500 Series
+Cisco,1SQ7566WYY,Switch,Nexus 9500 Series
+Cisco,T0WBQOJHWD,Switch,Nexus 9500 Series
+Cisco,1GFW6XZXZD,Switch,Nexus 9500 Series
+Cisco,KZHWBZ9EH7,Switch,Nexus 9500 Series
+Series Cisco,2TA5HEFW3D,Firewall,Firepower 2100
+Series Cisco,TZCSR0KUTV,Firewall,Firepower 2100
+Series Cisco,N5AXMW7EPV,Firewall,Firepower 2100
+Series Cisco,5I8YAKMQA4,Router,Catalyst 8000
+Series Cisco,4F2QDF9Y5A,Router,Catalyst 8000
+Series Cisco,EZ8APNJZUN,Router,Catalyst 8000
+Series Cisco,MYK9KUYPQU,Router,Catalyst 8000
+Series Cisco,4N2XHTBOQJ,Router,Catalyst 8000
+Series Cisco,KSH5C4W6JV,Router,Catalyst 8000
+Series Cisco,GYFY7GGBQF,Router,Catalyst 8000
+Series Cisco,2Z7HOX2ZIA,Router,Catalyst 8000
+Series Cisco,E4PF78OUGI,Router,Catalyst 8000
+Series Cisco,N8SDOFRR7L,Router,Catalyst 8000
+Series Cisco,EWFLIO08KV,Router,Catalyst 8000
+Series Cisco,B5BI0WIQUO,Router,Catalyst 8000
+Series Cisco,H4U58FXYT2,Router,Catalyst 8000
+Series Cisco,5EA3DSZWU8,Router,Catalyst 8000
+Series Cisco,7SPVS142WF,Router,Catalyst 8000
+Series Cisco,SGHUEW6ARF,Router,Catalyst 8000
+Series Cisco,V1WOGVIOEE,Router,Catalyst 8000
+Series Cisco,22SZB3OXWV,Router,Catalyst 8000
+Series Cisco,V1DV8E04KW,Router,Catalyst 8000
+Palo Alto,IKW5704DTH,Controller,Panorama
+Palo Alto,FNOIG4YD3E,Controller,Panorama
+Palo Alto,5ZXT7PUNIX,Controller,Panorama
+Palo Alto,PYGV7UX97X,Controller,Panorama
+Palo Alto,2RHBIYGLQK,Controller,Panorama
+Palo Alto,SSMBJ6NX4P,Controller,Panorama
+Palo Alto,PU2LMRBQO6,Controller,Panorama
+Palo Alto,TJB8752X4N,Controller,Panorama
+Palo Alto,PSC257BVEG,Controller,Panorama
+Palo Alto,6FP3NBTFOA,Controller,Panorama
+Palo Alto,QFONYR6FNW,Controller,Panorama
+Palo Alto,8PBE7LCD5R,Controller,Panorama
+Palo Alto,80JNJGN147,Controller,Panorama
+Palo Alto,DTFKODQ58Q,Controller,Panorama
+Cisco,J4TE55YIHP,Router,ISR 4000 Series
+Cisco,NDJTOORHPG,Router,ISR 4000 Series
+Cisco,4231E7QKYX,Router,ISR 4000 Series
+Cisco,UIUYWIVA4A,Router,ISR 4000 Series
+Cisco,KHPDTDPHN1,Router,ISR 4000 Series
+Cisco,MAHNMYNTT2,Router,ISR 4000 Series
+Cisco,JP4EF3SS9D,Router,ISR 4000 Series
+Cisco,JZ2TD93GYY,Router,ISR 4000 Series
+Cisco,VWFDB8UI1A,Router,ISR 4000 Series
+Cisco,ES01LR756R,Router,ISR 4000 Series
+Cisco,UW0Y9O5XFG,Router,ISR 4000 Series
+Cisco,O3G30AQIBI,Router,ISR 4000 Series
+Fortinet,WPRXOEG9EF,Load Balancer,FortiADC 3000F
+Fortinet,LCOVBDEPVZ,Load Balancer,FortiADC 3000F
+Fortinet,2NA7OSB0RP,Load Balancer,FortiADC 3000F
+Fortinet,URVCGJQ9ZJ,Load Balancer,FortiADC 3000F
+Fortinet,HB0QU0OB6S,Load Balancer,FortiADC 3000F
+Fortinet,272JNG4GRX,Load Balancer,FortiADC 3000F
+Fortinet,EQM51DYPHJ,Load Balancer,FortiADC 3000F
+Fortinet,2OJMEOZVM5,Load Balancer,FortiADC 3000F
+Fortinet,V20CEJRYI9,Load Balancer,FortiADC 3000F
+Fortinet,QX95K5SOU1,Load Balancer,FortiADC 3000F
+Fortinet,98US62TNKL,Load Balancer,FortiADC 3000F
+Fortinet,IFRQZIJPZ7,Load Balancer,FortiADC 3000F
+Fortinet,YO7386BMGV,Load Balancer,FortiADC 3000F
+Fortinet,C70LK747JC,Load Balancer,FortiADC 3000F
+Juniper,6V5OYQMX76,Access Point,Mist AP21
+Juniper,B4HO5IFJWH,Access Point,Mist AP21
+Juniper,BKNHOOB91T,Access Point,Mist AP21
+Juniper,M1G4S9Q62J,Access Point,Mist AP21
+Juniper,JF2A50TTTG,Access Point,Mist AP21
+Juniper,T0DOT7VS3O,Access Point,Mist AP21
+Juniper,78D5J8E8J9,Access Point,Mist AP21
+Juniper,YC638MSPQG,Access Point,Mist AP21
+Juniper,RLP9D7ZTZD,Access Point,Mist AP21
+Juniper,FWJXOLJRI5,Access Point,Mist AP21
+Juniper,72ZCYM1FYJ,Access Point,Mist AP21
+Juniper,2J9MHOXJQW,Access Point,Mist AP21
+Fortinet,70YTX8X805,Firewall,FortiGate 100F
+Fortinet,VR16PMQV24,Firewall,FortiGate 100F
+Fortinet,UPKZWI364G,Firewall,FortiGate 100F
+Fortinet,RS03LQ9YB7,Firewall,FortiGate 100F
+Fortinet,S3OX6V5T78,Firewall,FortiGate 100F
+Fortinet,G9M4MFKI0Y,Firewall,FortiGate 100F
+Palo Alto,K0G88MZZF8,Controller,Panorama
+Palo Alto,W98N198CMG,Controller,Panorama
+Palo Alto,MAI4PQ2ZPH,Controller,Panorama
+Palo Alto,GBONERCXIL,Controller,Panorama
+Palo Alto,LUG9UCAEM2,Controller,Panorama
+Palo Alto,WU7PJ2P8D9,Controller,Panorama
+Palo Alto,ULRUU3J84Y,Controller,Panorama
+Palo Alto,QALTIS3JCQ,Controller,Panorama
+Palo Alto,KWWNF1OS9I,Controller,Panorama
+Palo Alto,4ZGHDOBCTC,Controller,Panorama
+Palo Alto,TRVC7QX9EK,Controller,Panorama
+Palo Alto,1U5JVIHUD0,Controller,Panorama
+Palo Alto,PM1PJQGIM5,Controller,Panorama
+Palo Alto,IUJD9L6AIA,Controller,Panorama
+Palo Alto,FUR1XKORDV,Controller,Panorama
+Palo Alto,1I5ZB3ZJ31,Controller,Panorama
+Palo Alto,6FBSDZSUIG,Controller,Panorama
+Palo Alto,0NIP16X7GY,Controller,Panorama
+Juniper,KAUOFRWE7W,Firewall,SRX320
+Juniper,XKJGTFV3GE,Firewall,SRX320
+Juniper,NFKW1O2ZK5,Firewall,SRX320
+Juniper,VKTEUPIC4R,Firewall,SRX320
+Juniper,BAKFHRJ299,Firewall,SRX320
+Juniper,DPK2TPQNWT,Firewall,SRX320
+Juniper,WNVN0ULYYL,Firewall,SRX320
+Juniper,KU6QZ2XC4B,Firewall,SRX320
+Juniper,OZ4MMNI6L1,Firewall,SRX320
+Juniper,YPSB4BY374,Firewall,SRX320
+Fortinet,J9K2VI34F3,Firewall,FortiExtender 201E
+Fortinet,RON3LN2NHC,Firewall,FortiExtender 201E
+Fortinet,HHAWY7P2PN,Firewall,FortiExtender 201E
+Fortinet,HD3KFUFQ3V,Firewall,FortiExtender 201E
+Fortinet,K7ZEJBQGHC,Firewall,FortiExtender 201E
+Fortinet,1FMO3C4K38,Firewall,FortiExtender 201E
+Fortinet,DHA0SFX1VY,Firewall,FortiExtender 201E
+Fortinet,ZMFOQFZGIU,Firewall,FortiExtender 201E
+Fortinet,RW3QPMBQ64,Firewall,FortiExtender 201E
+Fortinet,E3BV0SYCAY,Firewall,FortiExtender 201E
+Fortinet,TAWJM5WVGK,Firewall,FortiExtender 201E
+Fortinet,GKMPK1MY18,Firewall,FortiExtender 201E
+Fortinet,NZRFFFP7AO,Firewall,FortiExtender 201E
+Fortinet,5OFLYRBBQX,Firewall,FortiExtender 201E
+Fortinet,ZM0N9HPH0B,Firewall,FortiExtender 201E
+Juniper,XWAAF5FZ9X,Switch,EX4300
+Juniper,H4QOB3EB71,Switch,EX4300
+Juniper,IMAZPXV7J3,Switch,EX4300
+Juniper,SC189Q5C5G,Switch,EX4300
+Juniper,S160LYSPB9,Switch,EX4300
+Juniper,B64G2GD061,Switch,EX4300
+Juniper,7NVIXRQZQF,Switch,EX4300
+Juniper,VWHMQNR7WX,Switch,EX4300
+Juniper,I5X6FVO0K5,Switch,EX4300
+Juniper,A5VEI73PKV,Switch,EX4300
+Juniper,UPP4T4I8KH,Switch,EX4300
+Juniper,XFXPLNRGU7,Switch,EX4300
+Juniper,RL2M8XZK8O,Switch,EX4300
+Juniper,KAEE7N9ZF7,Switch,EX4300
+Juniper,LSHLVM7DOB,Switch,EX4300
+Juniper,24KGO9BR9K,Switch,EX4300
+Juniper,RHDQ8N71MY,Switch,EX4300
+ Palo Alto,MS6NJ9LJ53,Edge Device,Prisma SD-WAN
+ Palo Alto,FCZQ35D4M3,Edge Device,Prisma SD-WAN
+ Palo Alto,MOYBEE7TBR,Edge Device,Prisma SD-WAN
+ Palo Alto,5824AKBV6E,Edge Device,Prisma SD-WAN
+ Palo Alto,670G7GRX59,Edge Device,Prisma SD-WAN
+ Palo Alto,G3GOL7P357,Edge Device,Prisma SD-WAN
+ Palo Alto,7WSYALWVYL,Edge Device,Prisma SD-WAN
+ Palo Alto,5VH3S8SHG7,Edge Device,Prisma SD-WAN
+ Palo Alto,E5E5IRXMAW,Edge Device,Prisma SD-WAN
+ Palo Alto,0XMPNTHW7O,Edge Device,Prisma SD-WAN
+ Palo Alto,N3HIRPXJOJ,Edge Device,Prisma SD-WAN
+ Palo Alto,PJXH68S7BD,Edge Device,Prisma SD-WAN
+ Palo Alto,FYIQ5OJR2W,Edge Device,Prisma SD-WAN
+Juniper,BLPF9CF7WN,Router,SRX1500
+Juniper,8EZR2AR93Z,Router,SRX1500
+Juniper,IXY7PQ69AF,Router,SRX1500
+Juniper,K4J5K02STE,Router,SRX1500
+Juniper,AWDAU1R79A,Router,SRX1500
+Juniper,DJLMSSLW4L,Router,SRX1500
+Juniper,E0SZ636Q0P,Router,SRX1500
+Juniper,ALN3VW9IL2,Router,SRX1500
+Juniper,503ZIKVUXL,Router,SRX1500
+Juniper,G2KIIP2811,Router,SRX1500
+Juniper,INKAW4XPFT,Router,SRX1500
+Juniper,FA49GE89F6,Router,SRX1500
+Juniper,S5YOSGB68W,Router,SRX1500
+Juniper,VUOJBIEIWH,Router,SRX1500
+Juniper,3WORPSD28N,Router,SRX1500
+Juniper,M4I1RXZMZQ,Router,SRX1500
+Juniper,8ZTJ89TNW6,Router,SRX1500
+Juniper,UENTGH20OW,Router,ACX7100
+Juniper,E1GP99TBJQ,Router,ACX7100
+Juniper,6HQV0KSJHY,Router,ACX7100
+Juniper,Z6QSIYY6B7,Router,ACX7100
+Juniper,LUZY5601PP,Router,ACX7100
+Juniper,TE2YUIHQ80,Router,ACX7100
+Juniper,W3O2D510G0,Router,ACX7100
+Juniper,4DLU3L9N9H,Router,ACX7100
+Juniper,X9HWE4ZW0W,Router,ACX7100
+Juniper,IHJQ37I2QD,Router,ACX7100
+Juniper,W27XHQR06A,Router,ACX7100
+Juniper,R1AX9679PI,Router,ACX7100
+Juniper,4UM7GT8FV4,Router,ACX7100
+Cisco,WO4OTZVVNZ,Access Point,Meraki MR56
+Cisco,ABL8V99JJN,Access Point,Meraki MR56
+Cisco,11Y5WM4SJ7,Access Point,Meraki MR56
+Cisco,8FSGHILO5S,Access Point,Meraki MR56
+Cisco,HLZMZQZ5A5,Access Point,Meraki MR56
+Cisco,XWQ6Y6DQT1,Access Point,Meraki MR56
+Cisco,RKQF2K1INR,Access Point,Meraki MR56
+Cisco,LDFU2Y0PCN,Access Point,Meraki MR56
+Cisco,52WTDI60PS,Access Point,Meraki MR56
+Cisco,M21NXN64T1,Access Point,Meraki MR56
+Cisco,QWOTW2MM87,Access Point,Meraki MR56
+Cisco,WAY3A757K1,Access Point,Meraki MR56
+Cisco,Z6M7TZFL34,Access Point,Meraki MR56
+Cisco,OUU5GWMXYK,Access Point,Meraki MR56
+Cisco,DVBOL03TQT,Access Point,Meraki MR56
+Cisco,VP42ZS1M27,Access Point,Meraki MR56
+Cisco,MZREM4IPBU,Access Point,Meraki MR56
+Cisco,8KLTINV7E6,Access Point,Meraki MR56
+Cisco,Q5Y27Z7WVL,Access Point,Meraki MR56
+Cisco,9Q5K8HXZ1Q,Access Point,Meraki MR56
+Cisco,TKD9IS5KY5,Access Point,Meraki MR56
+Cisco,D6C8UJ8AE7,Access Point,Meraki MR56
+Cisco,6DED0HSPRC,Access Point,Meraki MR56
+Cisco,HJFR5CEIJE,Access Point,Meraki MR56
+Cisco,4LOPUCNGTT,Access Point,Meraki MR56
+Cisco,4I8SYJFBNZ,Access Point,Meraki MR56
+Cisco,O9L8CT76H3,Access Point,Meraki MR56
+Cisco,CB6P2YWZNM,Access Point,Meraki MR56
+Cisco,NVYZOLXU6F,Access Point,Meraki MR56
+Palo Alto,555ZZW7XD2,Controller,Panorama
+Palo Alto,80T79T88PP,Controller,Panorama
+Palo Alto,GPM14E7WWN,Controller,Panorama
+Palo Alto,J8D93PASIB,Controller,Panorama
+Palo Alto,W9LCPU38NZ,Controller,Panorama
+Palo Alto,8SJ1J4MVFC,Controller,Panorama
+Palo Alto,FXGB7W32FL,Controller,Panorama
+Palo Alto,CQZBT8GIZ6,Controller,Panorama
+Palo Alto,776QDP2FS9,Controller,Panorama
+Palo Alto,KPC04C9YMU,Controller,Panorama
+Palo Alto,TTUZZ0EZXJ,Controller,Panorama
+Palo Alto,1ZFP9XU5B5,Controller,Panorama
+Palo Alto,KPD5AJ1RNR,Controller,Panorama
+Palo Alto,FIRX1KZBEE,Controller,Panorama
+Palo Alto,MWI6RZ0DF0,Controller,Panorama
+Cisco,GHGX2PJDE2,Switch,Nexus 9500 Series
+Cisco,JH35JB9SXS,Switch,Nexus 9500 Series
+Cisco,5PEXH5FDLZ,Switch,Nexus 9500 Series
+Cisco,UVUT7N00WN,Switch,Nexus 9500 Series
+Cisco,GQHFSKPN7X,Switch,Nexus 9500 Series
+Cisco,FQVZ4SW0TB,Switch,Nexus 9500 Series
+Cisco,XF9DQQCK90,Switch,Nexus 9500 Series
+Fortinet,OM7337NUVP,Load Balancer,FortiADC 200F
+Fortinet,6QY6ABW4TP,Load Balancer,FortiADC 200F
+Fortinet,BR60J98OVW,Load Balancer,FortiADC 200F
+Fortinet,E6UMATPZH0,Load Balancer,FortiADC 200F
+Fortinet,2DLU5GU26X,Load Balancer,FortiADC 200F
+Fortinet,SNBTFTTKK7,Load Balancer,FortiADC 200F
+Fortinet,NDE7SJK9X6,Load Balancer,FortiADC 200F
+Fortinet,BBR9ERSV4N,Load Balancer,FortiADC 200F
+Fortinet,N2OKAVL08C,Load Balancer,FortiADC 200F
+Fortinet,8ZFIV2P69K,Load Balancer,FortiADC 200F
+Fortinet,NPDISA8CNB,Load Balancer,FortiADC 200F
+Fortinet,GHWZ5YBJHG,Load Balancer,FortiADC 200F
+Fortinet,NG4C5FJ3C2,Load Balancer,FortiADC 200F
+Fortinet,KDRWOJAQVA,Load Balancer,FortiADC 200F
+Fortinet,X0M4IIG4E5,Load Balancer,FortiADC 200F
+Fortinet,NU1BEMAJYR,Load Balancer,FortiADC 200F
+Fortinet,D47HCBBSPD,Load Balancer,FortiADC 200F
+Fortinet,FTLEVFKRRH,Load Balancer,FortiADC 200F
+Fortinet,FO0PQN6IJC,Load Balancer,FortiADC 200F
+Fortinet,CNVUUHR45R,Load Balancer,FortiADC 200F
+ Palo Alto,VEI8JII6C0,Edge Device,Prisma SD-WAN
+ Palo Alto,HP6WRJUHGY,Edge Device,Prisma SD-WAN
+ Palo Alto,B696THADLY,Edge Device,Prisma SD-WAN
+ Palo Alto,H8PTL5O2H7,Edge Device,Prisma SD-WAN
+ Palo Alto,L1O9UY1ZT6,Edge Device,Prisma SD-WAN
+ Palo Alto,VL9U18OSNQ,Edge Device,Prisma SD-WAN
+ Palo Alto,6DWG0PDMMV,Edge Device,Prisma SD-WAN
+ Palo Alto,VA30OPOKLG,Edge Device,Prisma SD-WAN
+ Palo Alto,UYB2GUKUWT,Edge Device,Prisma SD-WAN
+Fortinet,UPWE1QJYXX,Load Balancer,FortiADC 3000F
+Fortinet,WZUW9FMH7I,Load Balancer,FortiADC 3000F
+Fortinet,VQ67PZXN9V,Load Balancer,FortiADC 3000F
+Fortinet,HL4IC9A7SB,Load Balancer,FortiADC 3000F
+Fortinet,4DEABFWXIT,Load Balancer,FortiADC 3000F
+Fortinet,I3W9K7RPX1,Load Balancer,FortiADC 3000F
+Fortinet,LCQE2VM5R0,Load Balancer,FortiADC 3000F
+Fortinet,5G2AIG51AC,Load Balancer,FortiADC 3000F
+Fortinet,JP6N5A0KST,Load Balancer,FortiADC 3000F
+Fortinet,J8MNDR7Q67,Load Balancer,FortiADC 3000F
+Fortinet,8QTCRXV1MU,Load Balancer,FortiADC 3000F
+Juniper,DCYOMKR9P0,Router,ACX7100
+Juniper,T6UXYD1233,Router,ACX7100
+Juniper,QSTHHQOUGT,Router,ACX7100
+Juniper,08QBUOUHPU,Router,ACX7100
+Juniper,Z0UF7SMXS2,Router,ACX7100
+Juniper,UC5OGS9JHC,Router,ACX7100
+Juniper,1MVYKKDB6U,Router,ACX7100
+Juniper,RX3QJ9L4OY,Router,ACX7100
+Juniper,LIAKYLSD0P,Router,ACX7100
+Juniper,H252XPO0QX,Router,ACX7100
+Juniper,V5S1ECE6A6,Router,ACX7100
+Juniper,R9UP3V3IP0,Router,ACX7100
+Juniper,5YTES5PVCQ,Router,ACX7100
+Juniper,0W0OT76QA4,Router,ACX7100
+Juniper,0UF3XNT1FN,Router,ACX7100
+Juniper,NZWUGCRYV9,Router,ACX7100
+Juniper,85HCG9DNNQ,Router,ACX7100
+Juniper,J28KU948MR,Router,ACX7100
+Juniper,TRBJFML1XB,Gateway,SRX300 Gateway
+Juniper,AFSJ49HGO3,Gateway,SRX300 Gateway
+Juniper,Y7O07H9D48,Gateway,SRX300 Gateway
+Juniper,0D7CF58EXJ,Gateway,SRX300 Gateway
+Juniper,D9Q38U0WCH,Gateway,SRX300 Gateway
+Juniper,SPPSYQLRJI,Gateway,SRX300 Gateway
+Juniper,L5EUYUWIJP,Gateway,SRX300 Gateway
+Fortinet,TF3EY41NOV,Load Balancer,FortiADC 3000F
+Fortinet,JFOKXSEUO6,Load Balancer,FortiADC 3000F
+Fortinet,8BHOUD9YN3,Load Balancer,FortiADC 3000F
+Fortinet,XWO3S3DACM,Load Balancer,FortiADC 3000F
+Fortinet,8BL78SLZ98,Load Balancer,FortiADC 3000F
+Fortinet,CF931GJWTG,Load Balancer,FortiADC 3000F
+Fortinet,PQENMVWMDN,Load Balancer,FortiADC 3000F
+Cisco,D6F4W3K6XE,Gateway,ASR 920
+Cisco,V4UYU81UC4,Gateway,ASR 920
+Cisco,L8TLZBLF2V,Gateway,ASR 920
+Cisco,OYP5L2HBFU,Gateway,ASR 920
+Cisco,76H2RTNSNB,Gateway,ASR 920
+Cisco,AGXVVQIKH4,Gateway,ASR 920
+Cisco,0CG2KBIX5T,Gateway,ASR 920
+Cisco,VYNID6STT3,Gateway,ASR 920
+Cisco,OAFSO50L1K,Gateway,ASR 920
+Cisco,1K8FY0AD8D,Gateway,ASR 920
+Cisco,G7E2WKZ4Q0,Gateway,ASR 920
+Cisco,3AGLSGQ5EU,Gateway,ASR 920
+Cisco,TXQ2ERTED5,Gateway,ASR 920
+Cisco,93S6RCMX93,Gateway,ASR 920
+Fortinet,470G0T7DB9,Load Balancer,FortiADC 200F
+Fortinet,73R8MQ7AON,Load Balancer,FortiADC 200F
+Fortinet,L05J2FA1FE,Load Balancer,FortiADC 200F
+Fortinet,NP5UGKWGRR,Load Balancer,FortiADC 200F
+Fortinet,PKMWVP1WFJ,Load Balancer,FortiADC 200F
+Fortinet,505G4QIPFZ,Load Balancer,FortiADC 200F
+Fortinet,GN51VXTV36,Load Balancer,FortiADC 200F
+Series Cisco,7ZWQJQZGRY,Router,Catalyst 8000
+Series Cisco,3P74S48RSI,Router,Catalyst 8000
+Series Cisco,6TRTBEDMHT,Router,Catalyst 8000
+Series Cisco,DPGIBN23RM,Router,Catalyst 8000
+Series Cisco,GJK2JISTQ1,Router,Catalyst 8000
+Series Cisco,45XQLTW829,Router,Catalyst 8000
+Series Cisco,P5JZDWH1Y1,Switch,Catalyst 9000
+Series Cisco,5T51VK095T,Switch,Catalyst 9000
+Series Cisco,06JNFJH9JJ,Switch,Catalyst 9000
+Series Cisco,K1SIQYLF61,Switch,Catalyst 9000
+Series Cisco,CO1ZXGK5DR,Switch,Catalyst 9000
+Series Cisco,70AXUMVSYP,Switch,Catalyst 9000
+Series Cisco,M3ML5VYJIT,Switch,Catalyst 9000
+Series Cisco,UFAND6YO3M,Switch,Catalyst 9000
+Series Cisco,841YC5NCX7,Switch,Catalyst 9000
+Series Cisco,SUVW1VFUNO,Switch,Catalyst 9000
+Series Cisco,BO0LDVWI9U,Switch,Catalyst 9000
+Series Cisco,TFQIASL8KT,Switch,Catalyst 9000
+Series Cisco,1PRJE37D7L,Switch,Catalyst 9000
+Series Cisco,AO3APDDC4R,Switch,Catalyst 9000
+Series Cisco,A4WU48R0UT,Switch,Catalyst 9000
+Series Cisco,5ROEOD4NNZ,Switch,Catalyst 9000
+Series Cisco,I5V3F1SWVT,Switch,Catalyst 9000
+Series Cisco,MTRZ8FW70R,Switch,Catalyst 9000
+ Palo Alto,E09PBQ5YZU,Edge Device,Prisma SD-WAN
+Cisco,RIC8RJETU6,Router,NCS 5000 Series
+Cisco,ZWE3651FQN,Router,NCS 5000 Series
+Cisco,P0YX7RY6YX,Router,NCS 5000 Series
+Cisco,UST2OKSGCF,Router,NCS 5000 Series
+Cisco,7PTWKJBXRK,Router,NCS 5000 Series
+Cisco,PMDGLQBHSF,Router,NCS 5000 Series
+Cisco,D6EWVY8XIM,Router,NCS 5000 Series
+Juniper,4XQ8ZFWOUM,Switch,QFX10002
+Juniper,44P1XA79EI,Switch,QFX10002
+Fortinet,CRIU1QW2Y8,Firewall,FortiGate 60F
+Juniper,MPLHH7DNAL,Router,MX480
+Juniper,AVBIM7YMD0,Router,MX480
+Juniper,IE1FC2BP0I,Router,MX480
+Juniper,4RCXHHDUI0,Router,MX480
+Juniper,T14OETEEH3,Router,MX480
+Juniper,AS8WL3MWVI,Router,MX480
+Juniper,GKCGX256VQ,Router,MX480
+Juniper,RGHIXT00T4,Router,MX480
+Cisco,WUQ9ZTPL33,Gateway,vEdge 2000
+Cisco,86HOO8LKRL,Gateway,vEdge 2000
+Cisco,6BBBFKEU1A,Gateway,vEdge 2000
+Fortinet,3MHCDPKOHG,Load Balancer,FortiADC 3000F
+Fortinet,LG9C5SMLKL,Load Balancer,FortiADC 3000F
+Fortinet,1JDIBCRK7L,Load Balancer,FortiADC 3000F
+Fortinet,S1CO1HZHX8,Load Balancer,FortiADC 3000F
+Fortinet,61FPDQY45R,Load Balancer,FortiADC 3000F
+Fortinet,RJLUUSX8HO,Load Balancer,FortiADC 3000F
+Fortinet,D5LQ2WY2M7,Load Balancer,FortiADC 3000F
+Fortinet,2L80GIFGBA,Load Balancer,FortiADC 3000F
+Juniper,XRXAWBF973,Switch,EX4300
+Juniper,FUD8063NKF,Switch,EX4300
+Juniper,2SVCURN853,Switch,EX4300
+Juniper,5VYXEKX29N,Switch,EX4300
+Juniper,Z8Q65JC2G0,Switch,EX4300
+Juniper,0QV4WR7EOP,Switch,EX4300
+Juniper,HKMRR6Y88A,Switch,EX4300
+Juniper,671WFRX7CK,Switch,EX4300
+Juniper,VIQ6FBL13K,Switch,EX4300
+Juniper,TLG2WF5MBC,Switch,EX4300
+Juniper,7BIAD4V572,Switch,EX4300
+Juniper,VVNU7L8DQR,Switch,EX4300
+Juniper,5NADM6D0FB,Switch,EX4300
+Juniper,BOUQHURDAQ,Switch,EX4300
+Juniper,EUREB04J0O,Switch,EX4300
+Fortinet,EGAOX86X4C,Load Balancer,FortiADC 3000F
+Palo Alto,WZ02HVFYH3,Firewall,PA-7000 Series
+Cisco,SR1MA8ZXD3,Switch,Nexus 9500 Series
+Cisco,SYKG2PO96A,Switch,Nexus 9500 Series
+Cisco,LF9Q1AL7LF,Switch,Nexus 9500 Series
+Cisco,7OKA2N1DE3,Switch,Nexus 9500 Series
+Cisco,WWMJZAK1W9,Switch,Nexus 9500 Series
+Cisco,2H0BEMWU4Q,Switch,Nexus 9500 Series
+Cisco,KMJURSBDZV,Access Point,Catalyst 9100
+Cisco,I78OZR8P8K,Access Point,Catalyst 9100
+Cisco,XAV3ZDCK4N,Access Point,Catalyst 9100
+Cisco,W251IVROHU,Access Point,Catalyst 9100
+Cisco,40MCMMY4L5,Access Point,Catalyst 9100
+Cisco,YLPMNT5K2V,Access Point,Catalyst 9100
+Cisco,NP1ZQ2KAPI,Access Point,Catalyst 9100
+Cisco,Q6VYTPP9NB,Access Point,Catalyst 9100
+Cisco,GDVZV1GT86,Access Point,Catalyst 9100
+Cisco,YMAKKI8PMX,Access Point,Catalyst 9100
+Cisco,VCYQSO8AWA,Access Point,Catalyst 9100
+Cisco,QZSVE9IX0U,Access Point,Catalyst 9100
+Cisco,1Y3DLJ5GXH,Access Point,Catalyst 9100
+Cisco,OD739TNTVZ,Access Point,Catalyst 9100
+ Palo Alto,MKCC3JWWA9,Edge Device,Prisma SD-WAN
+ Palo Alto,V4YGWR3H0L,Edge Device,Prisma SD-WAN
+ Palo Alto,6QHEJDHOKF,Edge Device,Prisma SD-WAN
+Cisco,JZKA74O43E,Gateway,ASR 920
+Cisco,XO4M2370BA,Gateway,ASR 920
+Cisco,4NHN086IJH,Gateway,ASR 920
+Cisco,SS4U4RA6ZG,Gateway,ASR 920
+Cisco,13O63XP5I1,Gateway,ASR 920
+Cisco,QDKKKR64B5,Gateway,ASR 920
+Cisco,ZWDD04YT7E,Gateway,ASR 920
+Cisco,QZHVUE008B,Gateway,ASR 920
+Cisco,6GRKG87L87,Gateway,ASR 920
+Cisco,8JFSBOH31K,Gateway,ASR 920
+Cisco,71MA1ZEFAT,Gateway,ASR 920
+Cisco,KPM1VK0C28,Gateway,ASR 920
+Cisco,F5W2QUQP6N,Gateway,ASR 920
+Cisco,NDFW1BVC2I,Gateway,ASR 920
+Cisco,9D63JE5OVT,Gateway,ASR 920
+Cisco,40M5Z9UUIE,Gateway,ASR 920
+Cisco,DGNLM3TCLE,Gateway,ASR 920
+Cisco,6QLXXEYVLP,Gateway,ASR 920
+Cisco,79CTAPIULN,Gateway,ASR 920
+Juniper,777EYSLIUS,Router,ACX7100
+Juniper,LLMH99JWMP,Router,ACX7100
+Juniper,XD3NJXEL4A,Router,ACX7100
+Cisco,DAKZ8WQX9C,Gateway,ASR 920
+Cisco,NVS9K5MOPB,Gateway,ASR 920
+Cisco,3NV74E2LDQ,Gateway,ASR 920
+Cisco,CJBKV4BGVG,Gateway,ASR 920
+Cisco,OUEA1XX68I,Gateway,ASR 920
+Series Cisco,4R2XWC7HH4,Firewall,Firepower 2100
+Series Cisco,5M01TSHZ5P,Firewall,Firepower 2100
+Series Cisco,0FZSH6WGEH,Firewall,Firepower 2100
+Series Cisco,SPKHPOWTK6,Firewall,Firepower 2100
+Series Cisco,2OZ8AC3CAA,Firewall,Firepower 2100
+Series Cisco,GOICS2X0HW,Firewall,Firepower 2100
+Series Cisco,QMFP12VHVF,Firewall,Firepower 2100
+Series Cisco,NNUXASN03S,Firewall,Firepower 2100
+Series Cisco,HGHQO8V150,Firewall,Firepower 2100
+Series Cisco,FF6YHNNCCN,Firewall,Firepower 2100
+Series Cisco,FW7XMZ74AB,Firewall,Firepower 2100
+Series Cisco,L7D0SMGY3I,Firewall,Firepower 2100
+Series Cisco,0QAYH2AUKC,Firewall,Firepower 2100
+Series Cisco,GUDTTU7OZK,Firewall,Firepower 2100
+Series Cisco,BWR8O04X1V,Firewall,Firepower 2100
+Series Cisco,YH5OQV9UDY,Firewall,Firepower 2100
+Series Cisco,SBDDX4JQQA,Firewall,Firepower 2100
+Fortinet,M8FA19XC0Z,Load Balancer,FortiADC 3000F
+Fortinet,WRSVHZ3OLG,Load Balancer,FortiADC 3000F
+Fortinet,PQ5RZFQKFZ,Load Balancer,FortiADC 3000F
+Fortinet,U34FBD0TFA,Load Balancer,FortiADC 3000F
+Fortinet,76GY417PLF,Load Balancer,FortiADC 3000F
+Fortinet,XQLV329KSK,Load Balancer,FortiADC 3000F
+Fortinet,EOO46UCCUV,Load Balancer,FortiADC 3000F
+Fortinet,YOVZFJAXCO,Load Balancer,FortiADC 3000F
+Fortinet,UI72EBIBC9,Load Balancer,FortiADC 3000F
+Fortinet,AZ1VDOY1IL,Load Balancer,FortiADC 3000F
+Fortinet,XMV31SZFKT,Load Balancer,FortiADC 3000F
+Fortinet,5KJ5OO59DH,Load Balancer,FortiADC 3000F
+Fortinet,80Z45C5B52,Load Balancer,FortiADC 3000F
+Fortinet,9GG3F4EWLD,Load Balancer,FortiADC 3000F
+Fortinet,BA5S43UMUO,Load Balancer,FortiADC 3000F
+Cisco,L68R9K5KIF,Access Point,Meraki MR56
+Cisco,AKYX32SG3T,Access Point,Meraki MR56
+Cisco,O7PHFUSFRE,Access Point,Meraki MR56
+Cisco,1MP2SCVPO7,Access Point,Meraki MR56
+Cisco,TLDC37HC66,Access Point,Meraki MR56
+Cisco,XA1KKYGQ3R,Access Point,Meraki MR56
+Cisco,MIX1FQW4RH,Access Point,Meraki MR56
+Cisco,R1HLY62H06,Access Point,Meraki MR56
+Cisco,HU72AE4I4B,Access Point,Meraki MR56
+Cisco,DNEEWJOPG7,Access Point,Meraki MR56
+Cisco,BQ60EW1GU9,Access Point,Meraki MR56
+Cisco,E2KLJWWC5S,Access Point,Meraki MR56
+Cisco,24B5E1JCVQ,Access Point,Meraki MR56
+Cisco,CTYKOBRW5H,Access Point,Meraki MR56
+Cisco,S1SP004O19,Access Point,Meraki MR56
+Cisco,BIIQ5HA21B,Access Point,Meraki MR56
+Cisco,YCH760Y4ZN,Access Point,Meraki MR56
+Cisco,7TS58ZDDU4,Access Point,Meraki MR56
+Fortinet,FRYPZCADTH,Firewall,FortiGate 60F
+Fortinet,M2RKV8LN2O,Firewall,FortiGate 60F
+Fortinet,4Z9N8LKZZY,Firewall,FortiGate 60F
+Fortinet,HVD4K8JRT2,Firewall,FortiGate 60F
+Fortinet,JRZWL36DDK,Firewall,FortiGate 60F
+Fortinet,1AML8KPF85,Firewall,FortiGate 60F
+Fortinet,6BPTR1EX6R,Firewall,FortiGate 60F
+Fortinet,B4TL7S3FF1,Firewall,FortiGate 60F
+Fortinet,ASZ8KCQSTX,Firewall,FortiGate 60F
+Fortinet,NX05HNWJVR,Firewall,FortiGate 60F
+Fortinet,SO3PYZSHHC,Firewall,FortiGate 60F
+Fortinet,CMFRPA2K26,Firewall,FortiGate 60F
+Fortinet,WI6IPA27AR,Firewall,FortiGate 60F
+Fortinet,P5BMX6LIIE,Firewall,FortiGate 60F
+Fortinet,7VXP2HGQFB,Firewall,FortiGate 60F
+Fortinet,7FPF2LH7VG,Firewall,FortiGate 60F
+Fortinet,62XOZQVCA9,Firewall,FortiGate 60F
+Fortinet,98CLV5YW7Q,Firewall,FortiGate 60F
+Fortinet,3WVKPG04L3,Firewall,FortiGate 60F
+Cisco,BI2NILPO9O,Gateway,vEdge 1000
+Cisco,0LO9GWVB9A,Gateway,vEdge 1000
+Cisco,5EG17B5BIQ,Gateway,vEdge 1000
+Cisco,T6VDGENPC6,Gateway,vEdge 1000
+Cisco,ERHAP808FH,Gateway,vEdge 1000
+Cisco,9B2V2SBGJT,Gateway,vEdge 1000
+Cisco,B2MTMQV09U,Gateway,vEdge 1000
+Cisco,KVZPKRJ7H9,Gateway,vEdge 1000
+Cisco,KN2329PONY,Gateway,vEdge 1000
+Cisco,OILKVNVCMM,Gateway,vEdge 1000
+Cisco,4BG8L2SYTU,Gateway,vEdge 1000
+Cisco,PKNTZM3ELX,Gateway,vEdge 1000
+Palo Alto,1KEFUKQQ6U,Firewall,PA-7000 Series
+Palo Alto,Q1ND017DSS,Firewall,PA-7000 Series
+Palo Alto,IWTQ4FDE0G,Firewall,PA-7000 Series
+Palo Alto,2EWFXA9SZR,Firewall,PA-7000 Series
+Palo Alto,68KONCCS7C,Firewall,PA-7000 Series
+Palo Alto,ILW456310O,Firewall,PA-7000 Series
+Palo Alto,YIUKZ3PF1U,Firewall,PA-7000 Series
+Palo Alto,4FIH8U3XIY,Firewall,PA-7000 Series
+Palo Alto,3MWU38769W,Firewall,PA-7000 Series
+Palo Alto,I4HLDXVYXC,Firewall,PA-7000 Series
+Palo Alto,MYEA651F7B,Firewall,PA-7000 Series
+Palo Alto,OCCVK8SPIV,Firewall,PA-7000 Series
+Palo Alto,9RSVGBA4C0,Firewall,PA-7000 Series
+Palo Alto,U97CP1F0DR,Firewall,PA-7000 Series
+Palo Alto,EYFBGPB5AR,Firewall,PA-7000 Series
+Juniper,2VRHEED1D3,Gateway,SRX300 Gateway
+Juniper,8QBSIII64T,Gateway,SRX300 Gateway
+Juniper,IS3OT2ZYRX,Gateway,SRX300 Gateway
+Juniper,QNZVVZAUYT,Gateway,SRX300 Gateway
+Juniper,X3R90QK4ZR,Gateway,SRX300 Gateway
+Juniper,ZPY6G914GZ,Gateway,SRX300 Gateway
+Juniper,ADCXHUJEG8,Gateway,SRX300 Gateway
+Juniper,WNN74T8P6S,Gateway,SRX300 Gateway
+Juniper,2XUWG40A0O,Gateway,SRX300 Gateway
+Juniper,4BHGSD87IQ,Gateway,SRX300 Gateway
+Palo Alto,KBV79OHEBE,Router,PA-220R
+Palo Alto,DIRW2XFGW3,Router,PA-220R
+Palo Alto,JAGVDUI6LI,Router,PA-220R
+Palo Alto,XSZFVCLMFM,Router,PA-220R
+Palo Alto,2FBY84QO9E,Router,PA-220R
+Palo Alto,BYJH2DTHGM,Router,PA-220R
+Palo Alto,8J8TRE24O5,Router,PA-220R
+Palo Alto,7RECJ873KO,Router,PA-220R
+Palo Alto,XKQN1V4WZ8,Router,PA-220R
+Palo Alto,FHQECQPQTO,Router,PA-220R
+Palo Alto,2V3BTGDK97,Router,PA-220R
+Palo Alto,C3Y6Q20C4R,Router,PA-220R
+Palo Alto,JGBTOORCIN,Router,PA-220R
+Palo Alto,IDUU8YG47W,Router,PA-220R
+Fortinet,4RRJFT1ZFV,Firewall,FortiGate 100F
+Fortinet,9QQSHIZ7DK,Firewall,FortiGate 100F
+Fortinet,CTAZLTL8YH,Firewall,FortiGate 100F
+Fortinet,RU9D4MKT5P,Firewall,FortiGate 100F
+Cisco,8DSB01HYKV,Access Point,Meraki MR56
+Cisco,5WWKLEHMSZ,Access Point,Meraki MR56
+Cisco,30S30DYAR1,Access Point,Meraki MR56
+Cisco,A8P8Y4XCJ5,Access Point,Meraki MR56
+Cisco,S0G6E3R63Y,Access Point,Meraki MR56
+Cisco,3OF1SO8SNB,Access Point,Meraki MR56
+Cisco,GV75Z8VBGD,Access Point,Meraki MR56
+Cisco,SMFDLTZIMQ,Access Point,Meraki MR56
+Cisco,U6SVHT4CT9,Access Point,Meraki MR56
+Cisco,CWNOCFEXQ5,Access Point,Meraki MR56
+Cisco,OIQK6ND6IS,Access Point,Meraki MR56
+Juniper,F821MBMUIU,Switch,QFX10002
+Juniper,73BX27DJJK,Switch,QFX10002
+Juniper,05SJAS20SQ,Switch,QFX10002
+Juniper,A8K0UP6O32,Switch,QFX10002
+Juniper,RXSYTBNNHX,Switch,QFX10002
+Juniper,VYPNVJO17Z,Switch,QFX10002
+Juniper,16ACK379Q2,Switch,QFX10002
+Juniper,5EF0RLMJ87,Switch,QFX10002
+Juniper,1XQ73WZKD1,Switch,QFX10002
+Juniper,WJZUA9XN0A,Switch,QFX10002
+Juniper,O50OY2FRVG,Switch,QFX10002
+Juniper,JWSJCTV7KU,Switch,QFX10002
+Juniper,KTTD817WCZ,Switch,QFX10002
+Juniper,JQ7BE1K7IS,Switch,QFX10002
+Juniper,SJ6NS95YER,Switch,QFX10002
+Juniper,BA1DJ4GOP6,Switch,QFX10002
+Juniper,OM7THO2BBW,Switch,QFX10002
+Juniper,FCDUZKZ0IC,Switch,QFX10002
+Juniper,W4CZE5DR2Y,Switch,QFX10002
+Juniper,87HZ281AQC,Switch,QFX10002
+Fortinet,VGMC0KK11M,Load Balancer,FortiADC 3000F
+Fortinet,OZ3AQAOI4T,Load Balancer,FortiADC 3000F
+Fortinet,R99OB0PHKO,Load Balancer,FortiADC 3000F
+Fortinet,VQVB404CXM,Load Balancer,FortiADC 3000F
+Fortinet,RWCWBF40LM,Load Balancer,FortiADC 3000F
+Fortinet,PJAS50RK1O,Load Balancer,FortiADC 3000F
+Fortinet,QCFGJNVMFU,Load Balancer,FortiADC 3000F
+Fortinet,HKA26H24C1,Load Balancer,FortiADC 3000F
+Fortinet,D89KX1HHZJ,Load Balancer,FortiADC 3000F
+Fortinet,ODVLFMR8ZT,Load Balancer,FortiADC 3000F
+Fortinet,8YVQ7YWED0,Load Balancer,FortiADC 3000F
+Fortinet,C1CUEWFKPG,Load Balancer,FortiADC 3000F
+Fortinet,PC7TFA0X5K,Load Balancer,FortiADC 3000F
+Fortinet,UB7FYHFPI1,Load Balancer,FortiADC 3000F
+Fortinet,5AVSVYDZ7N,Load Balancer,FortiADC 3000F
+Fortinet,UCP8W6NAVH,Load Balancer,FortiADC 3000F
+Fortinet,YQWK3JT530,Load Balancer,FortiADC 3000F
+Fortinet,RDYFSMXNPF,Load Balancer,FortiADC 3000F
+Fortinet,CKLVA9VYVV,Load Balancer,FortiADC 3000F
+Fortinet,DLTWP326M7,Load Balancer,FortiADC 3000F
+Fortinet,HSOY3DNJC7,Firewall,FortiGate 100F
+Fortinet,XNSUI0OYWD,Firewall,FortiGate 100F
+Fortinet,Z5W9RV1P00,Firewall,FortiGate 100F
+Fortinet,1HCU35WWUQ,Firewall,FortiGate 100F
+Juniper,983VPHU38R,Firewall,SRX320
+Juniper,SKLYHR3UT3,Firewall,SRX320
+Juniper,4MKTJSODY1,Switch,QFX10002
+Juniper,CH2OOPP9OH,Switch,QFX10002
+Juniper,74MFQRG8L8,Switch,QFX10002
+Juniper,BUIETG5WQ9,Switch,QFX10002
+Juniper,XFKVIH64U2,Switch,QFX10002
+Juniper,F6N1JVKL8I,Switch,QFX10002
+Juniper,R1PGVIWXEU,Switch,QFX10002
+Juniper,EZUHSJ1YCV,Router,SRX1500
+Juniper,2U3LIB2EDE,Router,SRX1500
+Juniper,PN7PTZV4ZS,Router,SRX1500
+Juniper,VP805GKT0O,Router,SRX1500
+Juniper,TY5C2NNMP4,Router,SRX1500
+Cisco,Y8XB2T300R,Gateway,vEdge 2000
+Fortinet,YZM34FI37K,Load Balancer,FortiADC 200F
+Fortinet,MXGQ8FTVT3,Load Balancer,FortiADC 200F
+Fortinet,4LE7LG74GQ,Load Balancer,FortiADC 200F
+Fortinet,ACM0CZ8XN6,Load Balancer,FortiADC 200F
+Palo Alto,AITC8R6SYR,Firewall,PA-7000 Series
+Palo Alto,WF509HQD95,Firewall,PA-7000 Series
+Palo Alto,6JLU1BUIZM,Firewall,PA-7000 Series
+Palo Alto,4S1AF22M32,Firewall,PA-7000 Series
+Palo Alto,7P33VRWQC8,Firewall,PA-7000 Series
+Palo Alto,EL0T8GUGKB,Firewall,PA-7000 Series
+Palo Alto,GZPKJUD1OW,Firewall,PA-7000 Series
+Palo Alto,PHQ31SMBOU,Firewall,PA-7000 Series
+Palo Alto,SP642F1O4L,Firewall,PA-7000 Series
+Palo Alto,BSHXJ8CPTP,Firewall,PA-7000 Series
+Palo Alto,QJLLWORXPW,Firewall,PA-7000 Series
+Palo Alto,92O79Q9EOC,Firewall,PA-7000 Series
+Fortinet,0DY15T0Q26,Firewall,FortiExtender 201E
+Fortinet,NVQEE01RED,Firewall,FortiExtender 201E
+Fortinet,9NF86SK4GL,Firewall,FortiExtender 201E
+Fortinet,OAEF7ZAOOJ,Firewall,FortiExtender 201E
+Fortinet,9FH9XFW08P,Firewall,FortiExtender 201E
+Fortinet,WDDCCJLC5Z,Firewall,FortiExtender 201E
+Fortinet,EIKIN6PE52,Firewall,FortiExtender 201E
+Fortinet,QB6SGNVHVK,Firewall,FortiExtender 201E
+Fortinet,669UMDPM05,Firewall,FortiExtender 201E
+Fortinet,LFJL03MHJI,Firewall,FortiExtender 201E
+Fortinet,0KFX6E5TCL,Firewall,FortiExtender 201E
+Fortinet,J09R321F0S,Firewall,FortiExtender 201E
+Fortinet,P9I8JXQDQM,Firewall,FortiExtender 201E
+Fortinet,18MP605Q22,Firewall,FortiExtender 201E
+Juniper,EMRH50EZQI,Access Point,Mist AP21
+Juniper,3Q9LMQCK5L,Access Point,Mist AP21
+Juniper,TO7H3VV6LD,Access Point,Mist AP21
+Juniper,W658O1DAH4,Access Point,Mist AP21
+Juniper,DRSGAPN4FZ,Access Point,Mist AP21
+Juniper,FSBWPH0IQG,Access Point,Mist AP21
+Juniper,EPFM5Y1KAV,Access Point,Mist AP21
+Juniper,NCTZI9Y1EX,Access Point,Mist AP21
+Juniper,N81GT975NO,Access Point,Mist AP21
+Juniper,O9S73BD6CP,Access Point,Mist AP21
+Juniper,JODSGWC593,Access Point,Mist AP21
+Juniper,RUAVA8U3HL,Access Point,Mist AP21
+Juniper,1X9NI2U2JJ,Access Point,Mist AP21
+Juniper,ZUSVF77CDR,Access Point,Mist AP21
+Juniper,X1KU3A32MV,Access Point,Mist AP21
+Juniper,WHA0GQCT8D,Access Point,Mist AP21
+Palo Alto,4IF38UCG9V,Router,PA-850
+Palo Alto,1ITGETGIGR,Router,PA-850
+Palo Alto,YIICTHG9XI,Router,PA-850
+Palo Alto,LBRIEN9JHG,Router,PA-850
+Palo Alto,NKVT5BRTUZ,Router,PA-850
+Palo Alto,7IDCGXOE7T,Router,PA-850
+Palo Alto,URDP25DYFY,Router,PA-850
+Palo Alto,EELOO1ZTHM,Router,PA-850
+Palo Alto,6EDC2H8W7I,Router,PA-850
+Palo Alto,7WGOFT55PE,Router,PA-850
+Palo Alto,A2D27XCHW0,Router,PA-850
+Palo Alto,OOWOPF4NH5,Router,PA-850
+Palo Alto,VMD9I7XYWG,Router,PA-850
+Palo Alto,PPRHE28503,Router,PA-850
+Palo Alto,3G25MQ5Z0Z,Router,PA-850
+Palo Alto,Z51SWI3MVE,Router,PA-850
+Palo Alto,ZLZYVU2XCM,Router,PA-850
+Palo Alto,ZSTGNSORZS,Router,PA-850
+Palo Alto,3GZI63EZLC,Router,PA-850
+Cisco,8CJQSQQ4WQ,Access Point,Aironet 2800
+Cisco,LEAX35S176,Access Point,Aironet 2800
+Cisco,YLE4NZMQI4,Access Point,Aironet 2800
+Cisco,9DS2XBVAM8,Access Point,Aironet 2800
+Cisco,MTE3GBEKEZ,Access Point,Aironet 2800
+Cisco,968NA2Z8LD,Access Point,Aironet 2800
+Cisco,R09RDOE453,Access Point,Aironet 2800
+Cisco,E2WJBURXN0,Access Point,Aironet 2800
+Cisco,G2OZUAODY0,Access Point,Aironet 2800
+Cisco,Z6MX6EPAF6,Access Point,Aironet 2800
+Cisco,8Y4S7RIH5D,Access Point,Aironet 2800
+Cisco,JNP6SZGDBG,Access Point,Aironet 2800
+Cisco,HTV0XCP7UY,Access Point,Aironet 2800
+Cisco,I1GXICR5GI,Access Point,Aironet 2800
+Cisco,QFY1ULCCPH,Access Point,Aironet 2800
+Cisco,HX3FE70S6R,Access Point,Aironet 2800
+Cisco,G5KZVZM0W5,Access Point,Aironet 2800
+Cisco,YPGJLNCPSY,Access Point,Aironet 2800
+Cisco,2TQ4QJUCRY,Access Point,Aironet 2800
+Cisco,V3UOQDMC9Q,Access Point,Aironet 2800
+Cisco,6V7HP5ALVG,Access Point,Aironet 2800
+Cisco,ISGCJVUQ4X,Access Point,Aironet 2800
+Cisco,PP066TVDHA,Access Point,Aironet 2800
+Cisco,TCZV5E7IHS,Access Point,Aironet 2800
+Cisco,VNC7IUXBLE,Access Point,Aironet 2800
+Cisco,TRTW51RUAS,Access Point,Aironet 2800
+Cisco,X977R41DSF,Access Point,Aironet 2800
+Cisco,39PNVRCPMF,Router,NCS 5000 Series
+Cisco,O9NIPC8XNC,Router,NCS 5000 Series
+Cisco,WIFZWHGBLM,Router,NCS 5000 Series
+Cisco,ZQYWKCLRSF,Router,NCS 5000 Series
+Cisco,2E8MVE2LY1,Router,NCS 5000 Series
+Cisco,U08IO6V49Z,Router,NCS 5000 Series
+Cisco,RH3G1O6QNB,Router,NCS 5000 Series
+Cisco,F48V6RKM62,Router,NCS 5000 Series
+Cisco,NJ5PMTU031,Router,NCS 5000 Series
+Cisco,JA813BC7E1,Router,NCS 5000 Series
+Cisco,68GBZHFEEX,Router,NCS 5000 Series
+Cisco,5JG2MW4LM3,Router,NCS 5000 Series
+Cisco,LMWTP4L4K0,Router,NCS 5000 Series
+Cisco,V1U31WFK7F,Router,NCS 5000 Series
+Cisco,FTJJL6H6MI,Router,NCS 5000 Series
+Cisco,NGFT2S8G1F,Router,NCS 5000 Series
+Cisco,Z3I5T47BEC,Router,NCS 5000 Series
+Fortinet,HHKA6N91YT,Firewall,FortiExtender 201E
+Fortinet,2KTP3V2V73,Firewall,FortiExtender 201E
+Fortinet,EVWFM5TZFP,Firewall,FortiExtender 201E
+Fortinet,HFOJN5KTQQ,Firewall,FortiExtender 201E
+Fortinet,C61MUB3MF1,Firewall,FortiExtender 201E
+Fortinet,GU7L4263YS,Firewall,FortiExtender 201E
+Palo Alto,5H6TNL5UZK,Router,PA-850
+Palo Alto,BSZO0439UL,Router,PA-850
+Palo Alto,WT0AY9ZL1N,Router,PA-850
+Palo Alto,8V1LSH50Q7,Router,PA-850
+Palo Alto,P4CTMZ8DGT,Router,PA-850
+Palo Alto,OT0RGX5BGL,Router,PA-850
+Palo Alto,0ZK8CPSTSO,Router,PA-850
+Palo Alto,QENIVPEORG,Router,PA-850
+Palo Alto,2OW2U9B49A,Router,PA-850
+Palo Alto,1SX6DYT2SA,Router,PA-850
+Palo Alto,QG9QKD6I33,Router,PA-850
+Palo Alto,GIG09LZHGR,Router,PA-850
+Palo Alto,GEHAQX80ZA,Router,PA-850
+Palo Alto,JKUC0U5PJ6,Router,PA-850
+Palo Alto,U6ONJ53IPH,Router,PA-850
+Fortinet,6ZDAKMOZLX,Firewall,FortiGate 60F
+Fortinet,0IZKSF0G57,Firewall,FortiGate 60F
+Fortinet,9QXOMGJFT9,Firewall,FortiGate 60F
+Fortinet,JIQHYI8XTP,Firewall,FortiGate 60F
+Fortinet,GAL7UGTI08,Firewall,FortiGate 60F
+Fortinet,F2GGF38KLB,Firewall,FortiGate 60F
+ Palo Alto,FK0RSSDFU0,Edge Device,Prisma SD-WAN
+ Palo Alto,5BILHXK2CT,Edge Device,Prisma SD-WAN
+ Palo Alto,8U6EZ2U8HL,Edge Device,Prisma SD-WAN
+ Palo Alto,1EDLVPGCIN,Edge Device,Prisma SD-WAN
+ Palo Alto,LTX2ACJWTO,Edge Device,Prisma SD-WAN
+ Palo Alto,2V3L3S88ZV,Edge Device,Prisma SD-WAN
+ Palo Alto,7T91VD13GQ,Edge Device,Prisma SD-WAN
+ Palo Alto,DPDJK1T7HN,Edge Device,Prisma SD-WAN
+ Palo Alto,V0ZBDODRA1,Edge Device,Prisma SD-WAN
+ Palo Alto,ZU2TI8ZJ70,Edge Device,Prisma SD-WAN
+ Palo Alto,8P92U0SV8J,Edge Device,Prisma SD-WAN
+ Palo Alto,0I2BR1N7C2,Edge Device,Prisma SD-WAN
+ Palo Alto,XLD0MLFF93,Edge Device,Prisma SD-WAN
+ Palo Alto,7D4D4QVBVJ,Edge Device,Prisma SD-WAN
+Palo Alto,5CS85NJ1UZ,Router,PA-220R
+Palo Alto,4OVTVRCHOU,Router,PA-220R
+Palo Alto,MVPVQ430DP,Router,PA-220R
+Palo Alto,ZJ77IEYGWO,Router,PA-220R
+Palo Alto,OPJ9GG9SSB,Router,PA-220R
+Palo Alto,BY57S6W6XP,Router,PA-220R
+Palo Alto,TIVVK1ZE7X,Router,PA-220R
+Palo Alto,C6G6P3QVPM,Router,PA-220R
+Palo Alto,8847VSIJ4K,Router,PA-220R
+Palo Alto,5V2RNFU45F,Router,PA-220R
+Palo Alto,6EA1LC0752,Router,PA-220R
+Palo Alto,ALRF8JSIZN,Router,PA-220R
+Palo Alto,TMPHEFOR5Y,Router,PA-220R
+Palo Alto,3WGRK70NU9,Router,PA-220R
+Palo Alto,12HTRDCBOC,Router,PA-220R
+Palo Alto,OMFYN53YF7,Router,PA-220R
+Palo Alto,CB6NR34A9F,Router,PA-220R
+Fortinet,7QNDU7Y2C9,Firewall,FortiExtender 201E
+Fortinet,JLBR1EK221,Firewall,FortiExtender 201E
+Fortinet,TWFHNECWC9,Firewall,FortiExtender 201E
+Fortinet,7RED2T6QQP,Firewall,FortiExtender 201E
+Fortinet,6DLYQKZCJ5,Firewall,FortiExtender 201E
+Fortinet,LY5J8E8OBS,Firewall,FortiExtender 201E
+Fortinet,FROYBK6MCR,Firewall,FortiExtender 201E
+Fortinet,92B4KSFKSO,Load Balancer,FortiADC 200F
+Fortinet,LYGYS572W5,Load Balancer,FortiADC 200F
+Fortinet,IRCTFAPW7J,Load Balancer,FortiADC 200F
+Palo Alto,LU7R7TD2VK,Firewall,PA-5220
+Palo Alto,9M4ROOC9GV,Firewall,PA-5220
+Palo Alto,2XP2JAHW3W,Firewall,PA-5220
+Palo Alto,01B1S8KF8K,Firewall,PA-5220
+Palo Alto,PN1ZDC5XKE,Firewall,PA-5220
+Palo Alto,RXT5IGW8X0,Firewall,PA-5220
+Palo Alto,BQVAGGFXRJ,Firewall,PA-5220
+Juniper,RDPHR94OE8,Access Point,Mist AP43
+Juniper,RJ79A3ARR2,Access Point,Mist AP43
+Juniper,9NYD071Q7Y,Access Point,Mist AP43
+Juniper,SRT4N4FEFB,Access Point,Mist AP43
+Juniper,QDDZFTLNER,Access Point,Mist AP43
+Juniper,H13CU2YITF,Access Point,Mist AP43
+Juniper,4O8HZHCPOU,Access Point,Mist AP43
+Juniper,49YL610SK0,Access Point,Mist AP43
+Juniper,HOFG6U1B1M,Access Point,Mist AP43
+Juniper,2V9S5AVXCS,Access Point,Mist AP43
+Juniper,70ZQGVBQ75,Access Point,Mist AP43
+Juniper,J7FCBWH1U2,Access Point,Mist AP43
+Juniper,YBWQONH2P3,Access Point,Mist AP43
+Juniper,LBV9A44IFS,Access Point,Mist AP43
+Juniper,UAGNUPUUEE,Access Point,Mist AP43
+Juniper,EZKMAG9HH6,Access Point,Mist AP43
+Juniper,N2X2A4W9UA,Switch,QFX10002
+Juniper,H1NYG0WSE4,Switch,QFX10002
+Juniper,3GA66RN2QT,Switch,QFX10002
+Juniper,UTN80UU29W,Switch,QFX10002
+Juniper,41ZP136QYZ,Switch,QFX10002
+Juniper,Z0PYO6W9VL,Switch,QFX10002
+Juniper,KNMRSN0UNO,Switch,QFX10002
+Juniper,CCL4TZU1J4,Switch,QFX10002
+Juniper,73FK0O81NL,Switch,QFX10002
+Juniper,H9YG7MP4XE,Switch,QFX10002
+Juniper,IUP4HHM9X6,Switch,QFX10002
+Juniper,HSWIKTXXR1,Switch,QFX10002
+Cisco,372B0GUMKG,Router,ASR 1000 Series
+Cisco,PAD88I4585,Router,ASR 1000 Series
+Cisco,9D885JW236,Router,ASR 1000 Series
+Cisco,RNN9YMRBLN,Router,ASR 1000 Series
+Cisco,01JV675AVR,Router,ASR 1000 Series
+Cisco,EQAYKPZHZW,Router,ASR 1000 Series
+Cisco,E8J0QEZU6G,Router,ASR 1000 Series
+Cisco,9B7N7D354G,Router,ASR 1000 Series
+Cisco,XK2QEMEBYI,Router,ASR 1000 Series
+Cisco,JM3RP3AQSD,Router,ASR 1000 Series
+Cisco,QPJB0X5B13,Router,ASR 1000 Series
+Cisco,Z1YETVDNBS,Router,ASR 1000 Series
+Cisco,9JRTNF1YRE,Router,ASR 1000 Series
+Cisco,JG7IIGG7K1,Router,ASR 1000 Series
+Cisco,HMMNIUXDYZ,Router,ASR 1000 Series
+Cisco,ZKGSQ9STEC,Router,ASR 1000 Series
+Cisco,4D9AVE7RXO,Router,ASR 1000 Series
+Fortinet,5BFFBY951N,Firewall,FortiGate 100F
+Fortinet,L6WYCBDHU4,Firewall,FortiGate 100F
+Fortinet,37ZG0DDJ6Y,Firewall,FortiGate 100F
+Fortinet,FEDWHF752P,Firewall,FortiGate 100F
+Fortinet,WIHXKEOX3C,Firewall,FortiGate 100F
+Fortinet,62XHPZ7B92,Firewall,FortiGate 100F
+Fortinet,L71YGRZ28W,Firewall,FortiGate 100F
+Fortinet,8MGT21Y6EB,Firewall,FortiGate 100F
+Fortinet,0X1BTL9TYV,Firewall,FortiGate 100F
+Juniper,X6PMWA7ZH8,Switch,QFX5120
+Juniper,DA1343S352,Switch,QFX5120
+Juniper,P2FGXYXQIO,Switch,QFX5120
+Juniper,1NW1E3CLTV,Switch,QFX5120
+Juniper,XAPRO29R8G,Switch,QFX5120
+Juniper,XTAX0OY343,Switch,QFX5120
+Juniper,8V1CMPFF6E,Switch,QFX5120
+Juniper,DT13LWQG5X,Switch,QFX5120
+Juniper,BYVE3IJZFP,Switch,QFX5120
+Juniper,7LAV83UW6A,Switch,QFX5120
+Juniper,0TSH33EXBX,Switch,QFX5120
+Juniper,T3T98AOUW7,Switch,QFX5120
+Juniper,6T4AFQ69R6,Switch,QFX5120
+Juniper,2NW6YQC7B6,Switch,QFX5120
+Juniper,LRT6LRLU08,Switch,QFX5120
+Juniper,HJ75XZEOY3,Firewall,SRX5800
+Juniper,OI68LA1AM9,Firewall,SRX5800
+Juniper,GB11W2BYXP,Firewall,SRX5800
+Juniper,SK3DRD49BR,Firewall,SRX5800
+Juniper,VA37OJFSJ3,Firewall,SRX5800
+Juniper,1POF06H5IN,Firewall,SRX5800
+Cisco,ZAKSZZLW6U,Gateway,ASR 920
+Cisco,1DQAD0FH8I,Gateway,ASR 920
+Cisco,W74QQSBIQO,Gateway,ASR 920
+Cisco,725S4ZEI24,Gateway,ASR 920
+Cisco,VJATBTJL41,Gateway,ASR 920
+Cisco,UH1VT3BVF9,Gateway,ASR 920
+Cisco,7WVETKVAXZ,Gateway,ASR 920
+Cisco,ELIJZR8ZWE,Gateway,ASR 920
+Cisco,GBGVOAO48Q,Gateway,ASR 920
+Cisco,XJ5AP5PYYM,Gateway,ASR 920
+Cisco,Z5P1LBTSV9,Gateway,ASR 920
+Cisco,WIVC8T3U2U,Gateway,ASR 920
+Cisco,J2J7MWJYVV,Gateway,ASR 920
+Cisco,YMYP6DNNQA,Gateway,ASR 920
+Cisco,V26KUK8G4N,Gateway,ASR 920
+Fortinet,NNY6LNEXGI,Load Balancer,FortiADC 3000F
+Fortinet,UK9PS2MZDN,Load Balancer,FortiADC 3000F
+Fortinet,E37JMAT58H,Firewall,FortiExtender 201E
+Fortinet,QU3T4R4KFO,Firewall,FortiExtender 201E
+Fortinet,NLYW1VD3EA,Firewall,FortiExtender 201E
+Fortinet,B5RYKMODYY,Firewall,FortiExtender 201E
+ Palo Alto,BL2DUILU8O,Edge Device,Prisma SD-WAN
+ Palo Alto,USVQH2C8XR,Edge Device,Prisma SD-WAN
+ Palo Alto,3UR89XDGN2,Edge Device,Prisma SD-WAN
+ Palo Alto,AAENGAUH14,Edge Device,Prisma SD-WAN
+ Palo Alto,9AB2SRMST5,Edge Device,Prisma SD-WAN
+ Palo Alto,KISK9XMCO8,Edge Device,Prisma SD-WAN
+ Palo Alto,ZHTCY0KY93,Edge Device,Prisma SD-WAN
+ Palo Alto,SYAD72MMV2,Edge Device,Prisma SD-WAN
+ Palo Alto,RJM1QIVRQO,Edge Device,Prisma SD-WAN
+ Palo Alto,T0RJ3G10FP,Edge Device,Prisma SD-WAN
+ Palo Alto,9EFDO3KOFP,Edge Device,Prisma SD-WAN
+ Palo Alto,YX4G2DI5A3,Edge Device,Prisma SD-WAN
+ Palo Alto,NCHDJ13Y71,Edge Device,Prisma SD-WAN
+ Palo Alto,T428C92SOT,Edge Device,Prisma SD-WAN
+Series Cisco,4IZ9EX1T8Z,Firewall,Firepower 4100
+Series Cisco,0H5NP6KB8Y,Firewall,Firepower 4100
+Series Cisco,NJY1WNJ6VB,Firewall,Firepower 4100
+Series Cisco,J554L6F5W1,Firewall,Firepower 4100
+Series Cisco,K4QWVIOUHH,Firewall,Firepower 4100
+Series Cisco,QS5ICVP0GB,Firewall,Firepower 4100
+Series Cisco,ILOVJFQNZJ,Firewall,Firepower 4100
+Series Cisco,S39483VSVF,Firewall,Firepower 4100
+Series Cisco,9676I69V5H,Firewall,Firepower 4100
+Series Cisco,I48R6YX49L,Firewall,Firepower 4100
+Series Cisco,5J432HJD77,Firewall,Firepower 4100
+Series Cisco,4Z4TF39GZX,Firewall,Firepower 4100
+Fortinet,080WZPBLZ3,Load Balancer,FortiADC 3000F
+Fortinet,CPGDQUM84G,Load Balancer,FortiADC 3000F
+Fortinet,288Y6R38IV,Load Balancer,FortiADC 3000F
+Fortinet,RN60IP8PFE,Load Balancer,FortiADC 3000F
+Fortinet,61XFMZXR7O,Load Balancer,FortiADC 3000F
+Fortinet,IZS0VB79X0,Load Balancer,FortiADC 3000F
+Fortinet,EKFIVPHYCG,Load Balancer,FortiADC 3000F
+Fortinet,9AIGI8UDGM,Load Balancer,FortiADC 3000F
+Fortinet,6HNSZNW4GZ,Load Balancer,FortiADC 3000F
+Fortinet,X63JH97PH6,Load Balancer,FortiADC 3000F
+Fortinet,OHYC5BYLRA,Load Balancer,FortiADC 3000F
+Fortinet,ZSU3RX6S9V,Load Balancer,FortiADC 3000F
+Fortinet,8TIJUW23B7,Load Balancer,FortiADC 3000F
+Fortinet,TYXDJM0OWY,Load Balancer,FortiADC 3000F
+Fortinet,9TBKRKFT13,Load Balancer,FortiADC 3000F
+Palo Alto,QXCNAIJ09A,Firewall,PA-3220
+Palo Alto,KB2V775TXP,Firewall,PA-3220
+Palo Alto,0WAHTGAKFD,Firewall,PA-3220
+Palo Alto,MGKH5WH4TP,Firewall,PA-3220
+Palo Alto,EMEEEDAFLY,Firewall,PA-3220
+Palo Alto,32R0HHMECV,Firewall,PA-3220
+Palo Alto,NCOBGSFHMW,Firewall,PA-3220
+Palo Alto,HE92OFLMF8,Firewall,PA-3220
+Palo Alto,Y6GU36ANLJ,Firewall,PA-3220
+Palo Alto,K6J8L8EO1G,Firewall,PA-3220
+Palo Alto,FB80H0H4R3,Firewall,PA-3220
+Palo Alto,QO3B69C2J0,Firewall,PA-3220
+Palo Alto,RKZONHMH3B,Firewall,PA-3220
+Palo Alto,88PWR1HXGJ,Firewall,PA-3220
+Palo Alto,NGYYRTD9AY,Firewall,PA-3220
+Palo Alto,P0F9WDUB7X,Firewall,PA-3220
+Series Cisco,OGS6NO9H2M,Firewall,Firepower 4100
+Series Cisco,ZM3K8U1OFI,Firewall,Firepower 4100
+Series Cisco,GLUY007IFE,Firewall,Firepower 4100
+Series Cisco,QK1WLZ9553,Firewall,Firepower 4100
+Series Cisco,F4T02PPWL4,Firewall,Firepower 4100
+Series Cisco,1414FRKUQU,Firewall,Firepower 4100
+Series Cisco,JLN3O6AP7K,Firewall,Firepower 4100
+Series Cisco,WUIRVSGL3N,Firewall,Firepower 4100
+Series Cisco,4MKRAFVDYX,Firewall,Firepower 4100
+Series Cisco,9H07018CKW,Firewall,Firepower 4100
+Fortinet,7MGREEA0GO,Firewall,FortiGate 100F
+Fortinet,VD1S5NFMCG,Firewall,FortiGate 100F
+Fortinet,9ZR8YHFRCD,Firewall,FortiGate 100F
+Fortinet,P358K3KP9A,Firewall,FortiGate 100F
+Fortinet,W537EHYVA7,Firewall,FortiGate 100F
+Fortinet,724K46L7M6,Firewall,FortiGate 100F
+Fortinet,7WI1IUUILD,Firewall,FortiGate 100F
+Fortinet,OTUOIXJF94,Firewall,FortiGate 100F
+Fortinet,EXMN0HB6G4,Firewall,FortiGate 100F
+Fortinet,AJWXXPLU41,Firewall,FortiGate 100F
+Fortinet,H1V5687YAS,Firewall,FortiGate 100F
+Fortinet,LT7TKVT8ES,Firewall,FortiGate 100F
+Fortinet,ULGZOCNGJW,Firewall,FortiGate 100F
+Fortinet,T5DD5ULKBW,Firewall,FortiGate 100F
+Fortinet,NRILLPDKE2,Firewall,FortiGate 100F
+Palo Alto,TUGZXRUCH3,Firewall,PA-3220
+Palo Alto,SR253OBFNM,Firewall,PA-3220
+Palo Alto,BPIZFQLVZB,Firewall,PA-3220
+Palo Alto,MDR9F06M2F,Firewall,PA-3220
+Palo Alto,J508TB2I0S,Firewall,PA-3220
+Palo Alto,X9YAKGK8JA,Firewall,PA-3220
+Palo Alto,5WW1D2UW52,Firewall,PA-3220
+Palo Alto,PGJCUDTN9W,Firewall,PA-3220
+Palo Alto,4L1H32J8AM,Firewall,PA-3220
+Palo Alto,X8OHBIXMLX,Firewall,PA-3220
+Palo Alto,AKDIWA6AKO,Firewall,PA-3220
+Juniper,PJ5KW0IJO1,Gateway,SRX1500 Gateway
+Juniper,P3NCKDVHKY,Gateway,SRX1500 Gateway
+Juniper,DLA3OK8PAU,Gateway,SRX1500 Gateway
+Juniper,GZCO96AKEK,Gateway,SRX1500 Gateway
+Juniper,S5K4XS4JC8,Gateway,SRX1500 Gateway
+Juniper,RIIAZIKEHU,Gateway,SRX1500 Gateway
+Juniper,LIF5TN0O13,Gateway,SRX1500 Gateway
+Juniper,PFSV3O1F23,Gateway,SRX1500 Gateway
+Juniper,MQP6VEHK21,Gateway,SRX1500 Gateway
+Juniper,PUXZE1DZR4,Gateway,SRX1500 Gateway
+Juniper,ULNWUVC9U8,Gateway,SRX1500 Gateway
+Juniper,0MMWCM165B,Gateway,SRX1500 Gateway
+Juniper,ENJNP0BT55,Gateway,SRX1500 Gateway
+Juniper,OMUDAT3G29,Gateway,SRX1500 Gateway
+Juniper,JABWW8EY16,Gateway,SRX1500 Gateway
+Juniper,NF62MXNLQ4,Router,SRX1500
+Juniper,XTB59JD06R,Router,SRX1500
+Juniper,TCQRAQZQSP,Router,SRX1500
+Juniper,982HQLIP98,Router,SRX1500
+Juniper,NH8RAV24HW,Router,SRX1500
+Juniper,XZHS52HNGP,Router,SRX1500
+Juniper,G28XXM8I8V,Router,SRX1500
+Juniper,ADGKEOWWMU,Router,SRX1500
+Juniper,7AZSEGL1PY,Router,SRX1500
+Juniper,WU3M2OBVUS,Router,SRX1500
+Juniper,OJAQMXGQQS,Router,SRX1500
+Juniper,44107T31IY,Router,SRX1500
+Juniper,HMWVBOYT6V,Router,SRX1500
+Juniper,683W2G0NMN,Router,SRX1500
+Juniper,KPEQM246K5,Access Point,Mist AP21
+Juniper,KFN5H09ADA,Access Point,Mist AP21
+Juniper,YBRC1JPOWE,Access Point,Mist AP21
+Juniper,DDAVHM7TKE,Access Point,Mist AP21
+Juniper,MDVWT9VIHF,Access Point,Mist AP21
+Juniper,96P2P3LP6H,Access Point,Mist AP21
+Juniper,I321M1G951,Access Point,Mist AP21
+Juniper,R2QIXDZX2A,Access Point,Mist AP21
+Juniper,FF696RUHH9,Access Point,Mist AP21
+Juniper,EKB586Z4LD,Access Point,Mist AP21
+Juniper,IW8RCP430W,Access Point,Mist AP21
+Juniper,TIIE5USRR0,Access Point,Mist AP21
+Cisco,P13I5EWX9J,Router,NCS 5000 Series
+Cisco,CHF3WTZKFQ,Router,NCS 5000 Series
+Cisco,TSKTQEW1T1,Router,NCS 5000 Series
+Cisco,S2D2CTNS3Z,Router,NCS 5000 Series
+Cisco,8JFOX0L77Z,Router,NCS 5000 Series
+Cisco,YBF2CY2ZON,Router,NCS 5000 Series
+Cisco,1JVU6QCPA2,Router,NCS 5000 Series
+Cisco,GZT6JK48TI,Router,NCS 5000 Series
+Cisco,ZUI4PIO3U2,Router,NCS 5000 Series
+Cisco,99HGT6FCXC,Router,NCS 5000 Series
+Cisco,EIXGJOYIMP,Router,NCS 5000 Series
+Cisco,42EMZL5UHJ,Router,NCS 5000 Series
+Cisco,2IX39FE4V3,Router,NCS 5000 Series
+Cisco,XPUSIIDNDK,Router,NCS 5000 Series
+Cisco,FHT9KX0ZNT,Router,NCS 5000 Series
+Cisco,HQN4D4T8PS,Router,NCS 5000 Series
+Cisco,KANT3ENJGT,Router,NCS 5000 Series
+Cisco,TKMRNWR6L2,Router,NCS 5000 Series
+Cisco,X9FDGK8GRI,Router,NCS 5000 Series
+ Palo Alto,3QPOXVY2GR,Edge Device,Prisma SD-WAN
+ Palo Alto,JROW278G6A,Edge Device,Prisma SD-WAN
+ Palo Alto,Z7JLR44LWZ,Edge Device,Prisma SD-WAN
+ Palo Alto,3HRAMKWHHD,Edge Device,Prisma SD-WAN
+ Palo Alto,VJ5Z8CZB0U,Edge Device,Prisma SD-WAN
+Juniper,PCJOVX5F3D,Access Point,Mist AP21
+Juniper,L9PYW28HQH,Access Point,Mist AP21
+Juniper,0SOFKV3PJ0,Access Point,Mist AP21
+Juniper,2QZLVS3NVJ,Access Point,Mist AP21
+Juniper,EIYWOYAFQO,Access Point,Mist AP21
+Juniper,J85EOF1IQ9,Access Point,Mist AP21
+Juniper,KRZLDWQRD3,Access Point,Mist AP21
+Juniper,WG4S77LZ4H,Access Point,Mist AP21
+Juniper,IRIEA6GXL1,Access Point,Mist AP21
+Juniper,W7JEY7W0C8,Access Point,Mist AP21
+Juniper,7AW5E7MMSS,Access Point,Mist AP21
+Juniper,R22PQHM855,Access Point,Mist AP21
+Juniper,MPGRZJ4JMO,Access Point,Mist AP21
+Juniper,VDYTF6M338,Access Point,Mist AP21
+Juniper,GZW4EKPV3C,Access Point,Mist AP21
+Juniper,UHYOO8WHDW,Access Point,Mist AP21
+Juniper,VNJ2GM1Z90,Access Point,Mist AP21
+Juniper,T05L14PZ4C,Access Point,Mist AP21
+Palo Alto,OL7U9B1Z0L,Router,PA-850
+Palo Alto,HXEFCQ77AI,Router,PA-850
+Palo Alto,3C6OSTUYCM,Router,PA-850
+Palo Alto,6ZDSK5QU8T,Router,PA-850
+Palo Alto,02K6XN5WJI,Router,PA-850
+Palo Alto,2EQB5UQ474,Router,PA-850
+Palo Alto,8H6R8YQXAX,Router,PA-850
+Palo Alto,RO0WEYV4IX,Router,PA-850
+Palo Alto,1NXB6S1XNU,Router,PA-850
+Palo Alto,QZNBFWTU1V,Router,PA-850
+Palo Alto,8OYUGOTBX4,Router,PA-850
+Palo Alto,BP1OQMXW47,Router,PA-850
+Palo Alto,QHYW5Z6VAM,Router,PA-220R
+Palo Alto,77KOPKJGL2,Router,PA-220R
+Palo Alto,35YNOGA1ZU,Router,PA-220R
+Palo Alto,8P5XOI8TPC,Router,PA-220R
+Palo Alto,EQY7TM99VI,Router,PA-220R
+Palo Alto,LSPREXKS45,Router,PA-220R
+Palo Alto,1G73ZWLMMD,Router,PA-220R
+Palo Alto,WPEATQQ3XT,Router,PA-220R
+Palo Alto,D3VIKO1E7I,Router,PA-220R
+Palo Alto,7XCVZ7Z2VC,Router,PA-220R
+Palo Alto,FYDGO5F7XA,Router,PA-220R
+Palo Alto,EGMO9ULPC6,Router,PA-220R
+Palo Alto,ZVM4VEPBQ7,Router,PA-220R
+Juniper,AIR83C4WG8,Access Point,Mist AP21
+Juniper,HW0IP00IB8,Access Point,Mist AP21
+Juniper,OSKSYKRM1C,Access Point,Mist AP21
+Juniper,VZRMNI1H3Y,Access Point,Mist AP21
+Juniper,2O3VPOX8AY,Access Point,Mist AP21
+Juniper,IFSDF7TG6W,Access Point,Mist AP21
+Juniper,4BGASCVKKA,Access Point,Mist AP21
+Juniper,L814GX22SJ,Access Point,Mist AP21
+Juniper,TM9WLXASN1,Access Point,Mist AP21
+Cisco,BSVN04VLLU,Switch,Catalyst 2960-XR
+Cisco,A83JVPH249,Switch,Catalyst 2960-XR
+Cisco,KJPRMVDF7X,Switch,Catalyst 2960-XR
+Cisco,KO5MCMMEBV,Switch,Catalyst 2960-XR
+Cisco,HVNSHQDU7R,Switch,Catalyst 2960-XR
+Cisco,14CIATKYLV,Switch,Catalyst 2960-XR
+Cisco,1ZGST0CKJN,Switch,Catalyst 2960-XR
+Cisco,AG9Q8P8FC4,Switch,Catalyst 2960-XR
+Cisco,BSQGWY9FDK,Switch,Catalyst 2960-XR
+Cisco,PKT2D3GHED,Switch,Catalyst 2960-XR
+Cisco,IQUK989Z3C,Switch,Catalyst 2960-XR
+Cisco,F866ZU0POD,Switch,Catalyst 2960-XR
+Cisco,IN1WMI4Z1Z,Switch,Catalyst 2960-XR
+Cisco,GED9XQ44O6,Switch,Catalyst 2960-XR
+Cisco,YDUK3A79DH,Switch,Catalyst 2960-XR
+Cisco,CGNX2MUMJY,Switch,Catalyst 2960-XR
+Juniper,1NZHKFJFSE,Access Point,Mist AP43
+Juniper,QU1QI9QROG,Access Point,Mist AP43
+Juniper,LLRX4O32PL,Access Point,Mist AP43
+Juniper,3KOSAGR3KI,Access Point,Mist AP43
+Juniper,07319O46A4,Access Point,Mist AP43
+Juniper,O9XMA1RCYS,Access Point,Mist AP43
+Juniper,L0TDF0SOGY,Access Point,Mist AP43
+Juniper,D4ZSK7SUDD,Access Point,Mist AP43
+Juniper,MFT1K2QCLW,Access Point,Mist AP43
+Juniper,XCCJ9EX1YJ,Access Point,Mist AP43
+Juniper,F5JCMHLHF7,Access Point,Mist AP43
+Juniper,IEW2J1JYAH,Access Point,Mist AP43
+Juniper,04KV8JXA0B,Access Point,Mist AP43
+Juniper,HKQIG975TQ,Access Point,Mist AP43
+Juniper,6FT40SS15A,Access Point,Mist AP43
+Juniper,RHEKBUOGKS,Access Point,Mist AP43
+Juniper,O8733885JR,Access Point,Mist AP43
+Juniper,7PAMO8ZNPH,Access Point,Mist AP43
+Juniper,GOE3QGF9L0,Access Point,Mist AP43
+Juniper,NZX1LXOU6Z,Access Point,Mist AP43
+Juniper,EC4QM2H6E1,Firewall,SRX320
+Juniper,LWUR4NB6XR,Firewall,SRX320
+Juniper,U7KE4J8N8D,Firewall,SRX320
+Juniper,QR6ERJOZVQ,Firewall,SRX320
+Juniper,5X0KPYULSX,Firewall,SRX320
+Juniper,XFAF7N40Q9,Firewall,SRX320
+Juniper,UJ84GQII70,Firewall,SRX320
+Juniper,3LZ38LZSA0,Firewall,SRX320
+Juniper,A5QCPNOPW2,Firewall,SRX320
+Juniper,ALHH2PQ2GH,Firewall,SRX320
+Juniper,QWOZTB42SR,Firewall,SRX320
+Juniper,AESG95FAI7,Firewall,SRX320
+Juniper,WI28D7APEK,Firewall,SRX320
+Juniper,114OXBG1LM,Firewall,SRX320
+Juniper,4735SDMLAV,Firewall,SRX320
+Juniper,JXE83J5N99,Firewall,SRX320
+Juniper,DW1XRFYWJ0,Firewall,SRX320
+Juniper,C8NVS33U1D,Firewall,SRX320
+Fortinet,KBASP0NI6L,Firewall,FortiGate 60F
+Fortinet,FBSK48EBSH,Firewall,FortiGate 60F
+Fortinet,K0OD3T56IU,Firewall,FortiGate 60F
+Fortinet,8WW08Q7VEY,Firewall,FortiGate 60F
+Fortinet,MVV76I1R3J,Firewall,FortiGate 60F
+Fortinet,TG3CATSCC7,Firewall,FortiGate 60F
+Fortinet,041XX4S6QS,Firewall,FortiGate 60F
+Fortinet,7E99Q5SD4Q,Firewall,FortiGate 60F
+Fortinet,2QY4C5RTE7,Firewall,FortiGate 60F
+Fortinet,G94Q5MG1TP,Firewall,FortiGate 60F
+Fortinet,BE348EGC7J,Firewall,FortiGate 60F
+Fortinet,IXUGFI85TB,Firewall,FortiGate 60F
+Juniper,4XBDO4OVEZ,Access Point,Mist AP21
+Juniper,A2CDHR7AJC,Access Point,Mist AP21
+Juniper,77RG3ORGKK,Access Point,Mist AP21
+Juniper,WG9MJS13UM,Access Point,Mist AP21
+Juniper,C4HC3H7XOR,Access Point,Mist AP21
+Juniper,TDHEB64B3K,Access Point,Mist AP21
+Juniper,T3UMPHJC6N,Access Point,Mist AP21
+Juniper,C8PTRP3IDQ,Access Point,Mist AP21
+Juniper,SHJAECI4LN,Access Point,Mist AP21
+Juniper,FO7K5Q69FO,Access Point,Mist AP21
+Juniper,ZIB3D5L98Q,Access Point,Mist AP21
+Juniper,GNC1VAQV9Q,Access Point,Mist AP21
+Series Cisco,UCAJNDHF7S,Switch,Catalyst 9000
+Series Cisco,9M34ELP8UW,Switch,Catalyst 9000
+Series Cisco,DJDIASEDOK,Switch,Catalyst 9000
+Series Cisco,CB5APXSX5B,Switch,Catalyst 9000
+Series Cisco,KPJNBH43X0,Switch,Catalyst 9000
+Series Cisco,JICB4GH8WY,Switch,Catalyst 9000
+Series Cisco,PJXDMRWY77,Switch,Catalyst 9000
+Series Cisco,7H1INL37SB,Switch,Catalyst 9000
+Series Cisco,AMZU5YYG46,Switch,Catalyst 9000
+Series Cisco,VO6YWIGQDW,Switch,Catalyst 9000
+Series Cisco,F2UD792YZE,Switch,Catalyst 9000
+Series Cisco,Q768GJNYUC,Switch,Catalyst 9000
+Series Cisco,ZOI5LY1EUJ,Switch,Catalyst 9000
+Series Cisco,U0HLD28T90,Switch,Catalyst 9000
+Series Cisco,EWJUWWIXYK,Switch,Catalyst 9000
+Series Cisco,0HAJL4FJVT,Switch,Catalyst 9000
+Cisco,ZWPENN0SHP,Switch,Nexus 9500 Series
+Cisco,JEIT9APKZN,Switch,Nexus 9500 Series
+Cisco,GRUIQSMHSK,Switch,Nexus 9500 Series
+Cisco,KND8A8XHOI,Switch,Nexus 9500 Series
+Cisco,G4KOHRTZ9K,Switch,Nexus 9500 Series
+Cisco,LH6ZS7TVRN,Firewall,ASA 5500-X Series
+Palo Alto,XRMGYAYJAM,Router,PA-220R
+Palo Alto,G3VPMYTP2L,Router,PA-220R
+Palo Alto,2RG2IT0QWH,Router,PA-220R
+Palo Alto,0WJ1KYVKX5,Router,PA-220R
+Palo Alto,QTWSPG1NCJ,Router,PA-220R
+Palo Alto,D1NPCKYLMO,Router,PA-220R
+Palo Alto,9A00ZREQ3W,Router,PA-220R
+Palo Alto,I6G4OX622O,Router,PA-220R
+Palo Alto,YS34YXQ2QR,Router,PA-220R
+Palo Alto,5LSVFITLY6,Router,PA-220R
+Palo Alto,VL3VL14YE2,Router,PA-220R
+Palo Alto,Y9410NK7S3,Router,PA-220R
+Palo Alto,1N73SAYTA7,Router,PA-220R
+Palo Alto,TS6S98D9LF,Router,PA-220R
+Palo Alto,A5DNSEGN0Y,Router,PA-220R
+Fortinet,LQICUVWUCA,Load Balancer,FortiADC 3000F
+Fortinet,X3M6NHFVS1,Load Balancer,FortiADC 3000F
+Fortinet,NZT59AJUQ8,Load Balancer,FortiADC 3000F
+Fortinet,91LYIURX9Y,Load Balancer,FortiADC 3000F
+Fortinet,APLSA4C8ZU,Load Balancer,FortiADC 3000F
+Fortinet,01O934WTSO,Load Balancer,FortiADC 3000F
+Fortinet,FX8X9I1XTD,Load Balancer,FortiADC 3000F
+Fortinet,XO1DO0KO3I,Load Balancer,FortiADC 3000F
+Fortinet,1R3RAJUH0S,Load Balancer,FortiADC 3000F
+Fortinet,STP83ENH3O,Load Balancer,FortiADC 3000F
+Fortinet,VN1335X2VP,Load Balancer,FortiADC 3000F
+Fortinet,BBN9YY5GW6,Load Balancer,FortiADC 3000F
+Fortinet,QINLW5YHN4,Load Balancer,FortiADC 3000F
+Fortinet,GOB0AMJ6TS,Load Balancer,FortiADC 3000F
+Fortinet,7KTIPW6EN1,Load Balancer,FortiADC 3000F
+Juniper,Z49AT4WQJ8,Gateway,SRX300 Gateway
+Juniper,AM7PINWYWQ,Gateway,SRX300 Gateway
+Juniper,OW80VWS7DK,Gateway,SRX300 Gateway
+Juniper,4E0SHW0ZO8,Gateway,SRX300 Gateway
+Juniper,DM22UG7CFU,Gateway,SRX300 Gateway
+Juniper,0L80GSC12L,Gateway,SRX300 Gateway
+Juniper,PWCKXA9JPC,Gateway,SRX300 Gateway
+Juniper,5BWDR8H2IX,Gateway,SRX300 Gateway
+Juniper,P2SE0KWU5Q,Gateway,SRX300 Gateway
+Juniper,BYFPDZ55VX,Gateway,SRX300 Gateway
+Juniper,1KM5E39X15,Gateway,SRX300 Gateway
+Juniper,UY5VPK2S1S,Gateway,SRX300 Gateway
+Juniper,KX6MR9F01Y,Gateway,SRX1500 Gateway
+Juniper,ODCOY23FKZ,Gateway,SRX1500 Gateway
+ Palo Alto,U9T8OBLYXM,Edge Device,Prisma SD-WAN
+ Palo Alto,QCUEQ7LNLT,Edge Device,Prisma SD-WAN
+ Palo Alto,5D2Z1JTJGT,Edge Device,Prisma SD-WAN
+ Palo Alto,G3UAW0WFXP,Edge Device,Prisma SD-WAN
+ Palo Alto,TB1IXNSPM5,Edge Device,Prisma SD-WAN
+ Palo Alto,SZBVF375MK,Edge Device,Prisma SD-WAN
+ Palo Alto,BIG30NQF1I,Edge Device,Prisma SD-WAN
+ Palo Alto,44ETH203RV,Edge Device,Prisma SD-WAN
+ Palo Alto,YY33A4IIKP,Edge Device,Prisma SD-WAN
+ Palo Alto,HEM1T4EJEG,Edge Device,Prisma SD-WAN
+ Palo Alto,CQT0G4CGW7,Edge Device,Prisma SD-WAN
+ Palo Alto,VV83E62HYT,Edge Device,Prisma SD-WAN
+Series Cisco,ZKQPDZJIPD,Firewall,Firepower 2100
+Series Cisco,O73M9SR5QF,Firewall,Firepower 2100
+Series Cisco,XVWJXBOERQ,Firewall,Firepower 2100
+Series Cisco,3KTKI8KSOH,Firewall,Firepower 2100
+Series Cisco,2USVZLSBDK,Firewall,Firepower 2100
+Series Cisco,WOPY6PIXN8,Firewall,Firepower 2100
+Series Cisco,KYTMO2NQ2N,Firewall,Firepower 2100
+Series Cisco,04N2LU3VQN,Firewall,Firepower 2100
+Series Cisco,YKPOERMOR5,Firewall,Firepower 2100
+Cisco,P2PV6M5D5B,Switch,Catalyst 2960-XR
+Cisco,AI7KD4NVLK,Switch,Catalyst 2960-XR
+Cisco,UPLNKY5IYX,Switch,Catalyst 2960-XR
+Cisco,1A3JVZTHOO,Switch,Catalyst 2960-XR
+Cisco,4JGUXHNH4O,Switch,Catalyst 2960-XR
+Cisco,S5VO01YVB9,Switch,Catalyst 2960-XR
+Cisco,2HSAXR4IVE,Switch,Catalyst 2960-XR
+Cisco,N33767H225,Switch,Catalyst 2960-XR
+Cisco,89VVZ2GXYY,Switch,Catalyst 2960-XR
+Cisco,GD2ZTFY19T,Switch,Catalyst 2960-XR
+Cisco,VBOKPKMO8K,Switch,Catalyst 2960-XR
+Cisco,3KWVATLTGN,Switch,Catalyst 2960-XR
+Fortinet,VTB2QS1V7L,Firewall,FortiGate 100F
+Fortinet,YW5Q1Q8ABZ,Firewall,FortiGate 100F
+Fortinet,6RSQ1YBSC6,Firewall,FortiGate 100F
+Fortinet,7LDRB1R4RO,Firewall,FortiGate 100F
+Fortinet,USJUXXNV4T,Firewall,FortiGate 100F
+Fortinet,Z67KW39OC3,Firewall,FortiGate 100F
+Fortinet,ZHGMTU08GM,Firewall,FortiGate 100F
+Fortinet,L2OIGIPA6F,Firewall,FortiGate 100F
+Fortinet,BBCA7ZKZ8K,Firewall,FortiGate 100F
+Fortinet,2ZUHCQ6WNP,Firewall,FortiGate 100F
+Fortinet,44ZSK1TSX4,Firewall,FortiGate 100F
+Fortinet,RS4E9YY7JZ,Firewall,FortiGate 100F
+Fortinet,RE3HX1WTYD,Firewall,FortiGate 100F
+Fortinet,XQ3W8B25PH,Firewall,FortiGate 100F
+Fortinet,965BF38NOF,Firewall,FortiGate 100F
+Cisco,W56718DKMZ,Gateway,vEdge 1000
+Cisco,HB97MXWTAQ,Gateway,vEdge 1000
+Cisco,U7W48T6NC1,Gateway,vEdge 1000
+Cisco,ENJOUQE5PC,Gateway,vEdge 1000
+Cisco,BRAQXJRQZZ,Gateway,vEdge 1000
+Cisco,RF3CG4IVJA,Gateway,vEdge 1000
+Cisco,HBHNOGJB23,Gateway,vEdge 1000
+Cisco,ENWTDWMN80,Gateway,vEdge 1000
+Cisco,QYCHIEZM8F,Gateway,vEdge 1000
+Cisco,U6L6R525CB,Gateway,vEdge 1000
+Cisco,JRPFXIIGJ9,Gateway,vEdge 1000
+Cisco,JHSRNE8VQQ,Gateway,vEdge 1000
+Cisco,X7EVDSS5MA,Gateway,vEdge 1000
+Cisco,X9DC2SQK66,Gateway,vEdge 1000
+ Palo Alto,4A69MRIVWA,Edge Device,Prisma SD-WAN
+ Palo Alto,G1DAZ7BNPK,Edge Device,Prisma SD-WAN
+ Palo Alto,92Z7OV028P,Edge Device,Prisma SD-WAN
+ Palo Alto,R7VUV9QPTX,Edge Device,Prisma SD-WAN
+ Palo Alto,7I4D3QTCN2,Edge Device,Prisma SD-WAN
+ Palo Alto,41A9QZNGI7,Edge Device,Prisma SD-WAN
+ Palo Alto,YCICWA20LV,Edge Device,Prisma SD-WAN
+ Palo Alto,KGUJ8DS4AV,Edge Device,Prisma SD-WAN
+ Palo Alto,A1GQGI9BDC,Edge Device,Prisma SD-WAN
+ Palo Alto,GMD4IRAUES,Edge Device,Prisma SD-WAN
+ Palo Alto,YTPIDGY9MR,Edge Device,Prisma SD-WAN
+ Palo Alto,7OP2D3K0J6,Edge Device,Prisma SD-WAN
+Fortinet,U54UT053OW,Load Balancer,FortiADC 200F
+Fortinet,ZYQW271X74,Load Balancer,FortiADC 200F
+Fortinet,1EFVAZB1VC,Load Balancer,FortiADC 200F
+Fortinet,KQQGDVTF2Q,Load Balancer,FortiADC 200F
+Fortinet,G6QOVTM65K,Load Balancer,FortiADC 200F
+Fortinet,J7D6DCRMZY,Load Balancer,FortiADC 200F
+Fortinet,7PCOXRRP0Z,Load Balancer,FortiADC 200F
+Fortinet,I4PS6SQEWA,Load Balancer,FortiADC 200F
+Fortinet,1UVEG4EZXW,Load Balancer,FortiADC 200F
+Fortinet,AW4WPH0PPM,Load Balancer,FortiADC 200F
+Fortinet,5O2FC6G2QP,Load Balancer,FortiADC 200F
+Fortinet,2S79DNE4T3,Load Balancer,FortiADC 200F
+Fortinet,6CME6H6DCR,Load Balancer,FortiADC 200F
+Palo Alto,WCM7A0Z84G,Firewall,PA-3220
+Palo Alto,6P5HWD72IP,Firewall,PA-3220
+Palo Alto,0JYIQC5DVW,Firewall,PA-3220
+Palo Alto,1JYM07GN2T,Firewall,PA-3220
+Palo Alto,KCLDWHNVD4,Firewall,PA-3220
+Palo Alto,XIMJO42ELD,Firewall,PA-3220
+Palo Alto,U3AVGLWXZC,Firewall,PA-3220
+Palo Alto,PMUY1GFE50,Firewall,PA-3220
+Palo Alto,L1CDMOCHU6,Firewall,PA-3220
+Palo Alto,LM38WIO8C2,Firewall,PA-3220
+Palo Alto,DWKE7T6USN,Firewall,PA-3220
+Palo Alto,XBD4Z0ZITD,Firewall,PA-3220
+Cisco,K845D4O1OJ,Gateway,vEdge 1000
+Cisco,KNXBBM2B2R,Gateway,vEdge 1000
+Cisco,YYO5PBKIGT,Gateway,vEdge 1000
+Cisco,N2DPBJ8638,Gateway,vEdge 1000
+Cisco,UVETMQJ06O,Gateway,vEdge 1000
+Cisco,MB5SJ32Z0R,Gateway,vEdge 1000
+Cisco,GBROGPGEIS,Gateway,vEdge 1000
+Cisco,KJHKL0R0SZ,Gateway,vEdge 1000
+Cisco,77LHCNK4TC,Access Point,Catalyst 9100
+Cisco,AJA0QRM2V9,Access Point,Catalyst 9100
+Cisco,9HAN5D9M9H,Access Point,Catalyst 9100
+Cisco,M7XVJ7SN7H,Access Point,Catalyst 9100
+Cisco,YK9FY7HWBM,Access Point,Catalyst 9100
+Cisco,S7RLGBO1QN,Access Point,Catalyst 9100
+Cisco,BBEW06JOKB,Access Point,Catalyst 9100
+Cisco,P01LHSLHOG,Access Point,Catalyst 9100
+Cisco,DYQXOSOF67,Access Point,Catalyst 9100
+Cisco,JLKCHJR21J,Access Point,Catalyst 9100
+Cisco,7G5H0Y3LYQ,Access Point,Catalyst 9100
+Cisco,8RPV6F3FSG,Access Point,Catalyst 9100
+Cisco,M580LVOQSD,Access Point,Catalyst 9100
+Cisco,CWYCNC2W6C,Access Point,Catalyst 9100
+Cisco,WRS9WS7R5J,Access Point,Catalyst 9100
+Cisco,DBURH2HC9J,Access Point,Catalyst 9100
+Cisco,HB3LWS9DFN,Access Point,Catalyst 9100
+Cisco,VRFKA82U60,Access Point,Catalyst 9100
+Cisco,7QY1OSWL2I,Access Point,Catalyst 9100
+Palo Alto,4584NNDNC1,Firewall,PA-7000 Series
+Palo Alto,IMD8Y82XC6,Firewall,PA-7000 Series
+Palo Alto,S0TSM2D9PB,Firewall,PA-7000 Series
+Palo Alto,POJH6OV8X3,Firewall,PA-7000 Series
+Palo Alto,5WSBL05SJV,Firewall,PA-7000 Series
+Palo Alto,WNFHI1X4G0,Firewall,PA-7000 Series
+Palo Alto,99Y4Q0SRTE,Firewall,PA-7000 Series
+Palo Alto,J7PJ69TASD,Firewall,PA-7000 Series
+Palo Alto,J75ZK1JB4L,Router,PA-850
+Palo Alto,FNE6DW22G3,Router,PA-850
+Palo Alto,FXAU1ZYUCY,Router,PA-850
+Palo Alto,HFKBT3890W,Router,PA-850
+Palo Alto,J2Q8C6MR4V,Router,PA-850
+Palo Alto,AFWWMUK67U,Router,PA-850
+Palo Alto,HC0DVT29RL,Router,PA-850
+Palo Alto,EPXNFPJKI5,Router,PA-850
+Palo Alto,HOK7BCF9D3,Router,PA-850
+Palo Alto,1OKTNBFTB8,Router,PA-850
+Palo Alto,VS3MHJ5VX4,Router,PA-850
+Palo Alto,NZ8V7QTW90,Router,PA-850
+Palo Alto,X4KQIS6GKJ,Router,PA-850
+Palo Alto,J5EDUCZ7XD,Router,PA-850
+Palo Alto,ZWBN2H45R3,Router,PA-850
+Palo Alto,UJFLY4HA4E,Router,PA-850
+Palo Alto,6JL6YZQIF7,Router,PA-850
+Palo Alto,S65S57X0L4,Router,PA-850
+Series Cisco,9V9Q65C2HJ,Switch,Catalyst 9000
+Series Cisco,IUB70M54VB,Switch,Catalyst 9000
+Series Cisco,ZABV87SIMO,Switch,Catalyst 9000
+Series Cisco,FC24T8DGKD,Switch,Catalyst 9000
+Series Cisco,KHSCJJL7Z1,Switch,Catalyst 9000
+Series Cisco,T9Y4LB1BPO,Switch,Catalyst 9000
+Series Cisco,BUX0HQJVL4,Switch,Catalyst 9000
+Series Cisco,EAVSI402BA,Switch,Catalyst 9000
+Series Cisco,69ZWFM5F64,Switch,Catalyst 9000
+Series Cisco,MFWRBAY976,Switch,Catalyst 9000
+Series Cisco,M6HCDQN29V,Switch,Catalyst 9000
+Series Cisco,K0H7WMKXYR,Switch,Catalyst 9000
+Series Cisco,YJYU48UUV7,Switch,Catalyst 9000
+Series Cisco,NYKLU55DW7,Switch,Catalyst 9000
+Series Cisco,JBX2RWOQX1,Switch,Catalyst 9000
+Series Cisco,Y5KLDGQZRV,Switch,Catalyst 9000
+Series Cisco,YXVOSL0MCF,Switch,Catalyst 9000
+Palo Alto,ND5EE3251Q,Router,PA-850
+Palo Alto,P2PHS692N0,Router,PA-850
+Palo Alto,2FY4AAM8JY,Router,PA-850
+Palo Alto,E2YCOS83P0,Router,PA-850
+Palo Alto,HTEDZ0XDDF,Router,PA-850
+Palo Alto,YYIV4TEADS,Router,PA-850
+Palo Alto,I8ZJ9JMV0N,Router,PA-850
+Palo Alto,ATJ4S159KM,Router,PA-850
+ Palo Alto,N0LFH96F14,Edge Device,Prisma SD-WAN
+ Palo Alto,OYW2C9KFUI,Edge Device,Prisma SD-WAN
+ Palo Alto,T97505GI4X,Edge Device,Prisma SD-WAN
+ Palo Alto,YI1353KHV0,Edge Device,Prisma SD-WAN
+ Palo Alto,U0JORHCZTG,Edge Device,Prisma SD-WAN
+ Palo Alto,AXC7KOWAN1,Edge Device,Prisma SD-WAN
+ Palo Alto,1WDIM46B9S,Edge Device,Prisma SD-WAN
+ Palo Alto,2A4HBWU3YJ,Edge Device,Prisma SD-WAN
+ Palo Alto,D74PP1DBS7,Edge Device,Prisma SD-WAN
+ Palo Alto,VS6HNGO2U8,Edge Device,Prisma SD-WAN
+ Palo Alto,Z0X4F739K0,Edge Device,Prisma SD-WAN
+Fortinet,UOQ9WFZLSR,Load Balancer,FortiADC 3000F
+Fortinet,SNIPYRDTR9,Load Balancer,FortiADC 3000F
+Fortinet,MF5P05L9GO,Load Balancer,FortiADC 3000F
+Fortinet,WQZGINXKY2,Load Balancer,FortiADC 3000F
+Fortinet,FEYJ32YBVK,Load Balancer,FortiADC 3000F
+Fortinet,OCSMDOGYQH,Load Balancer,FortiADC 3000F
+Fortinet,X6TDWRHIYW,Load Balancer,FortiADC 3000F
+Palo Alto,KF68HDVX46,Controller,Panorama
+Palo Alto,J06CEW7FBT,Controller,Panorama
+Palo Alto,57Q0ROSHCA,Controller,Panorama
+Palo Alto,I4UOGRIY22,Controller,Panorama
+Cisco,JSJNVMU7EZ,Access Point,Meraki MR56
+Cisco,GDDU10ZS0I,Access Point,Meraki MR56
+Cisco,5MSB8NEK1Q,Access Point,Meraki MR56
+Cisco,DXOI2BA5E3,Access Point,Meraki MR56
+Cisco,3EA506OLIA,Access Point,Meraki MR56
+Cisco,HUBVDTT7UL,Access Point,Meraki MR56
+Cisco,AAQND5HDYY,Access Point,Meraki MR56
+Cisco,0W3ECUFX8L,Access Point,Meraki MR56
+Cisco,MUWFQV4N0P,Access Point,Meraki MR56
+Cisco,KFNF5WKYED,Access Point,Meraki MR56
+Cisco,CNSEIE5X0J,Access Point,Meraki MR56
+Cisco,R10L4ZSH5U,Access Point,Meraki MR56
+Cisco,7PDLFT8HFL,Access Point,Meraki MR56
+Cisco,IETQSZXWGN,Access Point,Meraki MR56
+Cisco,U2ZUB6GVFB,Access Point,Meraki MR56
+Cisco,YBPJ0PNZUY,Access Point,Meraki MR56
+Cisco,VHZEOVVE2A,Access Point,Meraki MR56
+Cisco,7SG5R3ESM8,Access Point,Meraki MR56
+Juniper,PKKT10VC5P,Firewall,SRX5800
+Juniper,CEGAQJP27Z,Firewall,SRX5800
+Juniper,NT7X222PIW,Firewall,SRX5800
+Juniper,GVBZ393IYG,Firewall,SRX5800
+Juniper,EGBOTF00G6,Firewall,SRX5800
+Juniper,IZE94ZC0DM,Firewall,SRX5800
+Juniper,MT4UBMWN4I,Firewall,SRX5800
+Juniper,GWJ7ONTQW8,Firewall,SRX5800
+Juniper,B4TBVRR5Z9,Firewall,SRX5800
+Juniper,SJKMPEWJRK,Firewall,SRX5800
+Juniper,V6G6JSYJ7T,Firewall,SRX5800
+Juniper,KYDSWZZTU4,Firewall,SRX5800
+Juniper,K1PRHYE276,Firewall,SRX5800
+Juniper,OWMWWK4X4M,Firewall,SRX5800
+Juniper,EWJE6783FR,Firewall,SRX5800
+Series Cisco,ZNNXN5K39O,Firewall,Firepower 2100
+Series Cisco,3KKHKTLI2H,Firewall,Firepower 2100
+Series Cisco,B792JFK8AG,Firewall,Firepower 2100
+Series Cisco,IU39R0Y767,Firewall,Firepower 2100
+Series Cisco,V6Q2DY1CY2,Firewall,Firepower 2100
+Series Cisco,6IPNSNAAT0,Firewall,Firepower 2100
+Series Cisco,H6BU1KV1TJ,Firewall,Firepower 2100
+Series Cisco,EHRRAYITN6,Firewall,Firepower 2100
+Series Cisco,GYTDWO1K4U,Firewall,Firepower 2100
+Series Cisco,3WFUORBF63,Firewall,Firepower 2100
+Series Cisco,C4QM8XB0KL,Firewall,Firepower 2100
+Series Cisco,8GMIRABS7A,Firewall,Firepower 2100
+Series Cisco,2ZP2TUX90T,Firewall,Firepower 2100
+Series Cisco,U9QYFRB8AP,Firewall,Firepower 2100
+Series Cisco,LALJY4LLXY,Firewall,Firepower 2100
+Series Cisco,RQYPCLPOHX,Firewall,Firepower 2100
+Cisco,2BLYQF6BVT,Access Point,Meraki MR56
+Juniper,ZDYR6UCMMH,Gateway,SRX300 Gateway
+Juniper,4UAO41A6HS,Gateway,SRX300 Gateway
+Juniper,WBXITTBC0J,Gateway,SRX300 Gateway
+Juniper,U2KKQV3522,Gateway,SRX300 Gateway
+Juniper,85AD9NVNKU,Gateway,SRX300 Gateway
+Juniper,0IITBHSOS9,Gateway,SRX300 Gateway
+Juniper,UPVB2T3Q6N,Gateway,SRX300 Gateway
+Juniper,ZG3JF7D15P,Gateway,SRX300 Gateway
+Juniper,U3J6B82Q1H,Gateway,SRX300 Gateway
+Juniper,TJ2NK2IH0Z,Gateway,SRX300 Gateway
+Juniper,OWZA741MAC,Gateway,SRX300 Gateway
+Juniper,KSVODFTUBW,Gateway,SRX300 Gateway
+Juniper,OGPDAJS76P,Gateway,SRX300 Gateway
+Juniper,RZKT5U4FUB,Gateway,SRX300 Gateway
+Juniper,DGSYVD1RAE,Router,ACX7100
+Juniper,F7LMR41BP7,Router,ACX7100
+Juniper,CQ32CE9FKU,Router,ACX7100
+Juniper,TYITZE1ORQ,Router,ACX7100
+Juniper,T6GP5OCTR1,Router,ACX7100
+Juniper,4KUEBK5PHJ,Router,ACX7100
+Juniper,IGD2YK8416,Router,ACX7100
+Juniper,PQWYAB78RD,Router,ACX7100
+Juniper,99IXRKE7DG,Router,ACX7100
+Juniper,Z3KK909NMJ,Router,ACX7100
+Juniper,57PG3274TV,Router,ACX7100
+Juniper,B8AV5IUH3L,Router,ACX7100
+Juniper,CDOVYYTUPN,Router,ACX7100
+Juniper,ZXXXHJ5L2D,Router,ACX7100
+Juniper,IX0GBALS0M,Router,ACX7100
+Juniper,MAZGJIEQA6,Router,ACX7100
+Juniper,PEDY1M9VKP,Router,ACX7100
+Juniper,3CYU8MS4NB,Router,ACX7100
+Fortinet,IPVGK0ALGD,Firewall,FortiExtender 201E
+Fortinet,GMLNDEQXLL,Firewall,FortiExtender 201E
+Fortinet,D8DK7LNX5M,Firewall,FortiExtender 201E
+Fortinet,NYKEA4F5Q8,Firewall,FortiExtender 201E
+Fortinet,JFCSMGGK16,Firewall,FortiExtender 201E
+Fortinet,5YLM9REYTI,Firewall,FortiExtender 201E
+Fortinet,PVW5F1ZYZ5,Firewall,FortiExtender 201E
+Cisco,O62W33KPYO,Access Point,Catalyst 9100
+Cisco,MF5XAF6JII,Access Point,Catalyst 9100
+Cisco,S52XCMQOM7,Access Point,Catalyst 9100
+Cisco,CPOMK8OSPD,Access Point,Catalyst 9100
+Cisco,BJ3JKSEI4H,Access Point,Catalyst 9100
+Cisco,Q4XM3Z63PI,Access Point,Catalyst 9100
+Cisco,VVW7G4Z51M,Access Point,Catalyst 9100
+Cisco,ILHU3RVFUQ,Access Point,Catalyst 9100
+Cisco,RKBZU3N6Y2,Access Point,Catalyst 9100
+Cisco,AJ0X6ZONKR,Access Point,Catalyst 9100
+Cisco,8LJZVZE3OW,Access Point,Catalyst 9100
+Cisco,H7PM1I9VJS,Access Point,Catalyst 9100
+Cisco,0YBJ1YYFAA,Access Point,Catalyst 9100
+Cisco,L44Z7I3XD8,Access Point,Catalyst 9100
+Cisco,4EKNVPPM22,Access Point,Catalyst 9100
+Cisco,NKXCXW38SU,Access Point,Catalyst 9100
+Cisco,EHEKN397UX,Switch,Meraki MS355
+Cisco,II88EAAYUQ,Switch,Meraki MS355
+Cisco,POMAD7N7K2,Switch,Meraki MS355
+Cisco,K7GRTGTR2G,Switch,Meraki MS355
+Cisco,TNP7UGBUBO,Switch,Meraki MS355
+Cisco,BLOFZLCQ7X,Switch,Meraki MS355
+Cisco,291WZLSNNA,Switch,Meraki MS355
+Series Cisco,JIREK6UQGH,Router,Catalyst 8000
+Series Cisco,XVNTA993NB,Router,Catalyst 8000
+Series Cisco,UZ3N0LK8CG,Router,Catalyst 8000
+Palo Alto,8CKUT3X14B,Firewall,PA-7000 Series
+Palo Alto,SRTRB11G9Q,Firewall,PA-7000 Series
+Palo Alto,JOKSF4YDLT,Firewall,PA-7000 Series
+Palo Alto,P9X5W7K2W1,Firewall,PA-7000 Series
+Palo Alto,5CUVL5AMNF,Firewall,PA-7000 Series
+Palo Alto,D0NO425VW6,Firewall,PA-7000 Series
+Palo Alto,P40SHKN95L,Firewall,PA-7000 Series
+Palo Alto,5ATKZSEV7X,Firewall,PA-7000 Series
+Palo Alto,YMQSW63ICV,Firewall,PA-7000 Series
+Palo Alto,32C3MO9EFF,Firewall,PA-7000 Series
+Palo Alto,VG2HKBKRGU,Firewall,PA-7000 Series
+Palo Alto,UYUULXFHWK,Firewall,PA-7000 Series
+Palo Alto,MC1NN8HABW,Firewall,PA-7000 Series
+Palo Alto,9J75I69CN1,Firewall,PA-7000 Series
+Palo Alto,P7YCGD2KOG,Firewall,PA-7000 Series
+Palo Alto,QWCD1RG7KY,Firewall,PA-7000 Series
+Palo Alto,103LL4B3U4,Firewall,PA-7000 Series
+Palo Alto,NHP4ILW83K,Firewall,PA-7000 Series
+Palo Alto,YB4PA95H3L,Firewall,PA-7000 Series
+Cisco,V2XH070EH1,Switch,Catalyst 2960-XR
+Cisco,M2HPVLOKK7,Switch,Catalyst 2960-XR
+Cisco,2CFJXEMGJP,Switch,Catalyst 2960-XR
+Cisco,QXNW6RM04G,Switch,Catalyst 2960-XR
+Juniper,R0845ZPBCA,Firewall,SRX5800
+Juniper,9ELKRNELAN,Firewall,SRX5800
+Juniper,YKYN7BM8GM,Firewall,SRX5800
+Juniper,RLGGCX68UU,Firewall,SRX5800
+Juniper,0UDPP85LQ8,Firewall,SRX5800
+Juniper,2M4PP91Q9R,Firewall,SRX5800
+Juniper,MKV5XQT7D5,Firewall,SRX5800
+Juniper,BYFGMK40U4,Firewall,SRX5800
+Juniper,T5N6DZGW7G,Firewall,SRX5800
+Juniper,TQ509SACQN,Firewall,SRX5800
+Juniper,W1BRIUTZ3K,Firewall,SRX300
+Juniper,X2SLUHAH4R,Firewall,SRX300
+Juniper,T6AOPY6ZWC,Firewall,SRX300
+Juniper,O9BCBQFHLS,Firewall,SRX300
+Juniper,BFY1X7M530,Firewall,SRX300
+Juniper,8C0KU93Q5H,Firewall,SRX300
+Juniper,5POGFVNTT9,Firewall,SRX300
+Juniper,6521A5H819,Firewall,SRX300
+Juniper,0X6Y6FY3B2,Firewall,SRX300
+Juniper,JERO72336A,Firewall,SRX300
+Palo Alto,RSELOX5LD9,Firewall,PA-5220
+Palo Alto,O1UWKM333R,Firewall,PA-5220
+Palo Alto,CG8UOU5PKP,Firewall,PA-5220
+Palo Alto,7GTS82IYEF,Firewall,PA-5220
+Palo Alto,6G6ZZBDR6R,Firewall,PA-5220
+Palo Alto,XSJA7SY0CF,Firewall,PA-5220
+Palo Alto,HN4GRHXF44,Firewall,PA-5220
+Palo Alto,7862ST88DX,Firewall,PA-5220
+Palo Alto,ZR6X06O1HQ,Firewall,PA-5220
+Palo Alto,L1AFY61H24,Firewall,PA-3220
+Palo Alto,0GLOBLS61Z,Firewall,PA-3220
+Palo Alto,S1ZOZVSTFO,Firewall,PA-3220
+Palo Alto,0NHLHIO2XE,Firewall,PA-3220
+Palo Alto,IMCA2U6SH0,Firewall,PA-3220
+Palo Alto,O4RYPCEVKX,Firewall,PA-3220
+Palo Alto,BJVBBH6NSR,Firewall,PA-3220
+Palo Alto,QQEVH3WWOW,Firewall,PA-3220
+Palo Alto,ND5Z9044LZ,Firewall,PA-3220
+Palo Alto,MRFGKTGUEL,Firewall,PA-3220
+Palo Alto,E9WS0N3LGI,Firewall,PA-3220
+Palo Alto,OYEPR853C8,Firewall,PA-3220
+Palo Alto,QWITI1RDG2,Firewall,PA-3220
+Palo Alto,I4AYTIMX9T,Firewall,PA-3220
+Palo Alto,K7L5GR7GQW,Firewall,PA-3220
+Palo Alto,DGUA6CYPWO,Firewall,PA-3220
+Palo Alto,F4EZQLFER3,Firewall,PA-3220
+Palo Alto,NEB8EGXH63,Firewall,PA-3220
+Palo Alto,BZGUKIGNX5,Firewall,PA-3220
+Juniper,OP4WNBZ1H8,Firewall,SRX5800
+Juniper,DXJT039E7F,Firewall,SRX5800
+Juniper,VAHR0M0WDB,Firewall,SRX5800
+Juniper,VAMLVMJ9IH,Firewall,SRX5800
+Juniper,KXAT4JV34F,Firewall,SRX5800
+Juniper,NUGOGRQ3AR,Firewall,SRX5800
+Juniper,6C8SJZVWNR,Firewall,SRX5800
+Juniper,UUMY5CUGAT,Firewall,SRX5800
+Juniper,8VXXRQ5GRN,Firewall,SRX5800
+Juniper,CC7NANJ9AX,Firewall,SRX5800
+Juniper,F8FGX1RSMM,Firewall,SRX5800
+Juniper,PIKCFPTDVG,Firewall,SRX5800
+Juniper,LXRXK455U5,Firewall,SRX5800
+Juniper,3Y35KM2KNK,Firewall,SRX5800
+Juniper,ABPLEEQRGI,Firewall,SRX5800
+Juniper,BX8704I21U,Firewall,SRX5800
+Juniper,WP4ODPLXYY,Firewall,SRX5800
+Juniper,XTJMER15PR,Firewall,SRX5800
+Juniper,MKTD7GQ32E,Router,ACX7100
+Juniper,Z9PFMM64UD,Router,ACX7100
+Juniper,XFLONX08LQ,Router,ACX7100
+Juniper,E8CN1UJNET,Router,ACX7100
+Juniper,L6043O6BWI,Router,ACX7100
+Juniper,SK896P15OA,Router,ACX7100
+Juniper,JIN494S9YA,Router,ACX7100
+Juniper,XT87FPTXAO,Router,ACX7100
+Juniper,LP7YL2E77E,Router,ACX7100
+Juniper,9LQ8G3NW3V,Firewall,SRX300
+Juniper,8OG8MA7V8Z,Firewall,SRX300
+Juniper,W7EGP3SMB2,Firewall,SRX300
+Juniper,M9EH5A3GG6,Firewall,SRX300
+Juniper,NTY87FECLH,Firewall,SRX300
+Series Cisco,YDQ6NJN4S0,Switch,Catalyst 9000
+Series Cisco,8HCCD6M05L,Switch,Catalyst 9000
+Series Cisco,GH7UKIQYIS,Switch,Catalyst 9000
+Series Cisco,SQTBMNYYFE,Switch,Catalyst 9000
+Series Cisco,NFLC5G2LZL,Switch,Catalyst 9000
+Series Cisco,980H97RZPJ,Switch,Catalyst 9000
+Series Cisco,EQACQ0BTJS,Switch,Catalyst 9000
+Series Cisco,TK42PJQIF6,Switch,Catalyst 9000
+Series Cisco,NBIZ2PK6BZ,Switch,Catalyst 9000
+Series Cisco,ARNGOOT093,Switch,Catalyst 9000
+Series Cisco,SO49G2LDB6,Switch,Catalyst 9000
+ Palo Alto,USTY267M3Y,Edge Device,Prisma SD-WAN
+ Palo Alto,LG7N2U9KWF,Edge Device,Prisma SD-WAN
+ Palo Alto,N4XVTR3RNH,Edge Device,Prisma SD-WAN
+ Palo Alto,ED5OAT3A7M,Edge Device,Prisma SD-WAN
+Series Cisco,KGKZBFV4I5,Switch,Catalyst 9000
+Series Cisco,XLALHP84S5,Switch,Catalyst 9000
+Series Cisco,VE6BLTRKIC,Switch,Catalyst 9000
+Series Cisco,O125KCMFQY,Switch,Catalyst 9000
+Series Cisco,GGSMPXQT16,Switch,Catalyst 9000
+Series Cisco,27LU5RNDDH,Switch,Catalyst 9000
+Series Cisco,U9XIQFOBDK,Switch,Catalyst 9000
+Series Cisco,752SV6MCDB,Switch,Catalyst 9000
+Cisco,W6XUCN11AJ,Switch,Catalyst 2960-XR
+Cisco,4SSKGR6577,Switch,Catalyst 2960-XR
+Cisco,13Z2IYRYJB,Switch,Catalyst 2960-XR
+Cisco,VQ0IAI27LE,Switch,Catalyst 2960-XR
+Cisco,IQABVODZ9A,Switch,Catalyst 2960-XR
+Cisco,3W7NOX0AKF,Switch,Catalyst 2960-XR
+Cisco,PTPPDZVHPM,Switch,Catalyst 2960-XR
+Cisco,4HVN0KP0RV,Switch,Catalyst 2960-XR
+Cisco,AZMSTQG9CJ,Switch,Catalyst 2960-XR
+Juniper,OK78S543F8,Access Point,Mist AP21
+Juniper,WYTPVN3AA3,Access Point,Mist AP21
+Juniper,F7JOH7MRUK,Access Point,Mist AP21
+Juniper,UKCLFELVI4,Access Point,Mist AP21
+Juniper,Y05BB2J6Y0,Access Point,Mist AP21
+Juniper,00QAWMRCRP,Access Point,Mist AP21
+Juniper,DM3WTXLDTO,Access Point,Mist AP21
+Juniper,RY8GD8JAWS,Access Point,Mist AP21
+Fortinet,91H5UWUGP7,Firewall,FortiExtender 201E
+Fortinet,APEE4F6KF9,Firewall,FortiExtender 201E
+Fortinet,3KFZ4X3AON,Firewall,FortiExtender 201E
+Fortinet,H9XSNJZ1UL,Firewall,FortiExtender 201E
+Fortinet,HRCOESOPB5,Firewall,FortiExtender 201E
+Fortinet,NQ16OL1NGY,Firewall,FortiExtender 201E
+Fortinet,AXCMFYW98H,Firewall,FortiExtender 201E
+Fortinet,LI6J0YNCXV,Firewall,FortiExtender 201E
+Fortinet,AVHNAH0QSU,Firewall,FortiExtender 201E
+Fortinet,VPP0JT52XE,Firewall,FortiExtender 201E
+Fortinet,S19QMWG510,Firewall,FortiExtender 201E
+Fortinet,OVZMLFV1L5,Firewall,FortiExtender 201E
+Fortinet,ZJILFYHWQ4,Firewall,FortiExtender 201E
+ Palo Alto,SOOSONTLS2,Edge Device,Prisma SD-WAN
+ Palo Alto,B0DGWTGVUC,Edge Device,Prisma SD-WAN
+ Palo Alto,JW5BWQUR1J,Edge Device,Prisma SD-WAN
+ Palo Alto,V65BVYMBJP,Edge Device,Prisma SD-WAN
+ Palo Alto,GPO5SJZ0R1,Edge Device,Prisma SD-WAN
+ Palo Alto,I117S28MQW,Edge Device,Prisma SD-WAN
+ Palo Alto,E9DTOWN27M,Edge Device,Prisma SD-WAN
+ Palo Alto,JSA1V2FU1A,Edge Device,Prisma SD-WAN
+ Palo Alto,RD1KDE0VI1,Edge Device,Prisma SD-WAN
+ Palo Alto,0KC8QOTWT6,Edge Device,Prisma SD-WAN
+ Palo Alto,XF4C5Y7791,Edge Device,Prisma SD-WAN
+ Palo Alto,HRNI1GG39M,Edge Device,Prisma SD-WAN
+ Palo Alto,2V3KRO9M1X,Edge Device,Prisma SD-WAN
+ Palo Alto,5H2XE14T3B,Edge Device,Prisma SD-WAN
+ Palo Alto,HYTVC9EDD7,Edge Device,Prisma SD-WAN
+ Palo Alto,AD8WM9OETA,Edge Device,Prisma SD-WAN
+ Palo Alto,YINAB088RU,Edge Device,Prisma SD-WAN
+ Palo Alto,ML818ZRN00,Edge Device,Prisma SD-WAN
+ Palo Alto,KVTMWSXH59,Edge Device,Prisma SD-WAN
+ Palo Alto,8OZ9M1FNPE,Edge Device,Prisma SD-WAN
+ Palo Alto,F6OE34FJID,Edge Device,Prisma SD-WAN
+ Palo Alto,S2QYBLIA33,Edge Device,Prisma SD-WAN
+ Palo Alto,KP41WBIIMV,Edge Device,Prisma SD-WAN
+ Palo Alto,SPV59SLFS1,Edge Device,Prisma SD-WAN
+ Palo Alto,S6K2G5ORJ2,Edge Device,Prisma SD-WAN
+ Palo Alto,MOC63TCYO2,Edge Device,Prisma SD-WAN
+ Palo Alto,454LQW6KYX,Edge Device,Prisma SD-WAN
+Palo Alto,3MWDQYYK3N,Router,PA-220R
+Palo Alto,6TT9W4JO53,Router,PA-220R
+ Palo Alto,XWWTGNI92K,Edge Device,Prisma SD-WAN
+Cisco,RL4Z3Q1UZC,Firewall,ASA 5500-X Series
+Fortinet,Q6UWATFWDP,Load Balancer,FortiADC 3000F
+Fortinet,J54PI0KRTA,Load Balancer,FortiADC 3000F
+Fortinet,Y8XIR1FK4T,Load Balancer,FortiADC 3000F
+Fortinet,6EH9L1IA2L,Load Balancer,FortiADC 3000F
+Fortinet,VE8GU9OIN0,Load Balancer,FortiADC 3000F
+Fortinet,D0THPP5EFE,Load Balancer,FortiADC 3000F
+Fortinet,HFJCZG9U2Z,Load Balancer,FortiADC 3000F
+Fortinet,9NDHM4S5TC,Load Balancer,FortiADC 3000F
+Fortinet,FD8VK1OXFI,Load Balancer,FortiADC 3000F
+Fortinet,MQDTOBQ5SV,Load Balancer,FortiADC 3000F
+Fortinet,0C70VSACET,Load Balancer,FortiADC 3000F
+Fortinet,3TO3V7PVKA,Load Balancer,FortiADC 3000F
+Fortinet,JB5FVOTM4W,Load Balancer,FortiADC 3000F
+Fortinet,E4DXGU541X,Load Balancer,FortiADC 3000F
+Fortinet,TN8GQEVFF0,Load Balancer,FortiADC 3000F
+Fortinet,3Z0C4Q0CI4,Load Balancer,FortiADC 3000F
+Fortinet,BJ3FCAUFJ7,Load Balancer,FortiADC 3000F
+Fortinet,QY65S7N8LD,Load Balancer,FortiADC 3000F
+Fortinet,7UVCYV5KYX,Load Balancer,FortiADC 3000F
+Fortinet,CSCJXUQ77R,Load Balancer,FortiADC 3000F
+Fortinet,19RV7TROS3,Firewall,FortiGate 100F
+Fortinet,F2V4WYSL2V,Firewall,FortiGate 100F
+Fortinet,KCZ2HLKZT5,Firewall,FortiGate 100F
+Fortinet,SP5TAC0W4X,Firewall,FortiGate 100F
+Fortinet,7B6KP9T0H2,Firewall,FortiGate 100F
+Fortinet,5HZOE2TZ7K,Firewall,FortiGate 100F
+Fortinet,THOGWI41HM,Firewall,FortiGate 100F
+Fortinet,XD3W02NUN7,Firewall,FortiGate 100F
+Fortinet,JR2T5721VO,Firewall,FortiGate 100F
+Fortinet,C38WIZCYG9,Firewall,FortiGate 100F
+Fortinet,990LQ8VE1H,Firewall,FortiGate 100F
+Fortinet,687WCZ2GPI,Firewall,FortiGate 100F
+Fortinet,INB04OSJ17,Firewall,FortiGate 100F
+Cisco,ZQLPB3P2IM,Gateway,vEdge 1000
+Cisco,S2MCNZVBTF,Gateway,vEdge 1000
+Cisco,FXDQDZMSS4,Gateway,vEdge 1000
+ Palo Alto,XKJBCYDXOT,Edge Device,Prisma SD-WAN
+ Palo Alto,5SCV4HVSCU,Edge Device,Prisma SD-WAN
+ Palo Alto,BJYO5O4GNR,Edge Device,Prisma SD-WAN
+ Palo Alto,QJ84KYD7S3,Edge Device,Prisma SD-WAN
+ Palo Alto,L29YRR1O3Y,Edge Device,Prisma SD-WAN
+ Palo Alto,54J6DNPRYZ,Edge Device,Prisma SD-WAN
+ Palo Alto,MOQZPN93XR,Edge Device,Prisma SD-WAN
+ Palo Alto,809BL2K8IU,Edge Device,Prisma SD-WAN
+ Palo Alto,1QNAZ7OQB9,Edge Device,Prisma SD-WAN
+ Palo Alto,D2FKOA92SK,Edge Device,Prisma SD-WAN
+ Palo Alto,G9JUG1DPW1,Edge Device,Prisma SD-WAN
+ Palo Alto,SXHL3IZUTC,Edge Device,Prisma SD-WAN
+ Palo Alto,WU3FCN1EXL,Edge Device,Prisma SD-WAN
+ Palo Alto,3RJD17DM5F,Edge Device,Prisma SD-WAN
+ Palo Alto,GMIURGX8AC,Edge Device,Prisma SD-WAN
+ Palo Alto,DQ71ICPAAI,Edge Device,Prisma SD-WAN
+ Palo Alto,055MCDYIGA,Edge Device,Prisma SD-WAN
+ Palo Alto,C8KCP3W1UH,Edge Device,Prisma SD-WAN
+ Palo Alto,J8CMP3457N,Edge Device,Prisma SD-WAN
+ Palo Alto,M8SA56752Z,Edge Device,Prisma SD-WAN
+Juniper,RS4XN28DYS,Access Point,Mist AP43
+Juniper,X46WLR3826,Access Point,Mist AP43
+Juniper,3TBF45TR5M,Access Point,Mist AP43
+Juniper,A5TDSPDAQR,Access Point,Mist AP43
+Juniper,WKBXI38L29,Access Point,Mist AP43
+Juniper,JKXL9NW6OU,Access Point,Mist AP43
+Juniper,ZP8TF8C25G,Access Point,Mist AP43
+Juniper,KUAANBBZ3Z,Access Point,Mist AP43
+Juniper,DGWJEU0LGA,Access Point,Mist AP43
+Juniper,LVQ4GDLG6T,Access Point,Mist AP43
+Juniper,TVCE44L9FK,Access Point,Mist AP43
+Juniper,BVD6IIN4AP,Access Point,Mist AP43
+Juniper,82GRUZJJMI,Access Point,Mist AP43
+Juniper,4LLR7MQ668,Access Point,Mist AP43
+Juniper,RW70DZUEGA,Access Point,Mist AP43
+Juniper,IDDXGO1IES,Access Point,Mist AP43
+Juniper,07OVUUQIZW,Access Point,Mist AP43
+Juniper,BP8PU9GX18,Access Point,Mist AP43
+Juniper,M3G0U0C6VS,Access Point,Mist AP43
+Juniper,CWE0SKM0N6,Firewall,SRX320
+Juniper,5AXIZT44WN,Firewall,SRX320
+Juniper,7B7YCXKS0N,Firewall,SRX320
+Juniper,MRZVC9EDE0,Firewall,SRX320
+Juniper,RRF5VF95EE,Firewall,SRX320
+Juniper,ZDRGLTKZK1,Firewall,SRX320
+Juniper,33Q2QBKTU0,Firewall,SRX320
+Juniper,ZUAE2OPNKC,Firewall,SRX320
+Juniper,LE2SJ0QLJT,Firewall,SRX320
+ Palo Alto,4GTPRPQQJ2,Edge Device,Prisma SD-WAN
+ Palo Alto,TCQURMM76N,Edge Device,Prisma SD-WAN
+Juniper,8FCATE6UAQ,Firewall,SRX320
+Juniper,CKE0RR02HH,Firewall,SRX320
+Juniper,UJ2PB41SZV,Firewall,SRX320
+Juniper,XUPOZZ8FCZ,Firewall,SRX320
+Juniper,ZRZRIK1HW9,Firewall,SRX320
+Juniper,GEY1VCAUL8,Firewall,SRX320
+Juniper,8FETQVRIZ2,Firewall,SRX320
+Juniper,2KW4NRK205,Firewall,SRX320
+Palo Alto,78MV2OFMIH,Router,PA-850
+Palo Alto,7XW9LMGUL1,Router,PA-850
+Palo Alto,1NWG7UDWJX,Router,PA-850
+Palo Alto,Z0LLUQ9XRP,Router,PA-850
+Palo Alto,290YBHZUGU,Router,PA-850
+Palo Alto,VLG5Q01JVR,Router,PA-850
+Cisco,URONISZ419,Switch,Nexus 9500 Series
+Cisco,KIJJNUVJL1,Switch,Nexus 9500 Series
+Cisco,MM4AGHLNOU,Switch,Nexus 9500 Series
+Cisco,XUAGUHCM9F,Switch,Nexus 9500 Series
+Cisco,W7SGHL7ZNO,Switch,Nexus 9500 Series
+Cisco,ZCVFCX13KH,Switch,Nexus 9500 Series
+Cisco,EV5X6FYOVM,Switch,Nexus 9500 Series
+"Cisco Systems, Inc.",FCW2044B0G7,Switch,WS-C2960XR-48FPD-I
+"Cisco Systems, Inc.",FDO2130B17K,Switch,WS-C2960XR-24PS-I
+"Cisco Systems, Inc.",PSZ26361E5G,Switch,C1000-8FP-2G-L
+"Cisco Systems, Inc.",FOC26353SFE,Switch,Inc. C9200L-48P-4G-A
+"Cisco Systems, Inc.",JAE26271R41,Switch,FINISAR C9200L-24P-4G
+"Cisco Systems, Inc.",JAE26271QDZ,Switch,FINISAR C9200L-24P-4G
+"Cisco Systems, Inc.",JAE26271QHC,Switch,FINISAR C9200L-24P-4G
+"Cisco Systems, Inc.",FCW2411A19W,Switch,C1000-24FP-4G-L
+"Cisco Systems, Inc.",FCW2009A72N,Switch,WS-C2960X-24PS-L
+"Cisco Systems, Inc.",PSZ25311A64,Switch,C1000-8FP-2G-L

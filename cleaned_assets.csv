@@ -1,0 +1,92 @@
+Unnamed: 0,Name,MAC Address,IP Address,Default Gateway,Domain,Operating System,DNS Domain,Standardized Operating System
+0,budget-so-913,cd:7b:6b:d4:07:55,172.16.0.189,172.16.0.1,enterprise.net,Microsoft Windows 10,"9.9.9.9, 149.112.112.112",Windows 10
+1,rather-close-419,85:0b:fa:8b:c8:e4,10.0.0.52,10.0.0.1,company.local,Linux OS,"1.1.1.1, 1.0.0.1",Linux
+2,rather-ulose-419,85:0b:fa:8b:c8:e4,10.0.0.52,10.0.0.1,company.local,Linux OS,"1.1.1.1, 1.0.0.1",Linux
+3,rather-close-41g,85:0b:fa:8b:c8:e4,10.0.0.52,10.0.0.1,company.local,Linux OS,"1.1.1.1, 1.0.0.1",Linux
+4,visit-moment-704,02:29:50:6c:51:77,,10.10.10.1,company.local,Win 6.0,"64.6.64.6, 64.6.65.6",Windows 6.0
+5,visi4-moment-704,02:29:50:6c:51:77,,10.10.10.1,company.local,Win 6.0,"64.6.64.6, 64.6.65.6",Windows 6.0
+6,visit-momemt-704,02:29:50:6c:51:77,,10.10.10.1,company.local,Win 6.0,"64.6.64.6, 64.6.65.6",Windows 6.0
+7,single-edge-908,af:a1:2a:b3:a6:05,,192.168.0.1,enterprise.net,Win 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+8,single-east-256,c1:a1:cb:26:96:b0,172.30.0.90,172.30.0.1,internal.org,Microsoft 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+9,possible-surface-559,75:84:7d:4a:22:9c,10.10.10.57,10.10.10.1,corp.local,Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+10,pos5ible-zurface-559,75:84:7d:4a:22:9c,10.10.10.57,10.10.10.1,corp.local,Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+11,possible-surfaoe-5y9,75:84:7d:4a:22:9c,10.10.10.57,10.10.10.1,corp.local,Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+12,fund-hotel-817,35:91:64:9b:2f:29,192.168.0.166,192.168.0.1,corp.local,Windows 11,"1.1.1.1, 1.0.0.1",Windows 11
+13,furd-hotel-817,35:91:64:9b:2f:29,192.168.0.166,192.168.0.1,corp.local,Windows 11,"1.1.1.1, 1.0.0.1",Windows 11
+14,single-mention-363,76:42:7a:5c:1e:2a,,192.168.0.1,internal.org,udhcp-1.24.1,"8.8.8.8, 8.8.4.4",DHCP Client 1.24.1
+15,some-gas-799,05:ec:80:55:ef:1e,10.0.0.40,10.0.0.1,example.com,Windows 5.0,"9.9.9.9, 149.112.112.112",Windows 5.0
+16,some-gas-7g9,05:ec:80:55:ef:1e,10.0.0.40,10.0.0.1,example.com,Windows 5.0,"9.9.9.9, 149.112.112.112",Windows 5.0
+17,some-gas-t99,05:ec:80:55:ef:1e,10.0.0.40,10.0.0.1,example.com,Windows 5.0,"9.9.9.9, 149.112.112.112",Windows 5.0
+18,run-believe-497,,172.30.0.168,172.30.0.1,corp.local,Microsoft Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+19,president-the-416,d5:d8:41:3b:24:fa,192.168.0.226,192.168.0.1,,Windows 5.0,"64.6.64.6, 64.6.65.6",Windows 5.0
+22,the-traditional-36,,172.30.0.239,172.30.0.1,enterprise.net,dhcp-client,"8.8.8.8, 8.8.4.4",DHCP Client
+23,the-traditional_36,,172.30.0.239,172.30.0.1,enterprise.net,dhcp-client,"8.8.8.8, 8.8.4.4",DHCP Client
+24,senior-the-172,b3:6a:13:51:18:65,192.168.0.61,192.168.0.1,company.local,MSFT Windows 10,"8.8.8.8, 8.8.4.4",Windows 10
+25,help-point-513,3b:c1:ca:53:9b:4f,172.30.0.122,172.30.0.1,,Microsoft Windows 10,"9.9.9.9, 149.112.112.112",Windows 10
+26,occur-feeling-901,df:b0:70:26:e4:8a,172.30.0.155,172.30.0.1,corp.local,dhcp-client,"8.8.8.8, 8.8.4.4",DHCP Client
+27,budget-moment-122,a5:f1:a6:af:28:a9,172.16.0.141,172.16.0.1,internal.org,Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+28,budget-momen4-122,a5:f1:a6:af:28:a9,172.16.0.141,172.16.0.1,internal.org,Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+29,budget-monnent-122,a5:f1:a6:af:28:a9,172.16.0.141,172.16.0.1,internal.org,Windows 5.0,"8.8.8.8, 8.8.4.4",Windows 5.0
+30,agency-not-510,fa:93:31:d5:76:98,172.16.0.30,172.16.0.1,enterprise.net,Win 10,"64.6.64.6, 64.6.65.6",Windows 10
+31,WS-IT029,BC:B6:C4:9D:53:0C,,,,,,
+32,WS-IT558,35:EC:9D:49:E0:DA,,,,,,
+33,LT-IT304,45:FD:C9:3B:4A:13,,,,,,
+34,WS-IT035,2D:3A:96:FE:D5:25,,,,,,
+35,LT-IT233,75:9B:5C:2A:E0:EB,,,,,,
+36,LT-IT281,60:11:51:1B:5D:FD,,,,Microsoft Windows 11 Enterprise,,Windows 11
+37,WS-IT592,71:53:7B:16:F6:33,,,,Microsoft Windows 11 Enterprise,,Windows 11
+38,WS-IT192,CD:F1:AB:0F:D0:EE,,,,Microsoft Windows 10 Pro,,Windows 10
+39,TB-IT45,99:7A:11:FC:B6:27,,,,Microsoft Windows 11 Enterprise,,Windows 11
+40,type-surface-767,1b:dc:98:6f:81:ce,172.30.0.162,172.30.0.1,corp.local,udhcp-1.24.1,"1.1.1.1, 1.0.0.1",DHCP Client 1.24.1
+41,occur-article-467,b2:0d:f0:d2:95:d4,10.0.0.184,10.0.0.1,company.local,,"9.9.9.9, 149.112.112.112",
+42,to-edge-878,52:a1:7e:d5:6b:2b,10.10.10.113,10.10.10.1,enterprise.net,udhcp,"208.67.222.222, 208.67.220.220",DHCP Client
+43,woman-bank-456,26:63:e2:31:ff:45,10.10.10.110,10.10.10.1,example.com,,"208.67.222.222, 208.67.220.220",
+44,writer-gas-415,ba:16:0b:4e:e7:2b,192.168.0.12,192.168.0.1,example.com,MS Win 11,"8.8.8.8, 8.8.4.4",Windows 11
+46,uuriter-gas-415,ba:16:0b:4e:e7:2b,192.168.0.12,192.168.0.1,example.com,MS Win 11,"8.8.8.8, 8.8.4.4",Windows 11
+47,my-someone-546,ee:a6:25:b5:de:7f,10.10.10.199,10.10.10.1,company.local,Android Device,"1.1.1.1, 1.0.0.1",Android
+48,my someone-546,ee:a6:25:b5:de:7f,10.10.10.199,10.10.10.1,company.local,Android Device,"1.1.1.1, 1.0.0.1",Android
+49,agent-develop-854,7a:2e:ea:b5:59:9e,10.0.0.54,10.0.0.1,internal.org,MS Win 10,"8.8.8.8, 8.8.4.4",Windows 10
+50,agent-d3velop-854,7a:2e:ea:b5:59:9e,10.0.0.54,10.0.0.1,internal.org,MS Win 10,"8.8.8.8, 8.8.4.4",Windows 10
+51,agent-develop-B54,7a:2e:ea:b5:59:9e,10.0.0.54,10.0.0.1,internal.org,MS Win 10,"8.8.8.8, 8.8.4.4",Windows 10
+52,visit-business-705,52:00:b9:41:3d:db,10.10.10.120,10.10.10.1,enterprise.net,Linux,"64.6.64.6, 64.6.65.6",Linux
+53,save-push-275,44:53:75:96:fc:f3,10.10.10.145,10.10.10.1,example.com,MS Win 11,"64.6.64.6, 64.6.65.6",Windows 11
+54,same-beat-814,97:e3:9f:d9:60:2e,192.168.0.229,192.168.0.1,corp.local,Microsoft Windows 11,"64.6.64.6, 64.6.65.6",Windows 11
+55,same-couple-504,cb:6d:01:b7:d9:33,10.0.0.94,10.0.0.1,corp.local,Linux-dhcp,"208.67.222.222, 208.67.220.220",Linux
+56,here-business-219,,,,enterprise.net,Android Device,"208.67.222.222, 208.67.220.220",Android
+57,according-surface-198,f0:b9:c1:58:1f:e6,172.16.0.207,172.16.0.1,corp.local,Microsoft 6.0,"208.67.222.222, 208.67.220.220",Windows 6.0
+59,m0nth-traditional-252,4a:e5:3d:1a:77:a5,10.0.0.109,10.0.0.1,company.local,DHCP-Client,"8.8.8.8, 8.8.4.4",DHCP Client
+60,responsibility-so-625,98:24:92:db:3f:ac,10.0.0.247,10.0.0.1,internal.org,dhcp-client,"8.8.8.8, 8.8.4.4",DHCP Client
+61,choice-doctor-384,11:fe:2a:d6:b1:7f,10.10.10.81,10.10.10.1,company.local,udhcp-1.24.1,"1.1.1.1, 1.0.0.1",DHCP Client 1.24.1
+62,choioe-doctor-384,11:fe:2a:d6:b1:7f,10.10.10.81,10.10.10.1,company.local,udhcp-1.24.1,"1.1.1.1, 1.0.0.1",DHCP Client 1.24.1
+63,create-push-826,db:20:30:dd:1c:0a,,172.30.0.1,corp.local,udhcp Client,"1.1.1.1, 1.0.0.1",DHCP Client
+64,cre4te-push-826,db:20:30:dd:1c:0a,,172.30.0.1,corp.local,udhcp Client,"1.1.1.1, 1.0.0.1",DHCP Client
+65,article-so-939,76:fb:17:47:07:58,,172.30.0.1,enterprise.net,Windows 6.0,"1.1.1.1, 1.0.0.1",Windows 6.0
+66,watch-money-503,eb:6c:70:36:5c:c5,192.168.0.216,192.168.0.1,,dhcpcd,"9.9.9.9, 149.112.112.112",DHCP Client
+67,create-gas-489,f2:ac:f6:d6:98:d6,10.0.0.232,10.0.0.1,enterprise.net,Android OS,,Android
+68,save-moment-731,78:c4:63:e4:1b:dc,192.168.0.164,192.168.0.1,example.com,Windows 11,"64.6.64.6, 64.6.65.6",Windows 11
+69,save-mom3nt-731,78:c4:63:e4:1b:dc,192.168.0.164,192.168.0.1,example.com,Windows 11,"64.6.64.6, 64.6.65.6",Windows 11
+70,save-momemt-731,78:c4:63:e4:1b:dc,192.168.0.164,192.168.0.1,example.com,Windows 11,"64.6.64.6, 64.6.65.6",Windows 11
+71,responsibility-TV-352,55:e2:60:f1:52:d5,10.10.10.141,10.10.10.1,example.com,,,
+73,agency-century-569,87:7a:bd:39:da:d4,172.16.0.103,172.16.0.1,corp.local,macOS,"9.9.9.9, 149.112.112.112",macOS
+74,agenoy-century-569,87:7a:bd:39:da:d4,172.16.0.103,172.16.0.1,corp.local,macOS,"9.9.9.9, 149.112.112.112",macOS
+75,particularly-money-976,95:49:9a:80:82:16,,10.0.0.1,example.com,Android Device,"8.8.8.8, 8.8.4.4",Android
+76,though-entire-349,08:d8:4d:df:27:55,172.16.0.121,172.16.0.1,enterprise.net,Win 10,"9.9.9.9, 149.112.112.112",Windows 10
+77,thou9h-entire-349,08:d8:4d:df:27:55,172.16.0.121,172.16.0.1,enterprise.net,Win 10,"9.9.9.9, 149.112.112.112",Windows 10
+79,financial-citizen-908,ab:96:6c:06:14:d7,10.0.0.102,10.0.0.1,internal.org,Linux OS,"1.1.1.1, 1.0.0.1",Linux
+80,create-beat-890,cd:47:4a:70:95:49,172.30.0.136,172.30.0.1,internal.org,MSFT Windows 11,"9.9.9.9, 149.112.112.112",Windows 11
+81,create-beat-B90,cd:47:4a:70:95:49,172.30.0.136,172.30.0.1,internal.org,MSFT Windows 11,"9.9.9.9, 149.112.112.112",Windows 11
+82,create-8eat-890,cd:47:4a:70:95:49,172.30.0.136,172.30.0.1,internal.org,MSFT Windows 11,"9.9.9.9, 149.112.112.112",Windows 11
+83,responsibility-put-513,58:22:94:26:f8:2a,,172.16.0.1,,udhcp-client,"208.67.222.222, 208.67.220.220",DHCP Client
+85,standard-wife-653,61:8a:9a:73:2c:d0,192.168.0.105,192.168.0.1,company.local,,"8.8.8.8, 8.8.4.4",
+86,station-series-383,e1:79:01:9f:a7:37,172.16.0.97,172.16.0.1,example.com,Windows 11,"9.9.9.9, 149.112.112.112",Windows 11
+87,station-series-E83,e1:79:01:9f:a7:37,172.16.0.97,172.16.0.1,example.com,Windows 11,"9.9.9.9, 149.112.112.112",Windows 11
+89,order-often-301,42:7a:5c:1e:2a:80,172.30.0.140,172.30.0.1,enterprise.net,MSFT Windows 11,"9.9.9.9, 149.112.112.112",Windows 11
+90,us-boy-907,2d:84:2c:28:47:6b,192.168.0.175,192.168.0.1,internal.org,Windows 5.0,"64.6.64.6, 64.6.65.6",Windows 5.0
+91,run-kitchen-851,df:27:55:b9:23:f3,172.16.0.114,172.16.0.1,enterprise.net,Microsoft Windows 5.0,"9.9.9.9, 149.112.112.112",Windows 5.0
+92,science-nor-830,f6:f7:63:ea:fc:b7,192.168.0.43,192.168.0.1,company.local,udhcp,"208.67.222.222, 208.67.220.220",DHCP Client
+93,side-pass-883,f1:a1:68:f4:e5:90,10.10.10.226,10.10.10.1,corp.local,Win 5.0,"64.6.64.6, 64.6.65.6",Windows 5.0
+95,side-pass-B83,f1:a1:68:f4:e5:90,10.10.10.226,10.10.10.1,corp.local,Win 5.0,"64.6.64.6, 64.6.65.6",Windows 5.0
+96,possible-TV-782,91:cf:dc:35:00:38,10.0.0.186,10.0.0.1,internal.org,iOS Device,"208.67.222.222, 208.67.220.220",iOS
+97,senior-series-706,38:b0:ff:fa:da:0a,172.30.0.135,172.30.0.1,corp.local,Win 10,"1.1.1.1, 1.0.0.1",Windows 10
+98,drug-safe-262,e4:76:fb:17:47:07,172.16.0.140,172.16.0.1,internal.org,Linux OS,"208.67.222.222, 208.67.220.220",Linux
+99,rather-prove-475,fb:c6:e6:c4:fa:6c,,172.16.0.1,corp.local,MSFT 5.0,"208.67.222.222, 208.67.220.220",Windows 5.0

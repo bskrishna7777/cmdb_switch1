@@ -1,0 +1,2 @@
+Name,Operating System,MAC Address,IP Address,Default Gateway,Lease start date,Domain,DNS Domain,Range,Due
+writen-gas-415,Windows Server 2022 Standard,ba:16:0b:4e:e7:2b,192.168.0.12,192.168.0.1,20-04-2025 14:03,example.com,"8.8.8.8, 8.8.4.4",255.255.255.0,20-05-2025 14:03

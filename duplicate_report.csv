@@ -1,0 +1,11 @@
+index_1,index_2,pid_1,pid_2,levenshtein,cosine
+19,20,president-the-416,pre5ident-the-416,0,1.0000000000000007
+19,21,president-the-416,president-the-41b,1,0.8586557982260813
+20,21,pre5ident-the-416,president-the-41b,1,0.8586557982260813
+44,45,writer-gas-415,writer-ga5-415,0,1.0000000000000007
+58,59,month-traditional-252,m0nth-traditional-252,0,1.0
+71,72,responsibility-TV-352,nesp0nsibility-TV-352,1,0.8901087250340664
+76,78,though-entire-349,though-entlre-349,0,1.0000000000000007
+83,84,responsibility-put-513,resp0nsibiiity-put-513,0,1.0000000000000002
+86,88,station-series-383,stat1on-series-383,0,1.0000000000000007
+93,94,side-pass-883,5ide-pass-883,0,1.0000000000000002
